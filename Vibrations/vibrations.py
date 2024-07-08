@@ -1397,5 +1397,4 @@ T_label = ttk.Label(root)
 
 
 # Запуск главного цикла обработки событий
-print('hi')
 root.mainloop()
