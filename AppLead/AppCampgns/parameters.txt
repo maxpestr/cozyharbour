@@ -1,0 +1,17 @@
+INCLUDE_IN_SET_RATE_CONSIDER = 1
+
+zip_length = 3
+countAggreg_rec = 7
+successRate_rec = 0.25
+countAggreg_not_rec = 15
+successRate_not_rec = 0.1
+
+threshold_Aver_campaign_competing = 1.5
+threshold_for_coeff_conv_campaign_metric = 0.9
+
+countAggregCompApp_rec = 7
+successRateCompApp_rec = 0.25
+countAggregCompApp_not_rec = 15
+successRateCompApp_not_rec = 0.1
+
+duplicate_agreg_campaign_drop = 1
