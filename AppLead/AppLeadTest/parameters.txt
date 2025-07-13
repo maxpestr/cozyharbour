@@ -1,0 +1,14 @@
+zip_length = 3
+countAggreg_rec = 7
+successRate_rec = 0.25
+countAggreg_not_rec = 15
+successRate_not_rec = 0.1
+
+zipSub_length = 3
+countAggregSub_rec = 7
+successRateSub_rec = 0.25
+countAggregSub_not_rec = 15
+successRateSub_not_rec = 0.1
+
+duplicate_agreg_drop = 1
+partition_index = 111184
