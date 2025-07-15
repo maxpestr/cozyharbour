@@ -1,0 +1,3 @@
+Файлы test_generation_(APP или LEADS) по хронологически упоряоченному Excel-файлу готовят файлы train.xlsx и test.xlsx 
+с учетом параметров, указанных в parameters.txt; далее они подлежат обработке программами testingAPPS и testingLEADS 
+соответственно.
