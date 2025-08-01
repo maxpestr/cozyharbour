@@ -1,0 +1,20 @@
+APPS_UPD_FILTERING3.py :
+Фильтрует входной Excel-файл по следущему свойству: 
+CAMPAIGN_CURRENT_TYPE - УКАЗАН как 'Appointments' или 'Leads' И
+УКАЗАН АГРЕГАТ (['ZIP_CODE', 'SERVICE', 'TRAFFIC_SOURCE'])
+Входные и выходные имена файлов указываются пользователем.
+
+APPS_UPD_FILTERING_INCLUDED.py :
+Фильтрует входной Excel-файл по следущему свойству: 
+CAMPAIGN_CURRENT_TYPE - УКАЗАН как 'Appointments' или 'Leads' И
+УКАЗАН АГРЕГАТ (['ZIP_CODE', 'SERVICE', 'TRAFFIC_SOURCE'])
+И 'INCLUDE_IN_SET_RATE' == True
+Входные и выходные имена файлов указываются пользователем.
+
+APPS_UPD_FILTERING_SUBMITTED.py :
+Фильтрует входной Excel-файл по следущему свойству: 
+CAMPAIGN_CURRENT_TYPE - УКАЗАН как 'Appointments' или 'Leads' И
+УКАЗАН АГРЕГАТ (['ZIP_CODE', 'SERVICE', 'TRAFFIC_SOURCE'])
+И 'IS_SUBMITTED' == True
+Входные и выходные имена файлов указываются пользователем.
+
