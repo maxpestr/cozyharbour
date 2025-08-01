@@ -1,0 +1,2223 @@
+boundary_points_number= 61
+bpn^-0.5 = 0.12803687993289598
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.01314534877229
+farthest_term **-1.0 = 0.13364008752598447
+pre_tf+ = 296.37332931624223
+pre_tf- = 0
+self.tf = 22564.29457556765
+__
+boundary_points_number= 61
+bpn^-0.5 = 0.12803687993289598
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.01314534877229
+farthest_term **-1.0 = 0.13364008752598447
+pre_tf+ = 296.37332931624223
+pre_tf- = 0
+self.tf = 22564.29457556765
+__
+boundary_points_number= 61
+bpn^-0.5 = 0.12803687993289598
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.01314534877229
+farthest_term **-1.0 = 0.13364008752598447
+pre_tf+ = 296.37332931624223
+pre_tf- = 0
+self.tf = 22564.29457556765
+__
+boundary_points_number= 73
+bpn^-0.5 = 0.11704114719613057
+mult.term **0.0 = 1.0
+mean_near **1.0 = 11.778321945944219
+farthest_term **-1.0 = 0.12661181884409675
+pre_tf+ = 303.3941707853485
+pre_tf- = 0
+self.tf = 16066.108784055543
+__
+boundary_points_number= 69
+bpn^-0.5 = 0.1203858530857692
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.897697662146102
+farthest_term **-1.0 = 0.11062479461727807
+pre_tf+ = 296.1491544931263
+pre_tf- = 0
+self.tf = 10392.656443892407
+__
+boundary_points_number= 69
+bpn^-0.5 = 0.1203858530857692
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.897697662146102
+farthest_term **-1.0 = 0.11062479461727807
+pre_tf+ = 296.1491544931263
+pre_tf- = 0
+self.tf = 10392.656443892407
+__
+boundary_points_number= 69
+bpn^-0.5 = 0.1203858530857692
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.897697662146102
+farthest_term **0 = 1.0
+pre_tf+ = 296.1491544931263
+pre_tf- = 0
+self.tf = 93945.09142229147
+__
+boundary_points_number= 36
+bpn^-0.5 = 0.16666666666666666
+mult.term **0.0 = 1.0
+mean_near **1.0 = 11.456615190307451
+farthest_term **0 = 1.0
+pre_tf+ = 204.46735843985215
+pre_tf- = 0
+self.tf = 79827.59554091285
+__
+boundary_points_number= 52
+bpn^-0.5 = 0.1386750490563073
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.260363417947655
+farthest_term **0 = 1.0
+pre_tf+ = 198.0413233138622
+pre_tf- = 0
+self.tf = 55804.948415893785
+__
+boundary_points_number= 52
+bpn^-0.5 = 0.1386750490563073
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.260363417947655
+farthest_term **0 = 1.0
+pre_tf+ = 198.0413233138622
+pre_tf- = 0
+self.tf = 55804.948415893785
+__
+boundary_points_number= 53
+bpn^-0.5 = 0.13736056394868904
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.528329051650665
+farthest_term **0 = 1.0
+pre_tf+ = 189.7896272325383
+pre_tf- = 0
+self.tf = 27352.743667816132
+__
+boundary_points_number= 53
+bpn^-0.5 = 0.13736056394868904
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.528329051650665
+farthest_term **0 = 1.0
+pre_tf+ = 189.7896272325383
+pre_tf- = 0
+self.tf = 27352.743667816132
+__
+boundary_points_number= 36
+bpn^-0.5 = 0.16666666666666666
+mult.term **0.0 = 1.0
+mean_near **1.0 = 11.456615190307451
+farthest_term **0 = 1.0
+pre_tf+ = 204.46735843985215
+pre_tf- = 0
+self.tf = 79827.59554091285
+__
+boundary_points_number= 69
+bpn^-0.5 = 0.1203858530857692
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.897697662146102
+farthest_term **-1.0 = 0.11062479461727807
+pre_tf+ = 296.1491544931263
+pre_tf- = 0
+self.tf = 10392.656443892407
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **-1.0 = 0.11214801263351089
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **-1.0 = 0.11214801263351089
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0754324899309013
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 178
+bpn^-0.5 = 0.07495316889958614
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0538444980915243
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 170
+bpn^-0.5 = 0.07669649888473705
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.1878680935561086
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 178
+bpn^-0.5 = 0.07495316889958614
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.078110282320434
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 153
+bpn^-0.5 = 0.08084520834544433
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.529011463855158
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0413963370682398
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.058109586466272
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.057211072066861
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.094901546468451
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 178
+bpn^-0.5 = 0.07495316889958614
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0902255691010474
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 160
+bpn^-0.5 = 0.07905694150420949
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.3445500069650804
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 178
+bpn^-0.5 = 0.07495316889958614
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0538444980915243
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0413963370682398
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 181
+bpn^-0.5 = 0.07432941462471664
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0843253287289034
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.060364212177274
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0754324899309013
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.059556907888905
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 176
+bpn^-0.5 = 0.07537783614444091
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.1072402949279447
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.060441045144608
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0581900111816163
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.058270433781995
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 179
+bpn^-0.5 = 0.07474350927519359
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0913576634603324
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.060364212177274
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 178
+bpn^-0.5 = 0.07495316889958614
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.078110282320434
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 177
+bpn^-0.5 = 0.07516460280028288
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.179780676359693
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.094901546468451
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.058270433781995
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0516982934698422
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0516982934698422
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.073832618579056
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 170
+bpn^-0.5 = 0.07669649888473705
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.1878680935561086
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.06702385488637
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 178
+bpn^-0.5 = 0.07495316889958614
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0902255691010474
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.073832618579056
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0902786204256207
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.060441045144608
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0581900111816163
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0765637646039736
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0765637646039736
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 181
+bpn^-0.5 = 0.07432941462471664
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0844865711332967
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0701497505743855
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0605214085936274
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0961149968665427
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 160
+bpn^-0.5 = 0.07905694150420949
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.3445500069650804
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0744726670233025
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0744726670233025
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.057211072066861
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0701497505743855
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 177
+bpn^-0.5 = 0.07516460280028288
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.179780676359693
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0961149968665427
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 153
+bpn^-0.5 = 0.08084520834544433
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.529011463855158
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 179
+bpn^-0.5 = 0.07474350927519359
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0913576634603324
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0605214085936274
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 181
+bpn^-0.5 = 0.07432941462471664
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0844865711332967
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.059556907888905
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0902786204256207
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.058109586466272
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.082677485574433
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.082677485574433
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 181
+bpn^-0.5 = 0.07432941462471664
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0843253287289034
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.06702385488637
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 176
+bpn^-0.5 = 0.07537783614444091
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.1072402949279447
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **-1.0 = 0.11214801263351089
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.057211072066861
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.058109586466272
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0754324899309013
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 177
+bpn^-0.5 = 0.07516460280028288
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.179780676359693
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0961149968665427
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 178
+bpn^-0.5 = 0.07495316889958614
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0538444980915243
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 179
+bpn^-0.5 = 0.07474350927519359
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0913576634603324
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 153
+bpn^-0.5 = 0.08084520834544433
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.529011463855158
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0413963370682398
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 178
+bpn^-0.5 = 0.07495316889958614
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0902255691010474
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 178
+bpn^-0.5 = 0.07495316889958614
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0538444980915243
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0413963370682398
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 178
+bpn^-0.5 = 0.07495316889958614
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.499732578433524
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 181
+bpn^-0.5 = 0.07432941462471664
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0843253287289034
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.060364212177274
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0754324899309013
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.057211072066861
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.059556907888905
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 176
+bpn^-0.5 = 0.07537783614444091
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.1072402949279447
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.060441045144608
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 160
+bpn^-0.5 = 0.07905694150420949
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.3445500069650804
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 170
+bpn^-0.5 = 0.07669649888473705
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.3925773052703807
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0581900111816163
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.058270433781995
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.058109586466272
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.094901546468451
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.060364212177274
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.058270433781995
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0516982934698422
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.073832618579056
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0516982934698422
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.06702385488637
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.073832618579056
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0902786204256207
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 178
+bpn^-0.5 = 0.07495316889958614
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0902255691010474
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.060441045144608
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0581900111816163
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 170
+bpn^-0.5 = 0.07669649888473705
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.3925773052703807
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 177
+bpn^-0.5 = 0.07516460280028288
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.179780676359693
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.094901546468451
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0765637646039736
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0765637646039736
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 178
+bpn^-0.5 = 0.07495316889958614
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.499732578433524
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 181
+bpn^-0.5 = 0.07432941462471664
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0844865711332967
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0701497505743855
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0605214085936274
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0744726670233025
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0744726670233025
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 179
+bpn^-0.5 = 0.07474350927519359
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0913576634603324
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0701497505743855
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0961149968665427
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 153
+bpn^-0.5 = 0.08084520834544433
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.529011463855158
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0605214085936274
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 181
+bpn^-0.5 = 0.07432941462471664
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0844865711332967
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.059556907888905
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0902786204256207
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.082677485574433
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.082677485574433
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 181
+bpn^-0.5 = 0.07432941462471664
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0843253287289034
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 160
+bpn^-0.5 = 0.07905694150420949
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.3445500069650804
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.06702385488637
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 176
+bpn^-0.5 = 0.07537783614444091
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.1072402949279447
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 183
+bpn^-0.5 = 0.07392212709545729
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0569834182866464
+farthest_term **-1.0 = 0.10869221851181948
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.057211072066861
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 181
+bpn^-0.5 = 0.07432941462471664
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0764949278982674
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0757598335321568
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 176
+bpn^-0.5 = 0.07537783614444091
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.1806911173955568
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.090535581662619
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 177
+bpn^-0.5 = 0.07516460280028288
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.054061081293903
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 178
+bpn^-0.5 = 0.07495316889958614
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0917798645982995
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 152
+bpn^-0.5 = 0.08111071056538127
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.537298452973577
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 177
+bpn^-0.5 = 0.07516460280028288
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0906439146044895
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.057211072066861
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 177
+bpn^-0.5 = 0.07516460280028288
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.054061081293903
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.08470468285743
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 177
+bpn^-0.5 = 0.07516460280028288
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.506730550503722
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 181
+bpn^-0.5 = 0.07432941462471664
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0606115374563627
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0757598335321568
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0597985032191803
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.057211072066861
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 175
+bpn^-0.5 = 0.07559289460184544
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.10775805070552
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0606874274935674
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 157
+bpn^-0.5 = 0.07980868844676221
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.3276893882159904
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 169
+bpn^-0.5 = 0.07692307692307693
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.394685119302661
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0584242029719864
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0585050612570956
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0947568238626446
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 181
+bpn^-0.5 = 0.07432941462471664
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0764949278982674
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.057211072066861
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 179
+bpn^-0.5 = 0.07474350927519359
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0953406925662983
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 181
+bpn^-0.5 = 0.07432941462471664
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0606115374563627
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.057211072066861
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0585050612570956
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 179
+bpn^-0.5 = 0.07474350927519359
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0519006140722764
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 179
+bpn^-0.5 = 0.07474350927519359
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0519006140722764
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 181
+bpn^-0.5 = 0.07432941462471664
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.090688007374193
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0584242029719864
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 178
+bpn^-0.5 = 0.07495316889958614
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0917798645982995
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 177
+bpn^-0.5 = 0.07516460280028288
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0906439146044895
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.057211072066861
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0606874274935674
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 176
+bpn^-0.5 = 0.07537783614444091
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.1806911173955568
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 169
+bpn^-0.5 = 0.07692307692307693
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.394685119302661
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 179
+bpn^-0.5 = 0.07474350927519359
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0953406925662983
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0947568238626446
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 181
+bpn^-0.5 = 0.07432941462471664
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0768990439306316
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 181
+bpn^-0.5 = 0.07432941462471664
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0768990439306316
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 177
+bpn^-0.5 = 0.07516460280028288
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.506730550503722
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.084866801090861
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.070448609320895
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.060768225989618
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.057211072066861
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0747948387891606
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0747948387891606
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.070448609320895
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.090535581662619
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 152
+bpn^-0.5 = 0.08111071056538127
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.537298452973577
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.060768225989618
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.084866801090861
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0597985032191803
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 181
+bpn^-0.5 = 0.07432941462471664
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.090688007374193
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 179
+bpn^-0.5 = 0.07474350927519359
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0830499555978355
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 179
+bpn^-0.5 = 0.07474350927519359
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.0830499555978355
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 180
+bpn^-0.5 = 0.07453559924999299
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.08470468285743
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 157
+bpn^-0.5 = 0.07980868844676221
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.3276893882159904
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 175
+bpn^-0.5 = 0.07559289460184544
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.10775805070552
+farthest_term **0 = 1.0
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 182
+bpn^-0.5 = 0.07412493166611012
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.057211072066861
+farthest_term **-1.0 = 0.10863162875698655
+pre_tf+ = 0.0
+pre_tf- = 0
+self.tf = 0.0
+__
+boundary_points_number= 32
+bpn^-0.5 = 0.1767766952966369
+mult.term **0.0 = 1.0
+mean_near **1.0 = 18.941529371672242
+farthest_term **-1.0 = 0.12253370366677555
+pre_tf+ = 203.57103458316593
+pre_tf- = 0
+self.tf = 17003.079318239452
+__
+boundary_points_number= 55
+bpn^-0.5 = 0.13483997249264842
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.92000639660246
+farthest_term **-1.0 = 0.10976310522061547
+pre_tf+ = 202.18670526304456
+pre_tf- = 0
+self.tf = 6606.981996138935
+__
+boundary_points_number= 55
+bpn^-0.5 = 0.13483997249264842
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.92000639660246
+farthest_term **-1.0 = 0.10976310522061547
+pre_tf+ = 202.18670526304456
+pre_tf- = 0
+self.tf = 6606.981996138935
+__
+boundary_points_number= 55
+bpn^-0.5 = 0.13483997249264842
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.92000639660246
+farthest_term **0 = 1.0
+pre_tf+ = 202.18670526304456
+pre_tf- = 0
+self.tf = 60193.103892782594
+__
+boundary_points_number= 16
+bpn^-0.5 = 0.25
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.8135985055163997
+farthest_term **0 = 1.0
+pre_tf+ = 4.892782265511219
+pre_tf- = 0
+self.tf = 22.823737120798576
+__
+boundary_points_number= 51
+bpn^-0.5 = 0.14002800840280097
+mult.term **0.0 = 1.0
+mean_near **1.0 = 11.354080985322613
+farthest_term **0 = 1.0
+pre_tf+ = 201.31479276633246
+pre_tf- = 0
+self.tf = 64434.4723201075
+__
+boundary_points_number= 51
+bpn^-0.5 = 0.14002800840280097
+mult.term **0.0 = 1.0
+mean_near **1.0 = 11.354080985322613
+farthest_term **0 = 1.0
+pre_tf+ = 201.31479276633246
+pre_tf- = 0
+self.tf = 64434.4723201075
+__
+boundary_points_number= 50
+bpn^-0.5 = 0.1414213562373095
+mult.term **0.0 = 1.0
+mean_near **1.0 = 11.422935530387614
+farthest_term **0 = 1.0
+pre_tf+ = 201.44212039966908
+pre_tf- = 0
+self.tf = 65553.10870957485
+__
+boundary_points_number= 55
+bpn^-0.5 = 0.13483997249264842
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.928995498984397
+farthest_term **0 = 1.0
+pre_tf+ = 199.68120150729246
+pre_tf- = 0
+self.tf = 58758.84694048729
+__
+boundary_points_number= 55
+bpn^-0.5 = 0.13483997249264842
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.928995498984397
+farthest_term **0 = 1.0
+pre_tf+ = 199.68120150729246
+pre_tf- = 0
+self.tf = 58758.84694048729
+__
+boundary_points_number= 16
+bpn^-0.5 = 0.25
+mult.term **0.0 = 1.0
+mean_near **1.0 = 3.8135985055163997
+farthest_term **0 = 1.0
+pre_tf+ = 4.892782265511219
+pre_tf- = 0
+self.tf = 22.823737120798576
+__
+boundary_points_number= 50
+bpn^-0.5 = 0.1414213562373095
+mult.term **0.0 = 1.0
+mean_near **1.0 = 11.422935530387614
+farthest_term **0 = 1.0
+pre_tf+ = 201.44212039966908
+pre_tf- = 0
+self.tf = 65553.10870957485
+__
+boundary_points_number= 55
+bpn^-0.5 = 0.13483997249264842
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.92000639660246
+farthest_term **-1.0 = 0.10976310522061547
+pre_tf+ = 202.18670526304456
+pre_tf- = 0
+self.tf = 6606.981996138935
+__
+boundary_points_number= 50
+bpn^-0.5 = 0.1414213562373095
+mult.term **0.0 = 1.0
+mean_near **1.0 = 11.422935530387614
+farthest_term **0 = 1.0
+pre_tf+ = 201.44212039966908
+pre_tf- = 0
+self.tf = 65553.10870957485
+__
+boundary_points_number= 46
+bpn^-0.5 = 0.14744195615489714
+mult.term **0.0 = 1.0
+mean_near **1.0 = 11.923931024052786
+farthest_term **0 = 1.0
+pre_tf+ = 200.55015766612024
+pre_tf- = 0
+self.tf = 70710.93090988485
+__
+boundary_points_number= 46
+bpn^-0.5 = 0.14744195615489714
+mult.term **0.0 = 1.0
+mean_near **1.0 = 11.923931024052786
+farthest_term **0 = 1.0
+pre_tf+ = 200.55015766612024
+pre_tf- = 0
+self.tf = 70710.93090988485
+__
+boundary_points_number= 7
+bpn^-0.5 = 0.37796447300922725
+mult.term **0.0 = 1.0
+mean_near **1.0 = 2.7638144863320915
+farthest_term **0 = 1.0
+pre_tf+ = 3.257697018320787
+pre_tf- = 0
+self.tf = 11.086162738985893
+__
+boundary_points_number= 7
+bpn^-0.5 = 0.37796447300922725
+mult.term **0.0 = 1.0
+mean_near **1.0 = 2.7638144863320915
+farthest_term **0 = 1.0
+pre_tf+ = 3.257697018320787
+pre_tf- = 0
+self.tf = 11.086162738985893
+__
+boundary_points_number= 50
+bpn^-0.5 = 0.1414213562373095
+mult.term **0.0 = 1.0
+mean_near **1.0 = 11.422935530387614
+farthest_term **-1.0 = 0.10954651230896753
+pre_tf+ = 201.44212039966908
+pre_tf- = 0
+self.tf = 7181.114430144528
+__

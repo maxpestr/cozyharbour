@@ -1,0 +1,3443 @@
+
+NUM_SER 1 
+CURRENT_MAX_LEN 40 
+SELECTED_ELEMENTS: [12, 26]
+Start Series: if_need = 1 , pt_id = 296 
+, new_clust_num = 1 
+real ser. length: 40, all_used_points: [296, 59, 167, 71, 242, 308, 389, 371, 293, 332, 119, 50, 80, 248, 2, 14, 116, 95, 173, 326, 11, 56, 83, 164, 140, 353, 263, 272, 101, 275, 338, 335, 68, 17, 347, 110, 107, 122, 170, 134]
+
+NUM_SER 2 
+CURRENT_MAX_LEN 34 
+SELECTED_ELEMENTS: [26, 6]
+Start Series: if_need = 1 , pt_id = 170 
+, new_clust_num = 2 
+real ser. length: 34, all_used_points: [170, 134, 122, 278, 263, 104, 191, 284, 149, 347, 11, 335, 71, 59, 152, 50, 173, 287, 44, 167, 323, 101, 374, 275, 200, 389, 56, 68, 308, 164, 326, 281, 2, 332]
+
+NUM_SER 3 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [5, 22]
+Start Series: if_need = 1 , pt_id = 194 
+, new_clust_num = 1 
+real ser. length: 29, all_used_points: [194, 218, 251, 47, 26, 254, 209, 158, 314, 299, 329, 143, 284, 111, 180, 219, 29, 356, 152, 128, 311, 330, 60, 198, 328, 288, 150, 156, 383]
+
+NUM_SER 4 
+CURRENT_MAX_LEN 38 
+SELECTED_ELEMENTS: [17, 19]
+Start Series: if_need = 1 , pt_id = 275 
+, new_clust_num = 0 
+real ser. length: 38, all_used_points: [275, 101, 17, 80, 119, 353, 332, 50, 14, 233, 308, 2, 263, 167, 338, 326, 212, 164, 293, 65, 35, 389, 200, 302, 56, 392, 374, 122, 86, 32, 239, 380, 41, 71, 215, 296, 206, 62]
+
+NUM_SER 5 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [8, 14]
+Start Series: if_need = 1 , pt_id = 157 
+, new_clust_num = 1 
+real ser. length: 24, all_used_points: [157, 346, 82, 124, 148, 256, 373, 187, 175, 286, 379, 280, 247, 43, 76, 325, 25, 238, 28, 358, 283, 19, 262, 40]
+
+NUM_SER 6 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [26, 1]
+Start Series: if_need = 1 , pt_id = 216 
+, new_clust_num = 2 
+real ser. length: 29, all_used_points: [216, 354, 339, 99, 303, 153, 222, 126, 279, 78, 159, 387, 312, 60, 129, 201, 330, 321, 378, 45, 144, 261, 150, 51, 174, 111, 54, 156, 269]
+
+NUM_SER 7 
+CURRENT_MAX_LEN 22 
+SELECTED_ELEMENTS: [16, 4]
+Start Series: if_need = 1 , pt_id = 115 
+, new_clust_num = 2 
+real ser. length: 22, all_used_points: [115, 67, 223, 22, 139, 58, 79, 34, 94, 211, 85, 310, 145, 277, 130, 169, 163, 49, 337, 202, 343, 349]
+
+NUM_SER 8 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [7, 15]
+Start Series: if_need = 1 , pt_id = 101 
+, new_clust_num = 0 
+real ser. length: 24, all_used_points: [101, 50, 275, 308, 263, 2, 80, 332, 164, 17, 119, 353, 326, 14, 167, 293, 338, 71, 389, 32, 65, 122, 56, 41]
+
+NUM_SER 9 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [6, 16]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 3 
+real ser. length: 24, all_used_points: [328, 219, 107, 143, 140, 311, 329, 314, 110, 288, 198, 29, 180, 383, 209, 152, 251, 185, 173, 356, 158, 116, 284, 272]
+
+NUM_SER 10 
+CURRENT_MAX_LEN 34 
+SELECTED_ELEMENTS: [11, 21]
+Start Series: if_need = 1 , pt_id = 370 
+, new_clust_num = 3 
+real ser. length: 34, all_used_points: [370, 307, 232, 376, 217, 61, 355, 52, 274, 100, 193, 235, 109, 319, 190, 259, 382, 334, 316, 10, 55, 313, 4, 253, 97, 220, 214, 112, 244, 331, 53, 106, 116, 103]
+
+NUM_SER 11 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [6, 22]
+Start Series: if_need = 1 , pt_id = 101 
+, new_clust_num = 0 
+real ser. length: 30, all_used_points: [101, 263, 50, 275, 2, 17, 164, 56, 80, 326, 308, 389, 71, 167, 122, 296, 161, 332, 11, 14, 59, 290, 368, 374, 293, 200, 302, 170, 242, 32]
+
+NUM_SER 12 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [14, 12]
+Start Series: if_need = 1 , pt_id = 6 
+, new_clust_num = 3 
+real ser. length: 12, all_used_points: [6, 393, 168, 117, 231, 300, 15, 348, 102, 276, 210, 306]
+
+NUM_SER 13 
+CURRENT_MAX_LEN 39 
+SELECTED_ELEMENTS: [17, 20]
+Start Series: if_need = 1 , pt_id = 185 
+, new_clust_num = 2 
+real ser. length: 39, all_used_points: [185, 269, 20, 281, 266, 89, 197, 149, 323, 104, 179, 201, 287, 278, 245, 224, 341, 227, 77, 182, 365, 131, 155, 92, 44, 125, 362, 8, 156, 191, 45, 51, 312, 126, 330, 111, 257, 387, 99]
+
+NUM_SER 14 
+CURRENT_MAX_LEN 39 
+SELECTED_ELEMENTS: [28, 9]
+Start Series: if_need = 1 , pt_id = 156 
+, new_clust_num = 2 
+real ser. length: 39, all_used_points: [156, 51, 269, 312, 330, 150, 201, 126, 387, 89, 99, 54, 159, 45, 185, 60, 87, 197, 131, 222, 245, 365, 111, 266, 20, 179, 281, 341, 149, 182, 210, 323, 129, 378, 207, 104, 168, 153, 174]
+
+NUM_SER 15 
+CURRENT_MAX_LEN 47 
+SELECTED_ELEMENTS: [20, 25]
+Start Series: if_need = 1 , pt_id = 248 
+, new_clust_num = 1 
+real ser. length: 47, all_used_points: [248, 242, 359, 272, 140, 95, 368, 260, 317, 176, 173, 113, 344, 236, 68, 158, 110, 137, 83, 59, 347, 170, 11, 377, 371, 74, 254, 107, 230, 350, 335, 296, 146, 122, 305, 41, 299, 206, 86, 215, 71, 320, 32, 239, 62, 47, 56]
+
+NUM_SER 16 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [13, 22]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 37, all_used_points: [328, 219, 107, 198, 143, 29, 288, 140, 110, 158, 272, 251, 314, 347, 152, 299, 311, 173, 218, 47, 254, 209, 329, 248, 180, 356, 128, 242, 26, 284, 185, 149, 95, 383, 68, 194, 83]
+
+NUM_SER 17 
+CURRENT_MAX_LEN 33 
+SELECTED_ELEMENTS: [16, 15]
+Start Series: if_need = 1 , pt_id = 24 
+, new_clust_num = 2 
+real ser. length: 33, all_used_points: [24, 282, 171, 345, 135, 228, 267, 327, 294, 189, 162, 324, 297, 357, 18, 114, 81, 39, 252, 177, 57, 273, 132, 3, 223, 66, 141, 381, 249, 372, 258, 42, 315]
+
+NUM_SER 18 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [3, 24]
+Start Series: if_need = 1 , pt_id = 191 
+, new_clust_num = 2 
+real ser. length: 29, all_used_points: [191, 278, 155, 104, 44, 77, 287, 323, 266, 197, 179, 281, 224, 20, 245, 227, 365, 185, 341, 149, 182, 131, 89, 269, 45, 125, 362, 92, 210]
+
+NUM_SER 19 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [14, 13]
+Start Series: if_need = 1 , pt_id = 198 
+, new_clust_num = 1 
+real ser. length: 29, all_used_points: [198, 328, 288, 219, 107, 29, 143, 180, 329, 314, 140, 158, 173, 152, 209, 110, 251, 284, 47, 272, 323, 194, 95, 218, 134, 254, 26, 356, 149]
+
+NUM_SER 20 
+CURRENT_MAX_LEN 19 
+SELECTED_ELEMENTS: [11, 6]
+Start Series: if_need = 1 , pt_id = 38 
+, new_clust_num = 3 
+real ser. length: 3, all_used_points: [38, 257, 5]
+
+NUM_SER 21 
+CURRENT_MAX_LEN 16 
+SELECTED_ELEMENTS: [8, 6]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 16, all_used_points: [328, 107, 143, 140, 219, 288, 198, 180, 29, 110, 158, 47, 251, 272, 242, 209]
+
+NUM_SER 22 
+CURRENT_MAX_LEN 34 
+SELECTED_ELEMENTS: [22, 10]
+Start Series: if_need = 1 , pt_id = 180 
+, new_clust_num = 1 
+real ser. length: 34, all_used_points: [180, 288, 198, 219, 143, 29, 107, 251, 110, 329, 328, 311, 314, 383, 152, 140, 185, 356, 272, 248, 158, 128, 209, 197, 173, 284, 242, 368, 95, 260, 83, 149, 194, 68]
+
+NUM_SER 23 
+CURRENT_MAX_LEN 25 
+SELECTED_ELEMENTS: [23, 0]
+Start Series: if_need = 1 , pt_id = 198 
+, new_clust_num = 1 
+real ser. length: 25, all_used_points: [198, 288, 180, 219, 328, 143, 107, 29, 311, 140, 158, 110, 173, 251, 356, 314, 185, 218, 152, 209, 47, 194, 272, 170, 197]
+
+NUM_SER 24 
+CURRENT_MAX_LEN 48 
+SELECTED_ELEMENTS: [25, 21]
+Start Series: if_need = 0 , pt_id = 8 
+, new_clust_num = 0 
+real ser. length: 1, all_used_points: [8]
+
+NUM_SER 25 
+CURRENT_MAX_LEN 47 
+SELECTED_ELEMENTS: [20, 25]
+Start Series: if_need = 1 , pt_id = 198 
+, new_clust_num = 1 
+real ser. length: 47, all_used_points: [198, 328, 219, 288, 107, 180, 143, 329, 311, 29, 314, 152, 209, 356, 251, 110, 383, 128, 194, 134, 47, 185, 197, 284, 254, 269, 89, 149, 179, 191, 131, 218, 245, 338, 158, 26, 20, 182, 299, 365, 45, 170, 210, 257, 347, 92, 125]
+
+NUM_SER 26 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [22, 4]
+Start Series: if_need = 1 , pt_id = 156 
+, new_clust_num = 0 
+real ser. length: 28, all_used_points: [156, 51, 201, 312, 126, 330, 60, 99, 378, 321, 387, 129, 279, 153, 78, 303, 159, 354, 150, 339, 174, 261, 111, 306, 300, 222, 216, 54]
+
+NUM_SER 27 
+CURRENT_MAX_LEN 21 
+SELECTED_ELEMENTS: [18, 1]
+Start Series: if_need = 1 , pt_id = 198 
+, new_clust_num = 1 
+real ser. length: 21, all_used_points: [198, 328, 288, 180, 219, 107, 143, 140, 29, 314, 110, 251, 329, 218, 158, 47, 152, 209, 311, 173, 194]
+
+NUM_SER 28 
+CURRENT_MAX_LEN 43 
+SELECTED_ELEMENTS: [25, 16]
+Start Series: if_need = 1 , pt_id = 180 
+, new_clust_num = 1 
+real ser. length: 43, all_used_points: [180, 288, 198, 219, 107, 110, 328, 143, 140, 158, 272, 251, 314, 29, 173, 47, 347, 329, 311, 95, 299, 68, 254, 242, 152, 248, 128, 83, 383, 170, 11, 56, 371, 209, 122, 194, 356, 368, 335, 71, 149, 284, 26]
+
+NUM_SER 29 
+CURRENT_MAX_LEN 21 
+SELECTED_ELEMENTS: [10, 9]
+Start Series: if_need = 1 , pt_id = 116 
+, new_clust_num = 0 
+real ser. length: 21, all_used_points: [116, 31, 151, 331, 265, 94, 127, 97, 211, 112, 85, 196, 352, 244, 361, 106, 292, 313, 220, 22, 64]
+
+NUM_SER 30 
+CURRENT_MAX_LEN 14 
+SELECTED_ELEMENTS: [12, 0]
+Start Series: if_need = 1 , pt_id = 359 
+, new_clust_num = 1 
+real ser. length: 14, all_used_points: [359, 176, 317, 137, 248, 113, 260, 236, 350, 344, 215, 161, 74, 368]
+
+NUM_SER 31 
+CURRENT_MAX_LEN 47 
+SELECTED_ELEMENTS: [28, 17]
+Start Series: if_need = 0 , pt_id = 265 
+, new_clust_num = 1 
+real ser. length: 1, all_used_points: [265]
+
+NUM_SER 32 
+CURRENT_MAX_LEN 44 
+SELECTED_ELEMENTS: [15, 27]
+Start Series: if_need = 1 , pt_id = 311 
+, new_clust_num = 1 
+real ser. length: 44, all_used_points: [311, 356, 383, 329, 185, 197, 20, 152, 284, 143, 269, 128, 314, 149, 323, 134, 29, 209, 281, 194, 251, 179, 89, 245, 341, 170, 110, 191, 122, 263, 266, 224, 287, 335, 107, 219, 47, 45, 131, 365, 44, 101, 198, 56]
+
+NUM_SER 33 
+CURRENT_MAX_LEN 14 
+SELECTED_ELEMENTS: [8, 4]
+Start Series: if_need = 1 , pt_id = 210 
+, new_clust_num = 1 
+real ser. length: 14, all_used_points: [210, 45, 269, 185, 356, 311, 383, 20, 131, 89, 197, 329, 149, 323]
+
+NUM_SER 34 
+CURRENT_MAX_LEN 15 
+SELECTED_ELEMENTS: [10, 3]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 15, all_used_points: [328, 219, 198, 107, 288, 143, 180, 140, 110, 158, 29, 47, 347, 173, 272]
+
+NUM_SER 35 
+CURRENT_MAX_LEN 8 
+SELECTED_ELEMENTS: [6, 0]
+Start Series: if_need = 1 , pt_id = 55 
+, new_clust_num = 0 
+real ser. length: 8, all_used_points: [55, 253, 313, 10, 316, 4, 217, 214]
+
+NUM_SER 36 
+CURRENT_MAX_LEN 31 
+SELECTED_ELEMENTS: [9, 20]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 31, all_used_points: [328, 107, 140, 143, 173, 29, 219, 198, 288, 347, 170, 110, 335, 209, 314, 180, 122, 158, 299, 251, 47, 284, 134, 254, 152, 26, 194, 218, 11, 272, 311]
+
+NUM_SER 37 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [17, 5]
+Start Series: if_need = 1 , pt_id = 111 
+, new_clust_num = 0 
+real ser. length: 24, all_used_points: [111, 105, 318, 258, 363, 297, 84, 120, 87, 327, 255, 330, 69, 150, 60, 294, 312, 39, 156, 159, 51, 207, 177, 99]
+
+NUM_SER 38 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [13, 22]
+Start Series: if_need = 1 , pt_id = 156 
+, new_clust_num = 0 
+real ser. length: 37, all_used_points: [156, 312, 51, 126, 330, 60, 159, 111, 150, 201, 87, 99, 318, 153, 378, 363, 105, 387, 258, 84, 321, 174, 69, 303, 222, 279, 339, 306, 216, 78, 54, 354, 129, 90, 261, 297, 207]
+
+NUM_SER 39 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [23, 5]
+Start Series: if_need = 1 , pt_id = 176 
+, new_clust_num = 1 
+real ser. length: 30, all_used_points: [176, 359, 248, 113, 137, 344, 260, 317, 350, 368, 380, 236, 272, 290, 242, 59, 161, 371, 215, 305, 41, 74, 320, 296, 146, 230, 140, 377, 23, 11]
+
+NUM_SER 40 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [8, 22]
+Start Series: if_need = 1 , pt_id = 156 
+, new_clust_num = 0 
+real ser. length: 32, all_used_points: [156, 51, 126, 321, 99, 330, 153, 303, 378, 60, 279, 312, 201, 216, 90, 150, 387, 54, 174, 111, 261, 129, 354, 78, 105, 159, 339, 285, 87, 144, 306, 258]
+
+NUM_SER 41 
+CURRENT_MAX_LEN 40 
+SELECTED_ELEMENTS: [28, 10]
+Start Series: if_need = 1 , pt_id = 311 
+, new_clust_num = 1 
+real ser. length: 40, all_used_points: [311, 143, 383, 356, 269, 219, 329, 107, 185, 152, 128, 197, 288, 149, 140, 284, 134, 323, 20, 281, 89, 110, 272, 198, 314, 266, 29, 245, 365, 209, 194, 131, 278, 179, 158, 182, 173, 251, 122, 47]
+
+NUM_SER 42 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [14, 14]
+Start Series: if_need = 1 , pt_id = 210 
+, new_clust_num = 1 
+real ser. length: 30, all_used_points: [210, 45, 269, 383, 131, 182, 92, 89, 197, 185, 8, 125, 356, 362, 221, 98, 311, 338, 386, 329, 203, 149, 365, 179, 257, 245, 143, 230, 341, 74]
+
+NUM_SER 43 
+CURRENT_MAX_LEN 52 
+SELECTED_ELEMENTS: [27, 23]
+Start Series: if_need = 1 , pt_id = 31 
+, new_clust_num = 0 
+real ser. length: 52, all_used_points: [31, 151, 331, 196, 127, 85, 53, 211, 112, 292, 94, 7, 116, 139, 22, 265, 145, 214, 55, 352, 244, 160, 163, 70, 97, 310, 205, 253, 67, 49, 115, 361, 220, 64, 106, 313, 4, 181, 58, 337, 349, 169, 109, 343, 79, 391, 241, 34, 217, 277, 88, 223]
+
+NUM_SER 44 
+CURRENT_MAX_LEN 10 
+SELECTED_ELEMENTS: [5, 3]
+Start Series: if_need = 1 , pt_id = 269 
+, new_clust_num = 1 
+real ser. length: 10, all_used_points: [269, 383, 197, 311, 356, 185, 128, 143, 45, 29]
+
+NUM_SER 45 
+CURRENT_MAX_LEN 17 
+SELECTED_ELEMENTS: [13, 2]
+Start Series: if_need = 1 , pt_id = 156 
+, new_clust_num = 0 
+real ser. length: 17, all_used_points: [156, 330, 150, 60, 312, 159, 51, 111, 99, 201, 126, 105, 87, 222, 339, 54, 69]
+
+NUM_SER 46 
+CURRENT_MAX_LEN 26 
+SELECTED_ELEMENTS: [12, 12]
+Start Series: if_need = 1 , pt_id = 176 
+, new_clust_num = 1 
+real ser. length: 26, all_used_points: [176, 359, 248, 317, 137, 242, 215, 368, 113, 371, 83, 41, 260, 11, 290, 377, 68, 122, 59, 272, 71, 161, 236, 170, 347, 335]
+
+NUM_SER 47 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [0, 28]
+Start Series: if_need = 1 , pt_id = 180 
+, new_clust_num = 1 
+real ser. length: 30, all_used_points: [180, 288, 198, 219, 328, 143, 107, 29, 251, 110, 314, 329, 194, 254, 209, 311, 284, 347, 335, 323, 152, 356, 170, 11, 68, 218, 383, 83, 140, 47]
+
+NUM_SER 48 
+CURRENT_MAX_LEN 26 
+SELECTED_ELEMENTS: [7, 17]
+Start Series: if_need = 1 , pt_id = 210 
+, new_clust_num = 1 
+real ser. length: 26, all_used_points: [210, 45, 269, 89, 383, 197, 266, 131, 281, 278, 104, 20, 323, 44, 101, 179, 287, 245, 185, 365, 134, 77, 341, 155, 191, 182]
+
+NUM_SER 49 
+CURRENT_MAX_LEN 38 
+SELECTED_ELEMENTS: [9, 27]
+Start Series: if_need = 1 , pt_id = 176 
+, new_clust_num = 1 
+real ser. length: 38, all_used_points: [176, 137, 74, 113, 215, 146, 221, 344, 41, 359, 236, 230, 320, 377, 8, 239, 305, 317, 62, 380, 98, 206, 368, 260, 248, 350, 23, 212, 386, 86, 92, 35, 362, 65, 203, 131, 257, 188]
+
+NUM_SER 50 
+CURRENT_MAX_LEN 38 
+SELECTED_ELEMENTS: [23, 13]
+Start Series: if_need = 1 , pt_id = 116 
+, new_clust_num = 0 
+real ser. length: 38, all_used_points: [116, 53, 55, 109, 244, 31, 265, 220, 106, 331, 313, 259, 217, 103, 316, 97, 253, 376, 61, 151, 196, 10, 274, 334, 190, 232, 52, 142, 112, 208, 226, 4, 214, 292, 264, 193, 57, 355]
+
+NUM_SER 51 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [0, 26]
+Start Series: if_need = 1 , pt_id = 210 
+, new_clust_num = 1 
+real ser. length: 28, all_used_points: [210, 45, 269, 89, 197, 365, 182, 179, 341, 131, 185, 245, 149, 20, 338, 92, 323, 221, 224, 230, 386, 125, 8, 98, 287, 362, 266, 284]
+
+NUM_SER 52 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [12, 13]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 27, all_used_points: [328, 107, 110, 140, 47, 198, 29, 158, 173, 95, 251, 288, 180, 219, 143, 329, 347, 68, 218, 194, 26, 299, 272, 209, 83, 254, 11]
+
+NUM_SER 53 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [15, 13]
+Start Series: if_need = 1 , pt_id = 156 
+, new_clust_num = 0 
+real ser. length: 30, all_used_points: [156, 330, 312, 51, 201, 126, 378, 150, 387, 54, 153, 321, 129, 78, 174, 279, 306, 261, 99, 60, 303, 339, 111, 105, 159, 300, 222, 393, 15, 195]
+
+NUM_SER 54 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [14, 16]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 32, all_used_points: [328, 107, 219, 29, 198, 110, 143, 329, 209, 251, 284, 314, 311, 288, 218, 149, 356, 140, 323, 128, 185, 152, 281, 383, 20, 158, 134, 266, 278, 272, 194, 197]
+
+NUM_SER 55 
+CURRENT_MAX_LEN 21 
+SELECTED_ELEMENTS: [7, 12]
+Start Series: if_need = 1 , pt_id = 288 
+, new_clust_num = 1 
+real ser. length: 21, all_used_points: [288, 219, 180, 198, 107, 328, 110, 143, 140, 272, 251, 29, 329, 248, 209, 173, 158, 47, 26, 194, 314]
+
+NUM_SER 56 
+CURRENT_MAX_LEN 17 
+SELECTED_ELEMENTS: [0, 15]
+Start Series: if_need = 1 , pt_id = 180 
+, new_clust_num = 1 
+real ser. length: 17, all_used_points: [180, 288, 198, 219, 107, 328, 143, 29, 110, 251, 329, 314, 152, 311, 356, 128, 284]
+
+NUM_SER 57 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [22, 6]
+Start Series: if_need = 1 , pt_id = 180 
+, new_clust_num = 1 
+real ser. length: 30, all_used_points: [180, 288, 219, 198, 107, 328, 143, 110, 311, 29, 314, 329, 209, 356, 383, 185, 128, 149, 251, 152, 284, 140, 20, 158, 197, 89, 269, 323, 131, 47]
+
+NUM_SER 58 
+CURRENT_MAX_LEN 21 
+SELECTED_ELEMENTS: [3, 16]
+Start Series: if_need = 1 , pt_id = 210 
+, new_clust_num = 1 
+real ser. length: 21, all_used_points: [210, 45, 269, 383, 185, 197, 89, 245, 131, 365, 20, 92, 149, 179, 323, 266, 356, 281, 284, 224, 182]
+
+NUM_SER 59 
+CURRENT_MAX_LEN 43 
+SELECTED_ELEMENTS: [23, 18]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 43, all_used_points: [328, 219, 143, 311, 383, 288, 107, 198, 140, 269, 329, 89, 356, 29, 314, 128, 149, 185, 110, 152, 197, 180, 251, 209, 284, 20, 173, 47, 95, 242, 272, 59, 371, 254, 83, 68, 131, 194, 218, 11, 92, 8, 125]
+
+NUM_SER 60 
+CURRENT_MAX_LEN 38 
+SELECTED_ELEMENTS: [19, 17]
+Start Series: if_need = 1 , pt_id = 116 
+, new_clust_num = 0 
+real ser. length: 38, all_used_points: [116, 31, 53, 55, 244, 331, 151, 97, 127, 112, 265, 214, 316, 220, 313, 334, 352, 70, 85, 106, 4, 196, 211, 349, 292, 217, 145, 94, 253, 109, 10, 133, 22, 7, 139, 115, 67, 205]
+
+NUM_SER 61 
+CURRENT_MAX_LEN 36 
+SELECTED_ELEMENTS: [21, 13]
+Start Series: if_need = 1 , pt_id = 311 
+, new_clust_num = 1 
+real ser. length: 36, all_used_points: [311, 356, 143, 383, 269, 329, 185, 152, 131, 45, 92, 210, 89, 197, 128, 365, 125, 284, 179, 314, 341, 266, 245, 182, 209, 224, 251, 29, 8, 219, 338, 149, 362, 20, 107, 323]
+
+NUM_SER 62 
+CURRENT_MAX_LEN 13 
+SELECTED_ELEMENTS: [7, 4]
+Start Series: if_need = 1 , pt_id = 111 
+, new_clust_num = 0 
+real ser. length: 13, all_used_points: [111, 330, 150, 312, 60, 156, 105, 126, 51, 87, 159, 99, 339]
+
+NUM_SER 63 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [4, 23]
+Start Series: if_need = 1 , pt_id = 54 
+, new_clust_num = 0 
+real ser. length: 29, all_used_points: [54, 387, 201, 51, 174, 126, 156, 279, 321, 378, 153, 312, 303, 78, 99, 306, 339, 348, 129, 222, 159, 261, 207, 354, 63, 216, 330, 27, 300]
+
+NUM_SER 64 
+CURRENT_MAX_LEN 42 
+SELECTED_ELEMENTS: [17, 23]
+Start Series: if_need = 1 , pt_id = 53 
+, new_clust_num = 0 
+real ser. length: 42, all_used_points: [53, 116, 31, 151, 244, 331, 94, 211, 265, 220, 106, 196, 55, 109, 22, 85, 127, 145, 352, 67, 139, 112, 115, 313, 349, 292, 214, 163, 310, 79, 337, 97, 70, 160, 253, 136, 49, 361, 4, 241, 58, 172]
+
+NUM_SER 65 
+CURRENT_MAX_LEN 15 
+SELECTED_ELEMENTS: [5, 8]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 15, all_used_points: [328, 219, 198, 107, 288, 143, 314, 209, 180, 194, 26, 311, 329, 218, 152]
+
+NUM_SER 66 
+CURRENT_MAX_LEN 18 
+SELECTED_ELEMENTS: [14, 2]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 18, all_used_points: [328, 219, 107, 143, 29, 209, 251, 110, 329, 356, 47, 198, 158, 299, 194, 140, 288, 180]
+
+NUM_SER 67 
+CURRENT_MAX_LEN 23 
+SELECTED_ELEMENTS: [19, 2]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 23, all_used_points: [328, 107, 219, 143, 198, 288, 329, 180, 29, 314, 311, 209, 152, 110, 128, 356, 251, 47, 140, 218, 284, 383, 194]
+
+NUM_SER 68 
+CURRENT_MAX_LEN 36 
+SELECTED_ELEMENTS: [23, 11]
+Start Series: if_need = 1 , pt_id = 288 
+, new_clust_num = 1 
+real ser. length: 36, all_used_points: [288, 219, 198, 328, 107, 180, 143, 314, 209, 194, 134, 284, 29, 110, 170, 311, 158, 122, 152, 251, 47, 335, 128, 140, 218, 329, 191, 299, 101, 11, 371, 356, 383, 185, 83, 149]
+
+NUM_SER 69 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [10, 20]
+Start Series: if_need = 1 , pt_id = 288 
+, new_clust_num = 1 
+real ser. length: 32, all_used_points: [288, 180, 198, 219, 107, 328, 29, 140, 173, 68, 143, 110, 158, 314, 347, 152, 95, 299, 251, 242, 47, 83, 254, 209, 218, 272, 284, 311, 248, 329, 194, 26]
+
+NUM_SER 70 
+CURRENT_MAX_LEN 12 
+SELECTED_ELEMENTS: [0, 10]
+Start Series: if_need = 1 , pt_id = 248 
+, new_clust_num = 1 
+real ser. length: 12, all_used_points: [248, 260, 317, 359, 137, 368, 242, 113, 215, 161, 176, 41]
+
+NUM_SER 71 
+CURRENT_MAX_LEN 25 
+SELECTED_ELEMENTS: [0, 23]
+Start Series: if_need = 1 , pt_id = 54 
+, new_clust_num = 0 
+real ser. length: 25, all_used_points: [54, 387, 174, 201, 78, 129, 279, 306, 378, 126, 51, 153, 99, 261, 354, 321, 303, 156, 222, 312, 348, 330, 207, 159, 60]
+
+NUM_SER 72 
+CURRENT_MAX_LEN 39 
+SELECTED_ELEMENTS: [22, 15]
+Start Series: if_need = 1 , pt_id = 111 
+, new_clust_num = 0 
+real ser. length: 39, all_used_points: [111, 330, 105, 87, 258, 60, 150, 312, 159, 99, 297, 156, 222, 69, 51, 318, 363, 207, 84, 120, 39, 201, 126, 27, 255, 339, 153, 285, 18, 294, 321, 162, 12, 0, 216, 378, 279, 129, 225]
+
+NUM_SER 73 
+CURRENT_MAX_LEN 11 
+SELECTED_ELEMENTS: [2, 7]
+Start Series: if_need = 1 , pt_id = 111 
+, new_clust_num = 0 
+real ser. length: 11, all_used_points: [111, 105, 150, 258, 87, 330, 60, 159, 318, 312, 69]
+
+NUM_SER 74 
+CURRENT_MAX_LEN 34 
+SELECTED_ELEMENTS: [21, 11]
+Start Series: if_need = 1 , pt_id = 210 
+, new_clust_num = 1 
+real ser. length: 34, all_used_points: [210, 45, 269, 131, 182, 125, 92, 245, 89, 365, 341, 338, 179, 362, 221, 197, 8, 98, 230, 257, 224, 38, 17, 5, 203, 353, 320, 104, 275, 62, 35, 266, 212, 77]
+
+NUM_SER 75 
+CURRENT_MAX_LEN 39 
+SELECTED_ELEMENTS: [10, 27]
+Start Series: if_need = 1 , pt_id = 156 
+, new_clust_num = 0 
+real ser. length: 39, all_used_points: [156, 330, 51, 312, 60, 150, 105, 126, 318, 99, 87, 222, 69, 111, 216, 339, 207, 321, 378, 279, 258, 84, 153, 201, 285, 120, 90, 159, 27, 363, 387, 54, 297, 255, 303, 354, 123, 174, 390]
+
+NUM_SER 76 
+CURRENT_MAX_LEN 25 
+SELECTED_ELEMENTS: [13, 10]
+Start Series: if_need = 1 , pt_id = 31 
+, new_clust_num = 0 
+real ser. length: 25, all_used_points: [31, 151, 331, 97, 53, 214, 196, 211, 4, 70, 7, 313, 145, 10, 253, 316, 94, 112, 205, 127, 292, 352, 265, 85, 64]
+
+NUM_SER 77 
+CURRENT_MAX_LEN 48 
+SELECTED_ELEMENTS: [24, 22]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 48, all_used_points: [328, 107, 110, 158, 219, 198, 143, 288, 251, 47, 180, 254, 347, 329, 29, 314, 218, 152, 194, 26, 140, 299, 311, 209, 173, 170, 356, 383, 335, 272, 128, 11, 185, 95, 149, 68, 122, 284, 269, 323, 83, 242, 59, 278, 134, 20, 281, 368]
+
+NUM_SER 78 
+CURRENT_MAX_LEN 22 
+SELECTED_ELEMENTS: [8, 12]
+Start Series: if_need = 1 , pt_id = 210 
+, new_clust_num = 1 
+real ser. length: 22, all_used_points: [210, 45, 269, 185, 128, 131, 152, 284, 197, 314, 143, 209, 365, 356, 182, 149, 29, 266, 329, 245, 107, 89]
+
+NUM_SER 79 
+CURRENT_MAX_LEN 36 
+SELECTED_ELEMENTS: [17, 17]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 36, all_used_points: [328, 107, 198, 219, 110, 288, 29, 180, 47, 314, 218, 140, 209, 158, 251, 299, 143, 173, 152, 347, 194, 284, 149, 26, 254, 311, 272, 323, 383, 20, 329, 134, 170, 281, 356, 185]
+
+NUM_SER 80 
+CURRENT_MAX_LEN 49 
+SELECTED_ELEMENTS: [28, 19]
+Start Series: if_need = 1 , pt_id = 171 
+, new_clust_num = 0 
+real ser. length: 49, all_used_points: [171, 327, 294, 24, 282, 297, 39, 18, 267, 177, 363, 12, 135, 0, 162, 255, 81, 318, 345, 258, 42, 228, 84, 120, 189, 105, 207, 285, 390, 252, 87, 27, 225, 315, 96, 223, 324, 192, 30, 90, 273, 222, 384, 357, 291, 159, 69, 34, 75]
+
+NUM_SER 81 
+CURRENT_MAX_LEN 39 
+SELECTED_ELEMENTS: [21, 16]
+Start Series: if_need = 1 , pt_id = 111 
+, new_clust_num = 0 
+real ser. length: 39, all_used_points: [111, 105, 330, 258, 363, 318, 150, 255, 60, 297, 39, 120, 87, 177, 171, 18, 81, 69, 159, 84, 327, 294, 267, 312, 99, 252, 27, 12, 42, 24, 207, 222, 126, 51, 282, 96, 162, 225, 390]
+
+NUM_SER 82 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [14, 8]
+Start Series: if_need = 1 , pt_id = 115 
+, new_clust_num = 0 
+real ser. length: 24, all_used_points: [115, 58, 169, 88, 223, 22, 202, 145, 277, 94, 228, 324, 67, 139, 364, 79, 310, 391, 135, 345, 282, 189, 49, 160]
+
+NUM_SER 83 
+CURRENT_MAX_LEN 50 
+SELECTED_ELEMENTS: [24, 24]
+Start Series: if_need = 1 , pt_id = 198 
+, new_clust_num = 1 
+real ser. length: 50, all_used_points: [198, 328, 288, 180, 219, 143, 107, 29, 140, 110, 158, 251, 47, 209, 218, 26, 299, 194, 272, 254, 173, 68, 11, 83, 347, 284, 170, 314, 56, 152, 134, 95, 335, 278, 122, 371, 326, 242, 104, 71, 311, 329, 356, 155, 248, 77, 191, 317, 44, 128]
+
+NUM_SER 84 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [26, 9]
+Start Series: if_need = 1 , pt_id = 24 
+, new_clust_num = 0 
+real ser. length: 37, all_used_points: [24, 171, 282, 267, 345, 135, 228, 132, 189, 162, 57, 213, 324, 226, 223, 130, 264, 252, 372, 340, 375, 118, 18, 190, 3, 273, 72, 289, 336, 186, 379, 357, 58, 249, 34, 81, 114]
+
+NUM_SER 85 
+CURRENT_MAX_LEN 43 
+SELECTED_ELEMENTS: [13, 28]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 43, all_used_points: [328, 198, 107, 219, 288, 180, 143, 314, 29, 110, 209, 47, 251, 152, 26, 218, 140, 194, 329, 272, 254, 158, 311, 299, 173, 284, 149, 20, 170, 95, 242, 356, 83, 368, 128, 185, 371, 68, 383, 71, 347, 56, 11]
+
+NUM_SER 86 
+CURRENT_MAX_LEN 16 
+SELECTED_ELEMENTS: [10, 4]
+Start Series: if_need = 1 , pt_id = 288 
+, new_clust_num = 1 
+real ser. length: 16, all_used_points: [288, 219, 180, 107, 198, 143, 328, 314, 329, 311, 29, 356, 152, 383, 209, 194]
+
+NUM_SER 87 
+CURRENT_MAX_LEN 34 
+SELECTED_ELEMENTS: [28, 4]
+Start Series: if_need = 1 , pt_id = 156 
+, new_clust_num = 0 
+real ser. length: 34, all_used_points: [156, 330, 150, 60, 111, 312, 51, 87, 159, 105, 258, 201, 297, 126, 363, 387, 84, 99, 222, 285, 318, 69, 294, 54, 279, 171, 216, 207, 327, 120, 90, 354, 378, 267]
+
+NUM_SER 88 
+CURRENT_MAX_LEN 31 
+SELECTED_ELEMENTS: [5, 24]
+Start Series: if_need = 1 , pt_id = 176 
+, new_clust_num = 1 
+real ser. length: 31, all_used_points: [176, 359, 137, 236, 317, 113, 248, 377, 260, 215, 344, 74, 230, 35, 146, 62, 386, 350, 368, 221, 320, 305, 242, 212, 8, 188, 206, 98, 239, 203, 41]
+
+NUM_SER 89 
+CURRENT_MAX_LEN 33 
+SELECTED_ELEMENTS: [7, 24]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 33, all_used_points: [328, 219, 198, 288, 107, 143, 110, 29, 140, 251, 314, 158, 180, 173, 272, 209, 194, 47, 218, 152, 134, 284, 170, 248, 122, 26, 347, 254, 299, 191, 329, 149, 128]
+
+NUM_SER 90 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [0, 27]
+Start Series: if_need = 1 , pt_id = 180 
+, new_clust_num = 1 
+real ser. length: 29, all_used_points: [180, 288, 219, 198, 143, 328, 107, 29, 110, 140, 173, 314, 251, 194, 209, 152, 329, 284, 218, 47, 323, 128, 185, 26, 149, 68, 20, 272, 278]
+
+NUM_SER 91 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [18, 17]
+Start Series: if_need = 1 , pt_id = 248 
+, new_clust_num = 1 
+real ser. length: 37, all_used_points: [248, 272, 242, 368, 317, 113, 140, 173, 68, 215, 95, 83, 110, 347, 11, 251, 41, 158, 371, 59, 161, 71, 260, 107, 56, 359, 137, 335, 176, 254, 290, 296, 167, 47, 308, 344, 32]
+
+NUM_SER 92 
+CURRENT_MAX_LEN 7 
+SELECTED_ELEMENTS: [1, 4]
+Start Series: if_need = 1 , pt_id = 156 
+, new_clust_num = 0 
+real ser. length: 7, all_used_points: [156, 312, 51, 330, 159, 99, 111]
+
+NUM_SER 93 
+CURRENT_MAX_LEN 36 
+SELECTED_ELEMENTS: [28, 6]
+Start Series: if_need = 1 , pt_id = 210 
+, new_clust_num = 1 
+real ser. length: 36, all_used_points: [210, 45, 269, 89, 179, 131, 197, 365, 383, 182, 311, 341, 185, 266, 245, 356, 92, 128, 149, 20, 224, 152, 362, 284, 8, 287, 338, 227, 98, 329, 17, 143, 323, 281, 104, 125]
+
+NUM_SER 94 
+CURRENT_MAX_LEN 18 
+SELECTED_ELEMENTS: [13, 3]
+Start Series: if_need = 1 , pt_id = 282 
+, new_clust_num = 0 
+real ser. length: 18, all_used_points: [282, 24, 171, 345, 189, 135, 267, 327, 228, 294, 357, 223, 297, 115, 58, 132, 22, 162]
+
+NUM_SER 95 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [12, 13]
+Start Series: if_need = 1 , pt_id = 156 
+, new_clust_num = 0 
+real ser. length: 27, all_used_points: [156, 330, 111, 51, 312, 99, 105, 159, 126, 153, 87, 60, 201, 321, 150, 54, 378, 69, 279, 387, 129, 258, 174, 222, 339, 207, 78]
+
+NUM_SER 96 
+CURRENT_MAX_LEN 5 
+SELECTED_ELEMENTS: [3, 0]
+Start Series: if_need = 1 , pt_id = 180 
+, new_clust_num = 1 
+real ser. length: 5, all_used_points: [180, 288, 219, 198, 143]
+
+NUM_SER 97 
+CURRENT_MAX_LEN 8 
+SELECTED_ELEMENTS: [2, 4]
+Start Series: if_need = 1 , pt_id = 116 
+, new_clust_num = 0 
+real ser. length: 8, all_used_points: [116, 53, 31, 151, 331, 196, 55, 244]
+
+NUM_SER 98 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [5, 17]
+Start Series: if_need = 1 , pt_id = 53 
+, new_clust_num = 0 
+real ser. length: 24, all_used_points: [53, 116, 244, 31, 55, 103, 253, 220, 316, 265, 106, 109, 313, 151, 97, 214, 61, 4, 10, 208, 331, 13, 217, 112]
+
+NUM_SER 99 
+CURRENT_MAX_LEN 17 
+SELECTED_ELEMENTS: [8, 7]
+Start Series: if_need = 1 , pt_id = 107 
+, new_clust_num = 1 
+real ser. length: 17, all_used_points: [107, 328, 110, 29, 251, 209, 47, 140, 158, 218, 299, 314, 329, 173, 272, 95, 152]
+
+NUM_SER 100 
+CURRENT_MAX_LEN 20 
+SELECTED_ELEMENTS: [4, 14]
+Start Series: if_need = 1 , pt_id = 143 
+, new_clust_num = 0 
+real ser. length: 20, all_used_points: [143, 219, 198, 288, 228, 324, 111, 345, 189, 24, 282, 135, 267, 357, 252, 180, 171, 223, 162, 294]
+
+NUM_SER 101 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [16, 19]
+Start Series: if_need = 1 , pt_id = 348 
+, new_clust_num = 0 
+real ser. length: 37, all_used_points: [348, 300, 393, 276, 261, 306, 168, 144, 354, 6, 63, 147, 279, 78, 36, 129, 123, 231, 9, 102, 90, 174, 387, 117, 15, 33, 333, 54, 240, 369, 201, 21, 360, 195, 183, 204, 234]
+
+NUM_SER 102 
+CURRENT_MAX_LEN 16 
+SELECTED_ELEMENTS: [12, 2]
+Start Series: if_need = 1 , pt_id = 143 
+, new_clust_num = 0 
+real ser. length: 16, all_used_points: [143, 111, 180, 219, 198, 288, 24, 171, 135, 105, 87, 60, 282, 228, 267, 223]
+
+NUM_SER 103 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [9, 26]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 37, all_used_points: [328, 107, 110, 251, 209, 194, 140, 158, 26, 299, 173, 47, 272, 218, 254, 347, 170, 134, 29, 314, 122, 95, 68, 284, 56, 335, 128, 11, 191, 152, 356, 242, 248, 329, 368, 83, 185]
+
+NUM_SER 104 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [8, 20]
+Start Series: if_need = 1 , pt_id = 176 
+, new_clust_num = 1 
+real ser. length: 30, all_used_points: [176, 137, 377, 359, 236, 74, 230, 317, 35, 113, 305, 215, 239, 344, 221, 392, 260, 248, 200, 302, 65, 92, 233, 350, 86, 32, 380, 146, 14, 353]
+
+NUM_SER 105 
+CURRENT_MAX_LEN 14 
+SELECTED_ELEMENTS: [6, 6]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 14, all_used_points: [328, 107, 110, 29, 140, 158, 47, 272, 347, 173, 299, 95, 218, 254]
+
+NUM_SER 106 
+CURRENT_MAX_LEN 47 
+SELECTED_ELEMENTS: [18, 27]
+Start Series: if_need = 1 , pt_id = 311 
+, new_clust_num = 1 
+real ser. length: 47, all_used_points: [311, 383, 356, 329, 314, 185, 269, 149, 128, 89, 323, 29, 152, 134, 197, 266, 284, 209, 179, 122, 45, 278, 20, 245, 131, 194, 191, 281, 104, 335, 170, 347, 210, 365, 110, 263, 182, 47, 251, 68, 299, 341, 11, 173, 218, 254, 158]
+
+NUM_SER 107 
+CURRENT_MAX_LEN 10 
+SELECTED_ELEMENTS: [1, 7]
+Start Series: if_need = 1 , pt_id = 55 
+, new_clust_num = 0 
+real ser. length: 10, all_used_points: [55, 253, 220, 316, 313, 217, 106, 10, 232, 53]
+
+NUM_SER 108 
+CURRENT_MAX_LEN 50 
+SELECTED_ELEMENTS: [21, 27]
+Start Series: if_need = 1 , pt_id = 210 
+, new_clust_num = 1 
+real ser. length: 50, all_used_points: [210, 45, 269, 89, 131, 92, 221, 74, 182, 230, 146, 179, 197, 365, 341, 245, 338, 185, 287, 344, 257, 98, 281, 128, 8, 383, 224, 35, 20, 284, 350, 266, 386, 176, 104, 152, 236, 77, 125, 323, 353, 5, 362, 188, 137, 209, 101, 320, 149, 17]
+
+NUM_SER 109 
+CURRENT_MAX_LEN 34 
+SELECTED_ELEMENTS: [26, 6]
+Start Series: if_need = 1 , pt_id = 311 
+, new_clust_num = 1 
+real ser. length: 34, all_used_points: [311, 383, 185, 20, 356, 269, 128, 149, 281, 152, 284, 329, 314, 323, 278, 209, 197, 134, 194, 266, 44, 155, 104, 287, 170, 122, 191, 224, 227, 89, 77, 353, 338, 101]
+
+NUM_SER 110 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [2, 20]
+Start Series: if_need = 1 , pt_id = 143 
+, new_clust_num = 0 
+real ser. length: 24, all_used_points: [143, 111, 219, 180, 198, 105, 330, 171, 150, 228, 258, 288, 318, 282, 156, 312, 345, 267, 87, 51, 60, 324, 189, 159]
+
+NUM_SER 111 
+CURRENT_MAX_LEN 9 
+SELECTED_ELEMENTS: [3, 4]
+Start Series: if_need = 1 , pt_id = 54 
+, new_clust_num = 0 
+real ser. length: 9, all_used_points: [54, 387, 279, 261, 201, 306, 378, 303, 153]
+
+NUM_SER 112 
+CURRENT_MAX_LEN 14 
+SELECTED_ELEMENTS: [9, 3]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 14, all_used_points: [328, 107, 29, 140, 110, 158, 47, 299, 347, 314, 218, 209, 251, 329]
+
+NUM_SER 113 
+CURRENT_MAX_LEN 45 
+SELECTED_ELEMENTS: [15, 28]
+Start Series: if_need = 1 , pt_id = 116 
+, new_clust_num = 0 
+real ser. length: 45, all_used_points: [116, 31, 53, 265, 220, 244, 313, 331, 253, 97, 112, 55, 106, 151, 103, 109, 316, 61, 217, 127, 214, 70, 232, 196, 292, 85, 205, 7, 352, 190, 259, 13, 4, 10, 349, 100, 64, 94, 274, 142, 334, 301, 382, 208, 376]
+
+NUM_SER 114 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [16, 9]
+Start Series: if_need = 1 , pt_id = 143 
+, new_clust_num = 0 
+real ser. length: 27, all_used_points: [143, 111, 330, 219, 60, 150, 105, 180, 87, 297, 318, 156, 258, 159, 171, 51, 222, 327, 294, 312, 288, 18, 24, 42, 69, 282, 198]
+
+NUM_SER 115 
+CURRENT_MAX_LEN 7 
+SELECTED_ELEMENTS: [0, 5]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 7, all_used_points: [328, 107, 110, 158, 173, 68, 47]
+
+NUM_SER 116 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [22, 5]
+Start Series: if_need = 1 , pt_id = 107 
+, new_clust_num = 1 
+real ser. length: 29, all_used_points: [107, 328, 140, 29, 110, 209, 152, 356, 284, 251, 128, 149, 218, 272, 47, 95, 158, 26, 20, 323, 194, 242, 173, 83, 254, 299, 314, 134, 371]
+
+NUM_SER 117 
+CURRENT_MAX_LEN 18 
+SELECTED_ELEMENTS: [16, 0]
+Start Series: if_need = 1 , pt_id = 176 
+, new_clust_num = 1 
+real ser. length: 18, all_used_points: [176, 74, 137, 344, 146, 230, 350, 320, 386, 236, 359, 62, 380, 65, 377, 86, 392, 23]
+
+NUM_SER 118 
+CURRENT_MAX_LEN 43 
+SELECTED_ELEMENTS: [14, 27]
+Start Series: if_need = 1 , pt_id = 311 
+, new_clust_num = 1 
+real ser. length: 43, all_used_points: [311, 383, 329, 314, 356, 209, 29, 251, 269, 89, 152, 128, 365, 284, 185, 341, 197, 245, 20, 149, 179, 134, 266, 194, 107, 287, 131, 110, 323, 104, 281, 254, 278, 338, 224, 140, 182, 122, 92, 299, 328, 347, 45]
+
+NUM_SER 119 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [15, 18]
+Start Series: if_need = 1 , pt_id = 210 
+, new_clust_num = 1 
+real ser. length: 35, all_used_points: [210, 45, 269, 185, 197, 20, 149, 131, 323, 134, 356, 89, 383, 128, 266, 278, 179, 284, 311, 245, 152, 314, 209, 281, 329, 194, 218, 365, 191, 287, 170, 26, 341, 263, 254]
+
+NUM_SER 120 
+CURRENT_MAX_LEN 51 
+SELECTED_ELEMENTS: [28, 21]
+Start Series: if_need = 1 , pt_id = 156 
+, new_clust_num = 0 
+real ser. length: 51, all_used_points: [156, 312, 51, 330, 60, 111, 150, 87, 126, 105, 219, 159, 318, 258, 99, 288, 201, 222, 378, 143, 387, 339, 279, 321, 180, 153, 69, 198, 303, 261, 84, 300, 135, 282, 129, 345, 228, 363, 357, 285, 24, 54, 174, 27, 90, 78, 297, 276, 267, 171, 306]
+
+NUM_SER 121 
+CURRENT_MAX_LEN 40 
+SELECTED_ELEMENTS: [19, 19]
+Start Series: if_need = 1 , pt_id = 107 
+, new_clust_num = 1 
+real ser. length: 40, all_used_points: [107, 110, 251, 29, 218, 209, 194, 26, 328, 314, 47, 140, 254, 329, 134, 347, 158, 284, 170, 152, 356, 335, 122, 11, 371, 383, 173, 149, 242, 299, 191, 128, 311, 68, 272, 20, 95, 83, 281, 266]
+
+NUM_SER 122 
+CURRENT_MAX_LEN 21 
+SELECTED_ELEMENTS: [15, 4]
+Start Series: if_need = 1 , pt_id = 53 
+, new_clust_num = 0 
+real ser. length: 21, all_used_points: [53, 55, 244, 331, 265, 106, 151, 127, 352, 103, 64, 250, 16, 220, 116, 97, 253, 313, 94, 214, 31]
+
+NUM_SER 123 
+CURRENT_MAX_LEN 22 
+SELECTED_ELEMENTS: [3, 17]
+Start Series: if_need = 1 , pt_id = 45 
+, new_clust_num = 1 
+real ser. length: 22, all_used_points: [45, 210, 269, 185, 20, 197, 149, 128, 383, 323, 284, 281, 266, 104, 245, 356, 287, 278, 341, 224, 134, 338]
+
+NUM_SER 124 
+CURRENT_MAX_LEN 14 
+SELECTED_ELEMENTS: [12, 0]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 14, all_used_points: [328, 107, 140, 110, 158, 173, 347, 29, 335, 95, 251, 83, 47, 68]
+
+NUM_SER 125 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [11, 22]
+Start Series: if_need = 1 , pt_id = 176 
+, new_clust_num = 1 
+real ser. length: 35, all_used_points: [176, 74, 359, 113, 146, 215, 137, 221, 344, 350, 377, 260, 236, 230, 317, 98, 248, 62, 368, 206, 320, 92, 86, 242, 305, 23, 239, 203, 257, 386, 272, 41, 392, 32, 380]
+
+NUM_SER 126 
+CURRENT_MAX_LEN 11 
+SELECTED_ELEMENTS: [9, 0]
+Start Series: if_need = 1 , pt_id = 45 
+, new_clust_num = 1 
+real ser. length: 11, all_used_points: [45, 210, 269, 383, 185, 311, 197, 356, 329, 314, 131]
+
+NUM_SER 127 
+CURRENT_MAX_LEN 44 
+SELECTED_ELEMENTS: [21, 21]
+Start Series: if_need = 1 , pt_id = 55 
+, new_clust_num = 0 
+real ser. length: 44, all_used_points: [55, 316, 10, 244, 334, 220, 265, 106, 103, 253, 217, 274, 109, 53, 232, 52, 307, 205, 376, 157, 313, 193, 208, 370, 235, 4, 346, 355, 331, 82, 112, 319, 97, 214, 151, 154, 373, 61, 124, 190, 127, 259, 7, 286]
+
+NUM_SER 128 
+CURRENT_MAX_LEN 34 
+SELECTED_ELEMENTS: [6, 26]
+Start Series: if_need = 1 , pt_id = 143 
+, new_clust_num = 0 
+real ser. length: 34, all_used_points: [143, 111, 180, 219, 288, 150, 297, 105, 258, 318, 24, 18, 198, 363, 87, 39, 159, 330, 69, 84, 312, 171, 207, 294, 99, 222, 135, 120, 282, 27, 345, 153, 60, 228]
+
+NUM_SER 129 
+CURRENT_MAX_LEN 16 
+SELECTED_ELEMENTS: [14, 0]
+Start Series: if_need = 1 , pt_id = 248 
+, new_clust_num = 1 
+real ser. length: 16, all_used_points: [248, 359, 260, 317, 368, 176, 272, 242, 83, 113, 137, 215, 161, 371, 59, 377]
+
+NUM_SER 130 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [3, 23]
+Start Series: if_need = 1 , pt_id = 55 
+, new_clust_num = 0 
+real ser. length: 28, all_used_points: [55, 53, 109, 265, 331, 151, 97, 220, 127, 244, 253, 232, 217, 196, 313, 112, 307, 316, 31, 103, 352, 211, 61, 274, 106, 334, 376, 116]
+
+NUM_SER 131 
+CURRENT_MAX_LEN 46 
+SELECTED_ELEMENTS: [22, 22]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 46, all_used_points: [328, 107, 29, 140, 110, 251, 158, 173, 47, 218, 194, 314, 134, 299, 272, 347, 254, 209, 68, 284, 170, 95, 26, 335, 248, 152, 122, 11, 242, 83, 329, 317, 113, 191, 260, 371, 263, 59, 356, 323, 368, 128, 71, 215, 149, 137]
+
+NUM_SER 132 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [7, 21]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 30, all_used_points: [328, 107, 110, 140, 173, 158, 347, 47, 68, 29, 209, 299, 254, 194, 218, 251, 26, 272, 242, 170, 11, 95, 314, 248, 134, 335, 152, 122, 359, 329]
+
+NUM_SER 133 
+CURRENT_MAX_LEN 36 
+SELECTED_ELEMENTS: [25, 9]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 36, all_used_points: [328, 107, 110, 140, 173, 95, 272, 158, 47, 29, 242, 299, 347, 251, 254, 248, 68, 218, 194, 83, 170, 26, 209, 11, 371, 314, 284, 368, 134, 215, 137, 260, 122, 335, 113, 317]
+
+NUM_SER 134 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [25, 0]
+Start Series: if_need = 1 , pt_id = 143 
+, new_clust_num = 0 
+real ser. length: 27, all_used_points: [143, 111, 219, 150, 288, 105, 198, 180, 228, 282, 60, 24, 135, 330, 87, 223, 171, 357, 159, 222, 156, 345, 258, 114, 267, 69, 297]
+
+NUM_SER 135 
+CURRENT_MAX_LEN 39 
+SELECTED_ELEMENTS: [18, 19]
+Start Series: if_need = 1 , pt_id = 143 
+, new_clust_num = 0 
+real ser. length: 39, all_used_points: [143, 219, 111, 150, 288, 105, 60, 312, 330, 198, 24, 180, 258, 87, 171, 297, 156, 282, 363, 222, 135, 318, 51, 84, 159, 207, 39, 69, 120, 267, 228, 255, 27, 345, 90, 285, 99, 216, 225]
+
+NUM_SER 136 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [12, 10]
+Start Series: if_need = 1 , pt_id = 156 
+, new_clust_num = 0 
+real ser. length: 24, all_used_points: [156, 51, 126, 201, 54, 378, 312, 330, 174, 60, 99, 387, 159, 111, 321, 150, 153, 222, 306, 87, 348, 105, 339, 279]
+
+NUM_SER 137 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [17, 16]
+Start Series: if_need = 1 , pt_id = 107 
+, new_clust_num = 1 
+real ser. length: 35, all_used_points: [107, 29, 209, 110, 251, 328, 152, 314, 284, 194, 140, 254, 158, 47, 26, 347, 299, 329, 356, 218, 311, 383, 134, 170, 173, 68, 11, 83, 371, 272, 122, 71, 59, 290, 323]
+
+NUM_SER 138 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [26, 7]
+Start Series: if_need = 1 , pt_id = 311 
+, new_clust_num = 1 
+real ser. length: 35, all_used_points: [311, 329, 356, 383, 185, 269, 314, 152, 197, 45, 209, 284, 20, 128, 149, 131, 323, 29, 251, 281, 266, 278, 287, 89, 245, 210, 107, 134, 224, 191, 179, 365, 194, 122, 341]
+
+NUM_SER 139 
+CURRENT_MAX_LEN 39 
+SELECTED_ELEMENTS: [9, 28]
+Start Series: if_need = 1 , pt_id = 143 
+, new_clust_num = 0 
+real ser. length: 39, all_used_points: [143, 111, 219, 288, 180, 105, 318, 87, 69, 198, 363, 24, 159, 150, 282, 222, 135, 258, 171, 255, 339, 297, 120, 99, 207, 60, 27, 216, 84, 312, 303, 126, 285, 390, 90, 225, 153, 228, 51]
+
+NUM_SER 140 
+CURRENT_MAX_LEN 25 
+SELECTED_ELEMENTS: [3, 20]
+Start Series: if_need = 1 , pt_id = 176 
+, new_clust_num = 1 
+real ser. length: 25, all_used_points: [176, 236, 137, 305, 344, 215, 359, 248, 242, 260, 41, 350, 206, 368, 74, 86, 377, 161, 146, 113, 317, 239, 290, 320, 59]
+
+NUM_SER 141 
+CURRENT_MAX_LEN 40 
+SELECTED_ELEMENTS: [15, 23]
+Start Series: if_need = 1 , pt_id = 51 
+, new_clust_num = 0 
+real ser. length: 40, all_used_points: [51, 126, 201, 99, 387, 54, 174, 306, 156, 330, 378, 159, 222, 60, 312, 153, 321, 339, 303, 279, 216, 354, 87, 285, 78, 90, 150, 69, 105, 63, 207, 180, 348, 318, 111, 258, 84, 219, 288, 261]
+
+NUM_SER 142 
+CURRENT_MAX_LEN 13 
+SELECTED_ELEMENTS: [3, 8]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 13, all_used_points: [328, 107, 140, 272, 173, 158, 110, 29, 251, 209, 248, 368, 314]
+
+NUM_SER 143 
+CURRENT_MAX_LEN 25 
+SELECTED_ELEMENTS: [4, 19]
+Start Series: if_need = 1 , pt_id = 45 
+, new_clust_num = 1 
+real ser. length: 25, all_used_points: [45, 210, 269, 131, 185, 356, 383, 89, 197, 20, 266, 245, 179, 365, 287, 341, 329, 182, 224, 338, 152, 125, 104, 257, 155]
+
+NUM_SER 144 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [12, 10]
+Start Series: if_need = 1 , pt_id = 311 
+, new_clust_num = 1 
+real ser. length: 24, all_used_points: [311, 329, 356, 383, 152, 128, 314, 185, 29, 209, 149, 107, 197, 110, 194, 158, 347, 47, 251, 254, 20, 284, 134, 299]
+
+NUM_SER 145 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [17, 8]
+Start Series: if_need = 1 , pt_id = 311 
+, new_clust_num = 1 
+real ser. length: 27, all_used_points: [311, 329, 152, 314, 356, 29, 209, 251, 383, 284, 110, 194, 47, 128, 218, 26, 149, 20, 170, 323, 140, 185, 269, 122, 263, 254, 89]
+
+NUM_SER 146 
+CURRENT_MAX_LEN 46 
+SELECTED_ELEMENTS: [22, 22]
+Start Series: if_need = 1 , pt_id = 54 
+, new_clust_num = 0 
+real ser. length: 46, all_used_points: [54, 201, 387, 174, 279, 378, 354, 129, 51, 78, 153, 306, 126, 63, 156, 303, 339, 240, 96, 261, 192, 99, 321, 90, 0, 330, 60, 222, 30, 312, 384, 348, 216, 159, 249, 360, 150, 390, 123, 75, 36, 291, 285, 369, 114, 147]
+
+NUM_SER 147 
+CURRENT_MAX_LEN 25 
+SELECTED_ELEMENTS: [22, 1]
+Start Series: if_need = 1 , pt_id = 348 
+, new_clust_num = 0 
+real ser. length: 25, all_used_points: [348, 300, 168, 117, 306, 261, 174, 6, 393, 78, 129, 231, 15, 279, 387, 9, 333, 378, 54, 303, 201, 342, 204, 339, 234]
+
+NUM_SER 148 
+CURRENT_MAX_LEN 53 
+SELECTED_ELEMENTS: [23, 28]
+Start Series: if_need = 1 , pt_id = 45 
+, new_clust_num = 1 
+real ser. length: 53, all_used_points: [45, 210, 269, 185, 383, 311, 149, 356, 152, 20, 89, 365, 131, 329, 314, 323, 284, 209, 341, 182, 29, 179, 197, 266, 128, 281, 134, 104, 170, 278, 287, 245, 191, 107, 155, 122, 194, 92, 44, 254, 224, 338, 221, 251, 386, 328, 77, 125, 203, 275, 8, 101, 362]
+
+NUM_SER 149 
+CURRENT_MAX_LEN 33 
+SELECTED_ELEMENTS: [21, 10]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 33, all_used_points: [328, 107, 110, 140, 158, 272, 29, 173, 251, 209, 242, 47, 218, 95, 284, 152, 356, 194, 314, 248, 368, 329, 128, 347, 11, 299, 161, 311, 323, 254, 260, 26, 68]
+
+NUM_SER 150 
+CURRENT_MAX_LEN 39 
+SELECTED_ELEMENTS: [14, 23]
+Start Series: if_need = 1 , pt_id = 311 
+, new_clust_num = 1 
+real ser. length: 39, all_used_points: [311, 329, 356, 314, 152, 383, 284, 209, 128, 149, 185, 323, 20, 134, 281, 194, 266, 245, 251, 278, 269, 110, 197, 104, 29, 77, 287, 89, 227, 191, 224, 179, 275, 44, 17, 45, 155, 101, 119]
+
+NUM_SER 151 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [23, 3]
+Start Series: if_need = 1 , pt_id = 45 
+, new_clust_num = 1 
+real ser. length: 28, all_used_points: [45, 210, 269, 197, 20, 185, 149, 281, 266, 323, 383, 278, 179, 311, 131, 182, 341, 92, 245, 365, 287, 44, 89, 356, 224, 104, 329, 362]
+
+NUM_SER 152 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [1, 25]
+Start Series: if_need = 1 , pt_id = 116 
+, new_clust_num = 0 
+real ser. length: 28, all_used_points: [116, 31, 331, 112, 97, 214, 127, 313, 220, 70, 352, 106, 4, 265, 151, 292, 205, 7, 253, 53, 196, 94, 244, 211, 55, 85, 316, 64]
+
+NUM_SER 153 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [24, 3]
+Start Series: if_need = 1 , pt_id = 45 
+, new_clust_num = 1 
+real ser. length: 29, all_used_points: [45, 269, 89, 210, 197, 383, 179, 245, 365, 20, 323, 131, 266, 185, 224, 281, 338, 287, 149, 284, 341, 77, 311, 128, 125, 356, 152, 329, 227]
+
+NUM_SER 154 
+CURRENT_MAX_LEN 15 
+SELECTED_ELEMENTS: [4, 9]
+Start Series: if_need = 1 , pt_id = 53 
+, new_clust_num = 0 
+real ser. length: 15, all_used_points: [53, 116, 55, 244, 265, 331, 31, 97, 220, 313, 106, 112, 151, 214, 10]
+
+NUM_SER 155 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [8, 27]
+Start Series: if_need = 1 , pt_id = 116 
+, new_clust_num = 0 
+real ser. length: 37, all_used_points: [116, 53, 244, 55, 253, 106, 220, 10, 331, 31, 316, 265, 97, 334, 313, 208, 151, 319, 1, 205, 13, 217, 112, 4, 103, 166, 274, 214, 127, 193, 52, 70, 232, 199, 109, 187, 286]
+
+NUM_SER 156 
+CURRENT_MAX_LEN 45 
+SELECTED_ELEMENTS: [15, 28]
+Start Series: if_need = 1 , pt_id = 53 
+, new_clust_num = 0 
+real ser. length: 45, all_used_points: [53, 244, 116, 331, 151, 31, 265, 55, 316, 103, 220, 106, 274, 253, 334, 10, 208, 205, 97, 313, 4, 214, 70, 376, 217, 109, 232, 292, 7, 307, 112, 127, 94, 61, 250, 100, 196, 259, 64, 190, 382, 13, 157, 82, 247]
+
+NUM_SER 157 
+CURRENT_MAX_LEN 36 
+SELECTED_ELEMENTS: [22, 12]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 36, all_used_points: [328, 107, 29, 140, 110, 173, 68, 347, 251, 95, 314, 47, 11, 371, 194, 170, 83, 209, 299, 158, 242, 272, 254, 248, 335, 218, 59, 26, 152, 296, 71, 134, 167, 284, 122, 368]
+
+NUM_SER 158 
+CURRENT_MAX_LEN 6 
+SELECTED_ELEMENTS: [3, 1]
+Start Series: if_need = 1 , pt_id = 311 
+, new_clust_num = 1 
+real ser. length: 6, all_used_points: [311, 356, 329, 383, 152, 185]
+
+NUM_SER 159 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [9, 17]
+Start Series: if_need = 1 , pt_id = 176 
+, new_clust_num = 1 
+real ser. length: 28, all_used_points: [176, 359, 344, 236, 74, 350, 146, 23, 113, 230, 137, 377, 221, 380, 215, 320, 62, 65, 248, 317, 260, 35, 305, 239, 188, 206, 86, 41]
+
+NUM_SER 160 
+CURRENT_MAX_LEN 41 
+SELECTED_ELEMENTS: [19, 20]
+Start Series: if_need = 1 , pt_id = 156 
+, new_clust_num = 0 
+real ser. length: 41, all_used_points: [156, 330, 312, 126, 99, 201, 159, 51, 87, 387, 60, 153, 54, 339, 216, 378, 111, 288, 174, 150, 219, 129, 279, 306, 303, 321, 105, 180, 354, 261, 78, 69, 318, 276, 222, 24, 198, 348, 258, 143, 393]
+
+NUM_SER 161 
+CURRENT_MAX_LEN 22 
+SELECTED_ELEMENTS: [14, 6]
+Start Series: if_need = 1 , pt_id = 116 
+, new_clust_num = 0 
+real ser. length: 22, all_used_points: [116, 31, 331, 53, 151, 55, 244, 127, 316, 265, 220, 292, 352, 103, 85, 112, 313, 196, 97, 349, 106, 253]
+
+NUM_SER 162 
+CURRENT_MAX_LEN 17 
+SELECTED_ELEMENTS: [5, 10]
+Start Series: if_need = 1 , pt_id = 176 
+, new_clust_num = 1 
+real ser. length: 17, all_used_points: [176, 137, 215, 368, 161, 290, 260, 236, 248, 74, 377, 359, 242, 239, 59, 317, 305]
+
+NUM_SER 163 
+CURRENT_MAX_LEN 42 
+SELECTED_ELEMENTS: [19, 21]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 42, all_used_points: [328, 107, 140, 29, 110, 251, 158, 173, 47, 218, 68, 194, 314, 209, 152, 329, 95, 26, 254, 356, 311, 185, 299, 128, 383, 269, 347, 170, 134, 149, 272, 122, 284, 197, 335, 11, 191, 83, 323, 20, 242, 371]
+
+NUM_SER 164 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [26, 9]
+Start Series: if_need = 1 , pt_id = 210 
+, new_clust_num = 1 
+real ser. length: 37, all_used_points: [210, 45, 269, 89, 365, 185, 131, 179, 197, 245, 266, 356, 383, 20, 281, 341, 311, 182, 125, 362, 329, 152, 314, 209, 29, 128, 110, 224, 251, 338, 92, 284, 287, 134, 140, 107, 278]
+
+NUM_SER 165 
+CURRENT_MAX_LEN 17 
+SELECTED_ELEMENTS: [13, 2]
+Start Series: if_need = 1 , pt_id = 115 
+, new_clust_num = 0 
+real ser. length: 17, all_used_points: [115, 223, 22, 94, 151, 34, 58, 67, 79, 160, 57, 49, 226, 202, 169, 271, 145]
+
+NUM_SER 166 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [23, 2]
+Start Series: if_need = 1 , pt_id = 130 
+, new_clust_num = 0 
+real ser. length: 27, all_used_points: [130, 37, 298, 229, 184, 121, 289, 367, 364, 76, 73, 277, 385, 118, 322, 238, 25, 175, 40, 343, 340, 262, 358, 190, 259, 178, 148]
+
+NUM_SER 167 
+CURRENT_MAX_LEN 36 
+SELECTED_ELEMENTS: [13, 21]
+Start Series: if_need = 1 , pt_id = 49 
+, new_clust_num = 2 
+real ser. length: 36, all_used_points: [49, 79, 160, 67, 115, 58, 145, 223, 22, 328, 169, 151, 34, 202, 271, 228, 94, 198, 219, 132, 345, 288, 57, 72, 107, 135, 324, 180, 24, 189, 282, 143, 357, 111, 226, 252]
+
+NUM_SER 168 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [5, 23]
+Start Series: if_need = 1 , pt_id = 81 
+, new_clust_num = 2 
+real ser. length: 30, all_used_points: [81, 162, 18, 273, 267, 171, 315, 294, 42, 327, 297, 39, 96, 255, 177, 30, 249, 192, 66, 360, 12, 114, 3, 0, 240, 120, 291, 390, 384, 363]
+
+NUM_SER 169 
+CURRENT_MAX_LEN 11 
+SELECTED_ELEMENTS: [1, 8]
+Start Series: if_need = 1 , pt_id = 171 
+, new_clust_num = 2 
+real ser. length: 11, all_used_points: [171, 267, 327, 294, 297, 162, 18, 81, 273, 42, 30]
+
+NUM_SER 170 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [16, 12]
+Start Series: if_need = 1 , pt_id = 45 
+, new_clust_num = 1 
+real ser. length: 30, all_used_points: [45, 210, 269, 89, 383, 311, 356, 111, 143, 329, 185, 131, 128, 182, 149, 197, 152, 179, 365, 341, 245, 284, 219, 338, 125, 92, 198, 257, 20, 203]
+
+NUM_SER 171 
+CURRENT_MAX_LEN 22 
+SELECTED_ELEMENTS: [8, 12]
+Start Series: if_need = 1 , pt_id = 269 
+, new_clust_num = 1 
+real ser. length: 22, all_used_points: [269, 131, 92, 89, 185, 362, 197, 245, 179, 341, 125, 224, 365, 182, 338, 287, 8, 257, 221, 281, 383, 98]
+
+NUM_SER 172 
+CURRENT_MAX_LEN 23 
+SELECTED_ELEMENTS: [13, 8]
+Start Series: if_need = 1 , pt_id = 143 
+, new_clust_num = 0 
+real ser. length: 23, all_used_points: [143, 107, 111, 219, 328, 288, 24, 198, 22, 171, 180, 31, 282, 115, 151, 267, 297, 53, 258, 345, 39, 135, 189]
+
+NUM_SER 173 
+CURRENT_MAX_LEN 23 
+SELECTED_ELEMENTS: [18, 3]
+Start Series: if_need = 1 , pt_id = 143 
+, new_clust_num = 0 
+real ser. length: 23, all_used_points: [143, 107, 219, 328, 111, 288, 180, 297, 198, 31, 22, 53, 363, 24, 116, 255, 258, 84, 282, 39, 12, 223, 105]
+
+NUM_SER 174 
+CURRENT_MAX_LEN 21 
+SELECTED_ELEMENTS: [8, 11]
+Start Series: if_need = 1 , pt_id = 110 
+, new_clust_num = 2 
+real ser. length: 21, all_used_points: [110, 29, 47, 158, 209, 173, 314, 251, 194, 299, 218, 254, 152, 284, 134, 95, 242, 347, 26, 140, 83]
+
+NUM_SER 175 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [20, 7]
+Start Series: if_need = 1 , pt_id = 210 
+, new_clust_num = 1 
+real ser. length: 29, all_used_points: [210, 45, 269, 197, 89, 179, 365, 131, 20, 185, 341, 182, 92, 266, 245, 125, 383, 128, 149, 323, 284, 152, 311, 134, 362, 194, 8, 356, 281]
+
+NUM_SER 176 
+CURRENT_MAX_LEN 53 
+SELECTED_ELEMENTS: [27, 24]
+Start Series: if_need = 1 , pt_id = 143 
+, new_clust_num = 0 
+real ser. length: 53, all_used_points: [143, 111, 107, 328, 330, 150, 156, 180, 219, 22, 288, 31, 60, 198, 87, 51, 24, 331, 312, 105, 151, 223, 228, 324, 115, 318, 159, 58, 357, 67, 84, 79, 132, 196, 116, 135, 97, 72, 201, 94, 69, 112, 53, 130, 220, 222, 258, 145, 34, 207, 282, 297, 313]
+
+NUM_SER 177 
+CURRENT_MAX_LEN 44 
+SELECTED_ELEMENTS: [19, 23]
+Start Series: if_need = 1 , pt_id = 81 
+, new_clust_num = 2 
+real ser. length: 44, all_used_points: [81, 273, 114, 315, 42, 30, 249, 18, 96, 384, 66, 177, 3, 291, 309, 0, 372, 240, 162, 360, 390, 381, 141, 12, 27, 225, 255, 93, 192, 123, 90, 243, 297, 246, 63, 36, 75, 108, 207, 39, 48, 363, 318, 285]
+
+NUM_SER 178 
+CURRENT_MAX_LEN 7 
+SELECTED_ELEMENTS: [1, 4]
+Start Series: if_need = 1 , pt_id = 143 
+, new_clust_num = 0 
+real ser. length: 7, all_used_points: [143, 219, 107, 198, 135, 111, 228]
+
+NUM_SER 179 
+CURRENT_MAX_LEN 19 
+SELECTED_ELEMENTS: [5, 12]
+Start Series: if_need = 1 , pt_id = 226 
+, new_clust_num = 1 
+real ser. length: 19, all_used_points: [226, 142, 57, 340, 132, 118, 130, 34, 289, 379, 229, 37, 271, 367, 184, 228, 76, 298, 259]
+
+NUM_SER 180 
+CURRENT_MAX_LEN 10 
+SELECTED_ELEMENTS: [2, 6]
+Start Series: if_need = 1 , pt_id = 140 
+, new_clust_num = 2 
+real ser. length: 10, all_used_points: [140, 110, 107, 29, 209, 143, 173, 314, 251, 158]
+
+NUM_SER 181 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [23, 2]
+Start Series: if_need = 1 , pt_id = 348 
+, new_clust_num = 0 
+real ser. length: 27, all_used_points: [348, 393, 168, 117, 300, 231, 6, 261, 15, 306, 174, 333, 54, 9, 204, 183, 234, 33, 21, 165, 144, 195, 243, 276, 279, 291, 342]
+
+NUM_SER 182 
+CURRENT_MAX_LEN 26 
+SELECTED_ELEMENTS: [9, 15]
+Start Series: if_need = 1 , pt_id = 171 
+, new_clust_num = 2 
+real ser. length: 26, all_used_points: [171, 297, 294, 18, 327, 42, 177, 162, 273, 81, 258, 267, 255, 363, 39, 84, 12, 315, 0, 120, 318, 27, 69, 207, 87, 192]
+
+NUM_SER 183 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [20, 7]
+Start Series: if_need = 1 , pt_id = 198 
+, new_clust_num = 2 
+real ser. length: 29, all_used_points: [198, 228, 135, 219, 111, 330, 311, 356, 143, 156, 269, 105, 29, 150, 107, 312, 87, 329, 314, 51, 201, 60, 383, 387, 185, 152, 140, 128, 158]
+
+NUM_SER 184 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [22, 6]
+Start Series: if_need = 1 , pt_id = 72 
+, new_clust_num = 1 
+real ser. length: 30, all_used_points: [72, 132, 57, 130, 357, 271, 252, 229, 367, 298, 228, 324, 223, 37, 202, 198, 189, 34, 226, 259, 289, 58, 121, 340, 345, 358, 135, 142, 109, 88]
+
+NUM_SER 185 
+CURRENT_MAX_LEN 18 
+SELECTED_ELEMENTS: [7, 9]
+Start Series: if_need = 1 , pt_id = 311 
+, new_clust_num = 1 
+real ser. length: 18, all_used_points: [311, 111, 180, 383, 143, 269, 219, 328, 288, 24, 356, 329, 152, 131, 314, 365, 107, 341]
+
+NUM_SER 186 
+CURRENT_MAX_LEN 40 
+SELECTED_ELEMENTS: [18, 20]
+Start Series: if_need = 1 , pt_id = 269 
+, new_clust_num = 1 
+real ser. length: 40, all_used_points: [269, 197, 179, 383, 365, 185, 149, 356, 311, 89, 45, 128, 131, 245, 266, 20, 323, 111, 182, 284, 210, 219, 341, 143, 180, 24, 281, 282, 288, 329, 134, 152, 92, 338, 198, 224, 209, 314, 287, 135]
+
+NUM_SER 187 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [11, 14]
+Start Series: if_need = 1 , pt_id = 180 
+, new_clust_num = 1 
+real ser. length: 27, all_used_points: [180, 24, 288, 282, 111, 198, 345, 135, 228, 189, 219, 324, 252, 357, 143, 328, 311, 223, 107, 58, 132, 31, 314, 57, 226, 130, 151]
+
+NUM_SER 188 
+CURRENT_MAX_LEN 26 
+SELECTED_ELEMENTS: [18, 6]
+Start Series: if_need = 1 , pt_id = 114 
+, new_clust_num = 2 
+real ser. length: 26, all_used_points: [114, 3, 273, 81, 309, 381, 66, 162, 249, 42, 351, 384, 18, 372, 141, 177, 246, 267, 93, 270, 294, 327, 39, 297, 108, 375]
+
+NUM_SER 189 
+CURRENT_MAX_LEN 14 
+SELECTED_ELEMENTS: [10, 2]
+Start Series: if_need = 1 , pt_id = 180 
+, new_clust_num = 1 
+real ser. length: 14, all_used_points: [180, 24, 288, 111, 143, 107, 219, 282, 198, 311, 328, 345, 29, 94]
+
+NUM_SER 190 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [6, 16]
+Start Series: if_need = 1 , pt_id = 248 
+, new_clust_num = 2 
+real ser. length: 24, all_used_points: [248, 317, 272, 173, 260, 95, 140, 107, 110, 143, 111, 29, 83, 330, 158, 209, 314, 68, 242, 251, 156, 311, 359, 51]
+
+NUM_SER 191 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [9, 24]
+Start Series: if_need = 1 , pt_id = 282 
+, new_clust_num = 1 
+real ser. length: 35, all_used_points: [282, 198, 24, 288, 180, 135, 345, 228, 111, 189, 328, 57, 219, 252, 143, 107, 110, 140, 357, 132, 72, 31, 324, 29, 209, 251, 130, 311, 226, 314, 116, 47, 115, 152, 298]
+
+NUM_SER 192 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [2, 23]
+Start Series: if_need = 1 , pt_id = 111 
+, new_clust_num = 1 
+real ser. length: 27, all_used_points: [111, 180, 24, 198, 288, 219, 311, 328, 329, 143, 223, 282, 228, 135, 345, 115, 57, 189, 94, 383, 130, 107, 269, 58, 356, 314, 89]
+
+NUM_SER 193 
+CURRENT_MAX_LEN 23 
+SELECTED_ELEMENTS: [16, 5]
+Start Series: if_need = 1 , pt_id = 135 
+, new_clust_num = 2 
+real ser. length: 23, all_used_points: [135, 198, 228, 219, 143, 107, 29, 140, 111, 110, 173, 95, 251, 329, 311, 314, 158, 299, 83, 330, 347, 47, 156]
+
+NUM_SER 194 
+CURRENT_MAX_LEN 16 
+SELECTED_ELEMENTS: [6, 8]
+Start Series: if_need = 1 , pt_id = 24 
+, new_clust_num = 1 
+real ser. length: 16, all_used_points: [24, 288, 180, 219, 111, 143, 107, 311, 31, 198, 328, 329, 116, 383, 115, 140]
+
+NUM_SER 195 
+CURRENT_MAX_LEN 22 
+SELECTED_ELEMENTS: [2, 18]
+Start Series: if_need = 1 , pt_id = 45 
+, new_clust_num = 1 
+real ser. length: 22, all_used_points: [45, 210, 269, 383, 356, 89, 131, 197, 128, 185, 20, 311, 365, 182, 329, 152, 245, 179, 111, 143, 92, 149]
+
+NUM_SER 196 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [6, 22]
+Start Series: if_need = 1 , pt_id = 248 
+, new_clust_num = 2 
+real ser. length: 30, all_used_points: [248, 317, 260, 113, 359, 215, 137, 368, 242, 272, 95, 371, 83, 11, 68, 173, 176, 239, 59, 71, 335, 347, 122, 56, 170, 290, 164, 377, 158, 392]
+
+NUM_SER 197 
+CURRENT_MAX_LEN 15 
+SELECTED_ELEMENTS: [3, 10]
+Start Series: if_need = 1 , pt_id = 81 
+, new_clust_num = 2 
+real ser. length: 15, all_used_points: [81, 162, 18, 273, 42, 294, 315, 267, 297, 171, 39, 255, 177, 96, 0]
+
+NUM_SER 198 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [20, 2]
+Start Series: if_need = 1 , pt_id = 24 
+, new_clust_num = 1 
+real ser. length: 24, all_used_points: [24, 180, 288, 198, 282, 219, 111, 107, 328, 140, 143, 110, 311, 116, 329, 356, 135, 158, 383, 115, 185, 173, 47, 272]
+
+NUM_SER 199 
+CURRENT_MAX_LEN 46 
+SELECTED_ELEMENTS: [27, 17]
+Start Series: if_need = 1 , pt_id = 210 
+, new_clust_num = 1 
+real ser. length: 46, all_used_points: [210, 45, 269, 89, 131, 365, 185, 197, 182, 20, 266, 323, 341, 149, 179, 278, 383, 284, 92, 125, 338, 128, 356, 152, 245, 8, 209, 281, 362, 5, 221, 287, 386, 98, 35, 311, 104, 155, 134, 111, 29, 329, 212, 194, 143, 230]
+
+NUM_SER 200 
+CURRENT_MAX_LEN 23 
+SELECTED_ELEMENTS: [13, 8]
+Start Series: if_need = 1 , pt_id = 228 
+, new_clust_num = 2 
+real ser. length: 23, all_used_points: [228, 198, 219, 135, 111, 107, 110, 140, 158, 105, 47, 347, 318, 69, 173, 299, 258, 272, 150, 87, 311, 330, 60]
+
+NUM_SER 201 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [7, 28]
+Start Series: if_need = 1 , pt_id = 135 
+, new_clust_num = 2 
+real ser. length: 37, all_used_points: [135, 198, 219, 228, 143, 107, 111, 105, 29, 314, 87, 110, 258, 150, 60, 312, 318, 363, 297, 251, 330, 69, 159, 222, 140, 156, 84, 272, 51, 171, 120, 158, 255, 99, 311, 209, 27]
+
+NUM_SER 202 
+CURRENT_MAX_LEN 22 
+SELECTED_ELEMENTS: [12, 8]
+Start Series: if_need = 1 , pt_id = 3 
+, new_clust_num = 2 
+real ser. length: 22, all_used_points: [3, 66, 114, 309, 249, 384, 273, 291, 81, 372, 381, 30, 375, 42, 141, 315, 369, 246, 351, 177, 270, 96]
+
+NUM_SER 1 
+CURRENT_MAX_LEN 36 
+SELECTED_ELEMENTS: [13, 21]
+Start Series: if_need = 1 , pt_id = 326 
+, new_clust_num = 0 
+real ser. length: 36, all_used_points: [326, 2, 167, 296, 71, 389, 56, 374, 371, 11, 83, 242, 302, 200, 392, 32, 41, 335, 65, 86, 380, 320, 350, 95, 23, 161, 347, 68, 206, 230, 122, 239, 212, 59, 386, 215]
+
+NUM_SER 2 
+CURRENT_MAX_LEN 39 
+SELECTED_ELEMENTS: [10, 27]
+Start Series: if_need = 1 , pt_id = 150 
+, new_clust_num = 0 
+real ser. length: 39, all_used_points: [150, 87, 111, 318, 105, 84, 258, 363, 120, 255, 69, 207, 27, 297, 12, 180, 39, 288, 0, 177, 18, 285, 225, 171, 90, 123, 63, 390, 360, 327, 294, 267, 162, 189, 143, 192, 96, 252, 24]
+
+NUM_SER 3 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [18, 10]
+Start Series: if_need = 1 , pt_id = 98 
+, new_clust_num = 0 
+real ser. length: 30, all_used_points: [98, 203, 188, 221, 35, 74, 62, 176, 146, 236, 55, 344, 137, 53, 316, 331, 359, 274, 253, 377, 31, 265, 109, 106, 107, 305, 10, 208, 334, 13]
+
+NUM_SER 4 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [11, 15]
+Start Series: if_need = 1 , pt_id = 134 
+, new_clust_num = 5 
+real ser. length: 28, all_used_points: [134, 122, 56, 263, 335, 191, 11, 347, 50, 68, 323, 44, 83, 101, 77, 71, 95, 242, 104, 368, 275, 278, 371, 80, 227, 164, 287, 59]
+
+NUM_SER 5 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [22, 0]
+Start Series: if_need = 1 , pt_id = 36 
+, new_clust_num = 0 
+real ser. length: 24, all_used_points: [36, 63, 75, 369, 147, 240, 90, 96, 195, 123, 360, 237, 390, 285, 192, 0, 225, 27, 291, 384, 255, 141, 120, 207]
+
+NUM_SER 6 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [23, 10]
+Start Series: if_need = 1 , pt_id = 15 
+, new_clust_num = 5 
+real ser. length: 35, all_used_points: [15, 6, 102, 300, 393, 261, 354, 168, 276, 279, 144, 387, 303, 306, 153, 378, 174, 321, 348, 78, 126, 210, 129, 117, 201, 216, 51, 54, 339, 99, 269, 131, 231, 222, 159]
+
+NUM_SER 7 
+CURRENT_MAX_LEN 25 
+SELECTED_ELEMENTS: [20, 3]
+Start Series: if_need = 1 , pt_id = 274 
+, new_clust_num = 4 
+real ser. length: 25, all_used_points: [274, 316, 253, 55, 10, 334, 176, 106, 244, 208, 13, 53, 4, 31, 116, 74, 221, 205, 220, 109, 344, 265, 98, 1, 313]
+
+NUM_SER 8 
+CURRENT_MAX_LEN 9 
+SELECTED_ELEMENTS: [3, 4]
+Start Series: if_need = 1 , pt_id = 382 
+, new_clust_num = 1 
+real ser. length: 9, all_used_points: [382, 100, 190, 61, 259, 232, 235, 109, 307]
+
+NUM_SER 9 
+CURRENT_MAX_LEN 52 
+SELECTED_ELEMENTS: [26, 24]
+Start Series: if_need = 1 , pt_id = 312 
+, new_clust_num = 1 
+real ser. length: 52, all_used_points: [312, 156, 330, 311, 60, 356, 185, 383, 329, 152, 128, 197, 149, 20, 281, 104, 266, 284, 134, 89, 245, 365, 77, 323, 179, 155, 341, 182, 287, 224, 275, 338, 92, 278, 122, 44, 17, 335, 80, 125, 227, 353, 56, 191, 347, 362, 5, 11, 14, 101, 119, 68]
+
+NUM_SER 10 
+CURRENT_MAX_LEN 17 
+SELECTED_ELEMENTS: [8, 7]
+Start Series: if_need = 1 , pt_id = 235 
+, new_clust_num = 1 
+real ser. length: 17, all_used_points: [235, 382, 232, 100, 190, 61, 259, 109, 307, 55, 376, 53, 103, 316, 10, 313, 253]
+
+NUM_SER 11 
+CURRENT_MAX_LEN 36 
+SELECTED_ELEMENTS: [19, 15]
+Start Series: if_need = 1 , pt_id = 272 
+, new_clust_num = 0 
+real ser. length: 36, all_used_points: [272, 248, 116, 173, 317, 113, 140, 368, 260, 31, 53, 158, 290, 107, 331, 151, 299, 328, 47, 110, 251, 26, 218, 254, 55, 94, 194, 219, 170, 29, 143, 211, 209, 265, 314, 244]
+
+NUM_SER 12 
+CURRENT_MAX_LEN 20 
+SELECTED_ELEMENTS: [11, 7]
+Start Series: if_need = 1 , pt_id = 111 
+, new_clust_num = 0 
+real ser. length: 20, all_used_points: [111, 105, 87, 150, 318, 69, 180, 222, 159, 258, 288, 207, 297, 99, 84, 339, 285, 216, 126, 363]
+
+NUM_SER 13 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [26, 7]
+Start Series: if_need = 1 , pt_id = 244 
+, new_clust_num = 3 
+real ser. length: 35, all_used_points: [244, 55, 265, 53, 331, 359, 127, 176, 236, 151, 74, 146, 137, 377, 113, 344, 350, 23, 215, 317, 116, 305, 380, 230, 248, 97, 239, 41, 260, 112, 86, 368, 320, 70, 221]
+
+NUM_SER 14 
+CURRENT_MAX_LEN 6 
+SELECTED_ELEMENTS: [1, 3]
+Start Series: if_need = 1 , pt_id = 244 
+, new_clust_num = 3 
+real ser. length: 6, all_used_points: [244, 53, 265, 55, 116, 176]
+
+NUM_SER 15 
+CURRENT_MAX_LEN 3 
+SELECTED_ELEMENTS: [0, 1]
+Start Series: if_need = 0 , pt_id = 233 
+, new_clust_num = 0 
+real ser. length: 1, all_used_points: [233]
+
+NUM_SER 16 
+CURRENT_MAX_LEN 8 
+SELECTED_ELEMENTS: [3, 3]
+Start Series: if_need = 1 , pt_id = 51 
+, new_clust_num = 0 
+real ser. length: 8, all_used_points: [51, 269, 201, 126, 378, 387, 279, 321]
+
+NUM_SER 17 
+CURRENT_MAX_LEN 2 
+SELECTED_ELEMENTS: [0, 0]
+Start Series: if_need = 1 , pt_id = 259 
+, new_clust_num = 1 
+real ser. length: 2, all_used_points: [259, 190]
+
+NUM_SER 18 
+CURRENT_MAX_LEN 41 
+SELECTED_ELEMENTS: [23, 16]
+Start Series: if_need = 1 , pt_id = 330 
+, new_clust_num = 1 
+real ser. length: 41, all_used_points: [330, 311, 60, 312, 156, 383, 329, 152, 314, 356, 209, 143, 284, 128, 185, 194, 29, 323, 251, 134, 219, 328, 170, 107, 149, 110, 122, 218, 281, 47, 20, 31, 56, 197, 266, 94, 140, 179, 335, 89, 263]
+
+NUM_SER 19 
+CURRENT_MAX_LEN 31 
+SELECTED_ELEMENTS: [18, 11]
+Start Series: if_need = 1 , pt_id = 98 
+, new_clust_num = 0 
+real ser. length: 31, all_used_points: [98, 221, 74, 176, 55, 344, 109, 103, 53, 316, 10, 4, 244, 259, 265, 106, 232, 220, 116, 274, 217, 190, 334, 70, 376, 253, 52, 205, 208, 319, 214]
+
+NUM_SER 20 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [24, 3]
+Start Series: if_need = 0 , pt_id = 45 
+, new_clust_num = 1 
+real ser. length: 1, all_used_points: [45]
+
+NUM_SER 21 
+CURRENT_MAX_LEN 41 
+SELECTED_ELEMENTS: [19, 20]
+Start Series: if_need = 1 , pt_id = 112 
+, new_clust_num = 1 
+real ser. length: 41, all_used_points: [112, 97, 331, 214, 4, 220, 313, 253, 205, 208, 316, 10, 244, 151, 106, 13, 1, 55, 217, 103, 334, 265, 328, 319, 53, 232, 31, 193, 109, 74, 230, 355, 274, 370, 176, 376, 61, 35, 100, 190, 107]
+
+NUM_SER 22 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [8, 14]
+Start Series: if_need = 1 , pt_id = 131 
+, new_clust_num = 0 
+real ser. length: 24, all_used_points: [131, 269, 201, 51, 45, 210, 231, 6, 168, 54, 306, 234, 348, 117, 126, 300, 387, 393, 174, 15, 102, 129, 321, 204]
+
+NUM_SER 23 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [14, 12]
+Start Series: if_need = 1 , pt_id = 214 
+, new_clust_num = 3 
+real ser. length: 28, all_used_points: [214, 70, 112, 292, 127, 7, 250, 64, 301, 97, 331, 352, 361, 181, 133, 85, 151, 94, 349, 163, 304, 337, 268, 241, 16, 199, 196, 172]
+
+NUM_SER 24 
+CURRENT_MAX_LEN 26 
+SELECTED_ELEMENTS: [8, 16]
+Start Series: if_need = 1 , pt_id = 304 
+, new_clust_num = 1 
+real ser. length: 26, all_used_points: [304, 250, 172, 337, 7, 349, 241, 163, 64, 181, 133, 361, 85, 205, 352, 196, 16, 70, 268, 292, 301, 127, 199, 13, 112, 1]
+
+NUM_SER 25 
+CURRENT_MAX_LEN 7 
+SELECTED_ELEMENTS: [4, 1]
+Start Series: if_need = 1 , pt_id = 312 
+, new_clust_num = 1 
+real ser. length: 7, all_used_points: [312, 330, 156, 383, 311, 143, 356]
+
+NUM_SER 26 
+CURRENT_MAX_LEN 38 
+SELECTED_ELEMENTS: [16, 20]
+Start Series: if_need = 1 , pt_id = 259 
+, new_clust_num = 1 
+real ser. length: 38, all_used_points: [259, 190, 100, 232, 382, 109, 217, 274, 316, 376, 253, 193, 235, 61, 307, 52, 55, 334, 319, 103, 10, 370, 355, 208, 313, 205, 214, 13, 106, 244, 4, 1, 70, 7, 265, 220, 97, 176]
+
+NUM_SER 27 
+CURRENT_MAX_LEN 16 
+SELECTED_ELEMENTS: [2, 12]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 1 
+real ser. length: 16, all_used_points: [328, 94, 31, 219, 143, 329, 107, 110, 29, 151, 356, 383, 331, 140, 311, 116]
+
+NUM_SER 28 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [8, 14]
+Start Series: if_need = 1 , pt_id = 142 
+, new_clust_num = 3 
+real ser. length: 24, all_used_points: [142, 118, 226, 289, 340, 37, 40, 76, 238, 379, 28, 184, 19, 280, 124, 373, 43, 121, 229, 358, 25, 130, 175, 262]
+
+NUM_SER 29 
+CURRENT_MAX_LEN 10 
+SELECTED_ELEMENTS: [3, 5]
+Start Series: if_need = 1 , pt_id = 98 
+, new_clust_num = 0 
+real ser. length: 10, all_used_points: [98, 221, 74, 176, 55, 103, 344, 53, 244, 220]
+
+NUM_SER 30 
+CURRENT_MAX_LEN 41 
+SELECTED_ELEMENTS: [22, 17]
+Start Series: if_need = 1 , pt_id = 262 
+, new_clust_num = 1 
+real ser. length: 41, all_used_points: [262, 175, 25, 358, 238, 76, 121, 184, 229, 289, 379, 118, 28, 142, 259, 280, 37, 43, 340, 226, 190, 124, 373, 130, 382, 100, 40, 19, 61, 235, 232, 109, 307, 103, 376, 217, 52, 55, 355, 106, 316]
+
+NUM_SER 31 
+CURRENT_MAX_LEN 21 
+SELECTED_ELEMENTS: [16, 3]
+Start Series: if_need = 1 , pt_id = 166 
+, new_clust_num = 3 
+real ser. length: 21, all_used_points: [166, 187, 325, 286, 283, 91, 346, 157, 154, 82, 247, 295, 148, 256, 388, 178, 343, 46, 73, 385, 49]
+
+NUM_SER 32 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [20, 8]
+Start Series: if_need = 0 , pt_id = 45 
+, new_clust_num = 1 
+real ser. length: 1, all_used_points: [45]
+
+NUM_SER 33 
+CURRENT_MAX_LEN 22 
+SELECTED_ELEMENTS: [8, 12]
+Start Series: if_need = 1 , pt_id = 221 
+, new_clust_num = 0 
+real ser. length: 22, all_used_points: [221, 98, 74, 344, 176, 55, 244, 53, 265, 103, 316, 109, 106, 331, 217, 376, 112, 116, 274, 232, 127, 259]
+
+NUM_SER 34 
+CURRENT_MAX_LEN 40 
+SELECTED_ELEMENTS: [16, 22]
+Start Series: if_need = 1 , pt_id = 8 
+, new_clust_num = 4 
+real ser. length: 40, all_used_points: [8, 362, 92, 125, 182, 341, 257, 365, 338, 5, 203, 224, 14, 287, 353, 233, 38, 245, 131, 188, 89, 17, 269, 212, 386, 197, 179, 35, 62, 65, 156, 77, 80, 380, 293, 23, 230, 320, 119, 275]
+
+NUM_SER 35 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [23, 12]
+Start Series: if_need = 1 , pt_id = 226 
+, new_clust_num = 1 
+real ser. length: 37, all_used_points: [226, 289, 37, 130, 142, 118, 340, 259, 190, 184, 229, 76, 109, 25, 121, 379, 175, 61, 100, 40, 325, 262, 235, 217, 295, 247, 82, 238, 232, 43, 124, 55, 358, 286, 103, 28, 244]
+
+NUM_SER 36 
+CURRENT_MAX_LEN 6 
+SELECTED_ELEMENTS: [0, 4]
+Start Series: if_need = 1 , pt_id = 229 
+, new_clust_num = 1 
+real ser. length: 6, all_used_points: [229, 289, 184, 37, 76, 130]
+
+NUM_SER 37 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [26, 9]
+Start Series: if_need = 1 , pt_id = 22 
+, new_clust_num = 3 
+real ser. length: 37, all_used_points: [22, 67, 115, 328, 145, 31, 223, 211, 139, 58, 219, 160, 169, 107, 310, 34, 140, 79, 277, 111, 202, 228, 57, 288, 198, 24, 143, 180, 150, 282, 171, 135, 132, 267, 271, 311, 88]
+
+NUM_SER 38 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [21, 6]
+Start Series: if_need = 0 , pt_id = 45 
+, new_clust_num = 1 
+real ser. length: 1, all_used_points: [45]
+
+NUM_SER 39 
+CURRENT_MAX_LEN 44 
+SELECTED_ELEMENTS: [17, 25]
+Start Series: if_need = 1 , pt_id = 312 
+, new_clust_num = 1 
+real ser. length: 44, all_used_points: [312, 60, 330, 156, 311, 356, 383, 185, 128, 329, 197, 149, 314, 323, 152, 278, 281, 134, 20, 44, 143, 191, 29, 219, 266, 209, 122, 104, 245, 107, 89, 77, 179, 155, 365, 287, 110, 284, 328, 140, 194, 31, 170, 173]
+
+NUM_SER 40 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [22, 11]
+Start Series: if_need = 1 , pt_id = 269 
+, new_clust_num = 0 
+real ser. length: 35, all_used_points: [269, 51, 126, 99, 201, 54, 378, 153, 303, 45, 168, 222, 321, 393, 387, 231, 131, 69, 279, 87, 339, 174, 6, 354, 9, 210, 78, 117, 159, 216, 129, 84, 90, 15, 348]
+
+NUM_SER 41 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [21, 12]
+Start Series: if_need = 1 , pt_id = 312 
+, new_clust_num = 1 
+real ser. length: 35, all_used_points: [312, 330, 156, 60, 383, 311, 329, 356, 128, 152, 143, 149, 185, 314, 209, 219, 323, 284, 20, 194, 197, 29, 254, 134, 281, 328, 278, 266, 251, 170, 104, 335, 110, 155, 44]
+
+NUM_SER 42 
+CURRENT_MAX_LEN 21 
+SELECTED_ELEMENTS: [18, 1]
+Start Series: if_need = 1 , pt_id = 111 
+, new_clust_num = 0 
+real ser. length: 21, all_used_points: [111, 288, 105, 180, 297, 150, 39, 18, 255, 198, 12, 24, 177, 318, 84, 42, 120, 258, 228, 282, 96]
+
+NUM_SER 43 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [19, 16]
+Start Series: if_need = 1 , pt_id = 116 
+, new_clust_num = 0 
+real ser. length: 37, all_used_points: [116, 53, 331, 151, 55, 127, 244, 292, 94, 112, 7, 64, 352, 176, 214, 361, 196, 4, 250, 85, 211, 97, 220, 22, 313, 265, 106, 181, 139, 349, 253, 316, 70, 145, 16, 205, 133]
+
+NUM_SER 44 
+CURRENT_MAX_LEN 16 
+SELECTED_ELEMENTS: [6, 8]
+Start Series: if_need = 1 , pt_id = 60 
+, new_clust_num = 1 
+real ser. length: 16, all_used_points: [60, 330, 156, 312, 311, 356, 329, 143, 314, 219, 29, 152, 209, 110, 251, 194]
+
+NUM_SER 45 
+CURRENT_MAX_LEN 36 
+SELECTED_ELEMENTS: [26, 8]
+Start Series: if_need = 1 , pt_id = 22 
+, new_clust_num = 3 
+real ser. length: 36, all_used_points: [22, 145, 139, 67, 328, 115, 211, 310, 391, 79, 160, 136, 31, 140, 198, 223, 173, 68, 347, 107, 110, 272, 251, 24, 158, 228, 282, 95, 189, 11, 56, 34, 83, 242, 71, 143]
+
+NUM_SER 46 
+CURRENT_MAX_LEN 31 
+SELECTED_ELEMENTS: [22, 7]
+Start Series: if_need = 1 , pt_id = 271 
+, new_clust_num = 3 
+real ser. length: 31, all_used_points: [271, 367, 202, 169, 364, 277, 298, 34, 88, 223, 79, 58, 322, 67, 22, 145, 160, 115, 328, 31, 310, 228, 139, 198, 211, 288, 107, 219, 391, 136, 135]
+
+NUM_SER 47 
+CURRENT_MAX_LEN 11 
+SELECTED_ELEMENTS: [5, 4]
+Start Series: if_need = 1 , pt_id = 288 
+, new_clust_num = 1 
+real ser. length: 11, all_used_points: [288, 219, 198, 143, 107, 29, 110, 135, 228, 328, 329]
+
+NUM_SER 48 
+CURRENT_MAX_LEN 40 
+SELECTED_ELEMENTS: [10, 28]
+Start Series: if_need = 1 , pt_id = 116 
+, new_clust_num = 0 
+real ser. length: 40, all_used_points: [116, 31, 53, 244, 107, 220, 331, 176, 265, 328, 127, 151, 55, 219, 22, 94, 112, 145, 67, 106, 115, 196, 344, 74, 211, 253, 79, 277, 139, 322, 97, 73, 85, 313, 223, 214, 10, 385, 221, 349]
+
+NUM_SER 49 
+CURRENT_MAX_LEN 9 
+SELECTED_ELEMENTS: [1, 6]
+Start Series: if_need = 1 , pt_id = 57 
+, new_clust_num = 3 
+real ser. length: 9, all_used_points: [57, 132, 3, 372, 114, 66, 309, 357, 351]
+
+NUM_SER 50 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [16, 9]
+Start Series: if_need = 1 , pt_id = 176 
+, new_clust_num = 0 
+real ser. length: 27, all_used_points: [176, 55, 53, 74, 103, 316, 217, 344, 109, 253, 232, 235, 10, 61, 376, 259, 244, 142, 52, 100, 221, 220, 307, 274, 334, 4, 355]
+
+NUM_SER 51 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [8, 20]
+Start Series: if_need = 1 , pt_id = 236 
+, new_clust_num = 3 
+real ser. length: 30, all_used_points: [236, 377, 344, 137, 305, 86, 350, 359, 380, 62, 35, 113, 23, 260, 392, 320, 188, 239, 215, 248, 146, 74, 32, 272, 65, 242, 200, 230, 296, 95]
+
+NUM_SER 52 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [17, 10]
+Start Series: if_need = 1 , pt_id = 288 
+, new_clust_num = 1 
+real ser. length: 29, all_used_points: [288, 198, 135, 228, 328, 223, 219, 94, 107, 31, 143, 29, 53, 110, 115, 22, 140, 314, 329, 311, 67, 151, 359, 176, 152, 383, 130, 251, 79]
+
+NUM_SER 1 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [23, 5]
+Start Series: if_need = 1 , pt_id = 329 
+, new_clust_num = 2 
+real ser. length: 30, all_used_points: [329, 152, 284, 128, 356, 134, 311, 383, 185, 149, 330, 156, 191, 20, 266, 269, 323, 197, 287, 201, 54, 281, 263, 89, 278, 245, 131, 45, 231, 312]
+
+NUM_SER 2 
+CURRENT_MAX_LEN 46 
+SELECTED_ELEMENTS: [24, 20]
+Start Series: if_need = 1 , pt_id = 60 
+, new_clust_num = 2 
+real ser. length: 31, all_used_points: [60, 159, 222, 99, 153, 339, 126, 378, 216, 279, 321, 303, 354, 387, 51, 78, 174, 306, 261, 129, 348, 144, 276, 210, 168, 300, 393, 117, 6, 15, 102]
+
+NUM_SER 3 
+CURRENT_MAX_LEN 19 
+SELECTED_ELEMENTS: [14, 3]
+Start Series: if_need = 1 , pt_id = 222 
+, new_clust_num = 2 
+real ser. length: 19, all_used_points: [222, 159, 60, 216, 339, 354, 99, 279, 303, 144, 261, 300, 393, 15, 276, 153, 102, 348, 126]
+
+NUM_SER 4 
+CURRENT_MAX_LEN 3 
+SELECTED_ELEMENTS: [0, 1]
+Start Series: if_need = 1 , pt_id = 261 
+, new_clust_num = 1 
+real ser. length: 3, all_used_points: [261, 279, 276]
+
+NUM_SER 5 
+CURRENT_MAX_LEN 11 
+SELECTED_ELEMENTS: [6, 3]
+Start Series: if_need = 1 , pt_id = 306 
+, new_clust_num = 2 
+real ser. length: 11, all_used_points: [306, 210, 168, 174, 117, 6, 78, 129, 387, 378, 321]
+
+NUM_SER 6 
+CURRENT_MAX_LEN 23 
+SELECTED_ELEMENTS: [17, 4]
+Start Series: if_need = 1 , pt_id = 98 
+, new_clust_num = 0 
+real ser. length: 23, all_used_points: [98, 386, 203, 221, 35, 212, 62, 188, 230, 74, 65, 146, 233, 176, 344, 236, 350, 392, 86, 137, 359, 320, 200]
+
+NUM_SER 7 
+CURRENT_MAX_LEN 25 
+SELECTED_ELEMENTS: [14, 9]
+Start Series: if_need = 1 , pt_id = 370 
+, new_clust_num = 1 
+real ser. length: 25, all_used_points: [370, 307, 376, 355, 274, 232, 193, 52, 319, 334, 316, 10, 313, 97, 331, 217, 253, 4, 214, 220, 112, 265, 61, 100, 235]
+
+NUM_SER 8 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [10, 23]
+Start Series: if_need = 1 , pt_id = 155 
+, new_clust_num = 1 
+real ser. length: 35, all_used_points: [155, 77, 101, 104, 224, 44, 353, 275, 50, 227, 308, 80, 332, 17, 293, 119, 233, 200, 338, 374, 65, 5, 125, 14, 38, 392, 212, 380, 62, 350, 257, 302, 32, 35, 320]
+
+NUM_SER 9 
+CURRENT_MAX_LEN 40 
+SELECTED_ELEMENTS: [23, 15]
+Start Series: if_need = 1 , pt_id = 331 
+, new_clust_num = 1 
+real ser. length: 40, all_used_points: [331, 97, 53, 244, 265, 112, 220, 214, 359, 106, 313, 4, 176, 10, 253, 74, 317, 55, 316, 113, 217, 260, 376, 221, 334, 368, 215, 232, 137, 377, 230, 146, 109, 305, 161, 103, 236, 98, 274, 193]
+
+NUM_SER 10 
+CURRENT_MAX_LEN 34 
+SELECTED_ELEMENTS: [17, 15]
+Start Series: if_need = 1 , pt_id = 4 
+, new_clust_num = 1 
+real ser. length: 34, all_used_points: [4, 214, 97, 112, 10, 220, 331, 316, 53, 265, 55, 106, 313, 244, 217, 334, 274, 109, 103, 193, 376, 52, 253, 176, 232, 259, 61, 190, 319, 382, 100, 307, 74, 236]
+
+NUM_SER 11 
+CURRENT_MAX_LEN 40 
+SELECTED_ELEMENTS: [24, 14]
+Start Series: if_need = 1 , pt_id = 142 
+, new_clust_num = 3 
+real ser. length: 40, all_used_points: [142, 226, 118, 40, 379, 130, 57, 19, 28, 76, 340, 289, 37, 184, 280, 373, 229, 43, 213, 148, 256, 121, 238, 298, 264, 247, 325, 175, 25, 124, 364, 367, 271, 277, 79, 223, 73, 262, 157, 34]
+
+NUM_SER 12 
+CURRENT_MAX_LEN 43 
+SELECTED_ELEMENTS: [28, 13]
+Start Series: if_need = 1 , pt_id = 392 
+, new_clust_num = 4 
+real ser. length: 43, all_used_points: [392, 65, 200, 293, 389, 233, 62, 332, 212, 308, 86, 5, 2, 167, 353, 35, 14, 119, 188, 38, 230, 257, 50, 386, 80, 320, 17, 74, 203, 326, 338, 350, 275, 164, 221, 224, 101, 263, 77, 146, 98, 362, 44]
+
+NUM_SER 13 
+CURRENT_MAX_LEN 20 
+SELECTED_ELEMENTS: [15, 3]
+Start Series: if_need = 1 , pt_id = 164 
+, new_clust_num = 1 
+real ser. length: 20, all_used_points: [164, 50, 308, 332, 275, 101, 293, 374, 302, 77, 200, 227, 392, 32, 80, 65, 233, 44, 224, 155]
+
+NUM_SER 14 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [19, 14]
+Start Series: if_need = 1 , pt_id = 72 
+, new_clust_num = 3 
+real ser. length: 35, all_used_points: [72, 186, 372, 132, 381, 228, 375, 328, 309, 357, 3, 66, 351, 219, 107, 288, 111, 114, 198, 24, 282, 246, 180, 48, 135, 171, 143, 110, 141, 138, 327, 297, 273, 267, 189]
+
+NUM_SER 15 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [14, 13]
+Start Series: if_need = 1 , pt_id = 392 
+, new_clust_num = 4 
+real ser. length: 29, all_used_points: [392, 65, 212, 86, 200, 62, 293, 233, 38, 188, 35, 389, 332, 230, 386, 167, 50, 308, 146, 5, 14, 257, 338, 221, 80, 71, 362, 98, 119]
+
+NUM_SER 16 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [22, 11]
+Start Series: if_need = 1 , pt_id = 278 
+, new_clust_num = 0 
+real ser. length: 35, all_used_points: [278, 323, 284, 281, 266, 20, 245, 197, 149, 185, 134, 287, 191, 152, 329, 269, 122, 45, 201, 335, 51, 11, 263, 71, 128, 326, 89, 167, 2, 126, 56, 296, 170, 321, 371]
+
+NUM_SER 17 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [3, 27]
+Start Series: if_need = 1 , pt_id = 51 
+, new_clust_num = 1 
+real ser. length: 32, all_used_points: [51, 269, 126, 201, 131, 92, 197, 365, 185, 341, 362, 128, 89, 45, 182, 179, 321, 125, 149, 257, 284, 245, 323, 338, 5, 152, 224, 266, 134, 329, 191, 221]
+
+NUM_SER 18 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [18, 10]
+Start Series: if_need = 1 , pt_id = 380 
+, new_clust_num = 0 
+real ser. length: 30, all_used_points: [380, 23, 305, 206, 377, 239, 215, 32, 41, 161, 302, 368, 290, 374, 59, 389, 260, 113, 317, 242, 248, 95, 272, 173, 116, 68, 83, 347, 31, 140]
+
+NUM_SER 19 
+CURRENT_MAX_LEN 19 
+SELECTED_ELEMENTS: [17, 0]
+Start Series: if_need = 1 , pt_id = 25 
+, new_clust_num = 1 
+real ser. length: 19, all_used_points: [25, 175, 262, 325, 256, 247, 76, 148, 238, 124, 379, 43, 121, 280, 118, 142, 184, 364, 289]
+
+NUM_SER 20 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [25, 8]
+Start Series: if_need = 1 , pt_id = 70 
+, new_clust_num = 3 
+real ser. length: 35, all_used_points: [70, 7, 292, 127, 64, 352, 361, 181, 250, 196, 94, 133, 151, 85, 13, 211, 199, 205, 328, 301, 228, 304, 349, 139, 145, 67, 160, 22, 189, 163, 1, 16, 208, 241, 310]
+
+NUM_SER 21 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [27, 3]
+Start Series: if_need = 1 , pt_id = 228 
+, new_clust_num = 1 
+real ser. length: 32, all_used_points: [228, 57, 223, 189, 328, 58, 115, 226, 31, 130, 169, 22, 34, 88, 79, 49, 310, 271, 202, 67, 94, 289, 322, 145, 151, 277, 213, 73, 229, 139, 298, 37]
+
+NUM_SER 22 
+CURRENT_MAX_LEN 52 
+SELECTED_ELEMENTS: [26, 24]
+Start Series: if_need = 1 , pt_id = 347 
+, new_clust_num = 1 
+real ser. length: 52, all_used_points: [347, 11, 173, 140, 272, 31, 95, 242, 83, 68, 151, 59, 116, 371, 71, 170, 368, 161, 56, 248, 215, 94, 328, 260, 41, 317, 113, 290, 115, 296, 196, 335, 359, 127, 122, 377, 67, 134, 32, 223, 331, 167, 22, 305, 284, 326, 392, 191, 211, 323, 228, 380]
+
+NUM_SER 23 
+CURRENT_MAX_LEN 19 
+SELECTED_ELEMENTS: [0, 17]
+Start Series: if_need = 1 , pt_id = 310 
+, new_clust_num = 4 
+real ser. length: 19, all_used_points: [310, 79, 160, 163, 139, 85, 67, 115, 58, 349, 211, 196, 277, 223, 94, 73, 364, 22, 169]
+
+NUM_SER 24 
+CURRENT_MAX_LEN 43 
+SELECTED_ELEMENTS: [14, 27]
+Start Series: if_need = 1 , pt_id = 321 
+, new_clust_num = 1 
+real ser. length: 43, all_used_points: [321, 126, 201, 51, 269, 45, 131, 185, 128, 197, 152, 149, 284, 365, 329, 134, 179, 341, 89, 278, 20, 245, 323, 224, 182, 44, 281, 191, 263, 338, 287, 101, 266, 77, 56, 50, 308, 104, 155, 353, 164, 17, 275]
+
+NUM_SER 25 
+CURRENT_MAX_LEN 20 
+SELECTED_ELEMENTS: [14, 4]
+Start Series: if_need = 1 , pt_id = 254 
+, new_clust_num = 0 
+real ser. length: 20, all_used_points: [254, 47, 218, 26, 251, 299, 194, 158, 209, 110, 29, 143, 314, 107, 111, 328, 94, 219, 288, 330]
+
+NUM_SER 26 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [19, 11]
+Start Series: if_need = 1 , pt_id = 132 
+, new_clust_num = 3 
+real ser. length: 32, all_used_points: [132, 3, 72, 186, 357, 372, 114, 324, 375, 381, 351, 48, 309, 342, 141, 66, 384, 273, 252, 246, 336, 93, 138, 42, 162, 108, 249, 366, 270, 18, 39, 183]
+
+NUM_SER 27 
+CURRENT_MAX_LEN 36 
+SELECTED_ELEMENTS: [19, 15]
+Start Series: if_need = 1 , pt_id = 358 
+, new_clust_num = 3 
+real ser. length: 36, all_used_points: [358, 385, 364, 73, 343, 46, 277, 295, 178, 172, 49, 322, 202, 283, 337, 310, 388, 136, 91, 79, 163, 88, 139, 349, 85, 67, 58, 391, 145, 211, 187, 223, 22, 160, 196, 115]
+
+NUM_SER 28 
+CURRENT_MAX_LEN 39 
+SELECTED_ELEMENTS: [22, 15]
+Start Series: if_need = 1 , pt_id = 288 
+, new_clust_num = 1 
+real ser. length: 39, all_used_points: [288, 219, 111, 330, 143, 328, 94, 314, 209, 152, 194, 251, 29, 107, 211, 110, 329, 151, 218, 26, 22, 67, 31, 47, 196, 254, 223, 140, 127, 299, 173, 85, 170, 158, 284, 115, 58, 347, 145]
+
+NUM_SER 29 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [18, 8]
+Start Series: if_need = 1 , pt_id = 213 
+, new_clust_num = 1 
+real ser. length: 28, all_used_points: [213, 226, 37, 57, 264, 289, 223, 298, 340, 328, 228, 130, 94, 58, 142, 259, 115, 190, 109, 118, 31, 61, 229, 79, 189, 67, 196, 55]
+
+NUM_SER 30 
+CURRENT_MAX_LEN 42 
+SELECTED_ELEMENTS: [25, 15]
+Start Series: if_need = 1 , pt_id = 94 
+, new_clust_num = 3 
+real ser. length: 42, all_used_points: [94, 328, 219, 31, 107, 140, 272, 110, 143, 242, 368, 158, 59, 260, 116, 198, 299, 173, 111, 29, 329, 311, 135, 383, 290, 47, 359, 347, 269, 314, 251, 209, 152, 68, 248, 296, 284, 323, 194, 11, 156, 89]
+
+NUM_SER 31 
+CURRENT_MAX_LEN 45 
+SELECTED_ELEMENTS: [19, 24]
+Start Series: if_need = 1 , pt_id = 378 
+, new_clust_num = 0 
+real ser. length: 45, all_used_points: [378, 387, 279, 129, 78, 174, 54, 210, 261, 306, 153, 348, 168, 300, 393, 276, 117, 144, 354, 6, 231, 15, 237, 303, 102, 339, 99, 159, 312, 222, 63, 216, 87, 147, 69, 360, 333, 90, 369, 207, 195, 36, 33, 60, 27]
+
+NUM_SER 32 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [17, 13]
+Start Series: if_need = 1 , pt_id = 346 
+, new_clust_num = 3 
+real ser. length: 5, all_used_points: [346, 286, 82, 154, 166]
+
+NUM_SER 33 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [18, 15]
+Start Series: if_need = 0 , pt_id = 169 
+, new_clust_num = 3 
+real ser. length: 1, all_used_points: [169]
+
+NUM_SER 34 
+CURRENT_MAX_LEN 42 
+SELECTED_ELEMENTS: [18, 22]
+Start Series: if_need = 1 , pt_id = 94 
+, new_clust_num = 3 
+real ser. length: 42, all_used_points: [94, 328, 198, 282, 31, 171, 135, 116, 345, 267, 294, 24, 180, 288, 297, 327, 258, 140, 363, 107, 219, 105, 18, 255, 111, 42, 87, 272, 39, 177, 12, 315, 159, 143, 329, 318, 359, 96, 81, 252, 75, 192]
+
+NUM_SER 35 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [23, 4]
+Start Series: if_need = 1 , pt_id = 189 
+, new_clust_num = 1 
+real ser. length: 29, all_used_points: [189, 228, 328, 57, 223, 130, 226, 22, 115, 298, 94, 213, 58, 107, 196, 264, 67, 151, 142, 34, 259, 190, 31, 202, 140, 271, 37, 145, 367]
+
+NUM_SER 36 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [15, 11]
+Start Series: if_need = 1 , pt_id = 228 
+, new_clust_num = 1 
+real ser. length: 28, all_used_points: [228, 189, 57, 223, 328, 31, 226, 331, 259, 53, 130, 115, 140, 58, 264, 151, 34, 107, 289, 213, 202, 271, 116, 158, 169, 229, 272, 298]
+
+NUM_SER 37 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [11, 19]
+Start Series: if_need = 1 , pt_id = 45 
+, new_clust_num = 1 
+real ser. length: 32, all_used_points: [45, 269, 89, 201, 126, 365, 321, 51, 182, 131, 341, 179, 245, 197, 287, 185, 125, 266, 281, 92, 338, 224, 362, 20, 257, 104, 149, 323, 77, 5, 128, 98]
+
+NUM_SER 38 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [10, 12]
+Start Series: if_need = 1 , pt_id = 53 
+, new_clust_num = 0 
+real ser. length: 24, all_used_points: [53, 331, 127, 265, 151, 55, 352, 292, 244, 112, 70, 85, 97, 349, 196, 106, 211, 64, 163, 337, 214, 241, 139, 145]
+
+NUM_SER 39 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [2, 28]
+Start Series: if_need = 1 , pt_id = 198 
+, new_clust_num = 0 
+real ser. length: 32, all_used_points: [198, 228, 135, 24, 282, 180, 171, 189, 297, 258, 345, 105, 318, 267, 363, 150, 255, 12, 69, 327, 252, 162, 294, 177, 96, 324, 27, 87, 207, 132, 357, 240]
+
+NUM_SER 40 
+CURRENT_MAX_LEN 13 
+SELECTED_ELEMENTS: [8, 3]
+Start Series: if_need = 0 , pt_id = 131 
+, new_clust_num = 0 
+real ser. length: 1, all_used_points: [131]
+
+NUM_SER 41 
+CURRENT_MAX_LEN 33 
+SELECTED_ELEMENTS: [8, 23]
+Start Series: if_need = 0 , pt_id = 268 
+, new_clust_num = 2 
+real ser. length: 1, all_used_points: [268]
+
+NUM_SER 42 
+CURRENT_MAX_LEN 19 
+SELECTED_ELEMENTS: [9, 8]
+Start Series: if_need = 1 , pt_id = 264 
+, new_clust_num = 1 
+real ser. length: 19, all_used_points: [264, 213, 226, 37, 57, 289, 76, 340, 298, 184, 259, 121, 190, 142, 229, 130, 118, 228, 61]
+
+NUM_SER 43 
+CURRENT_MAX_LEN 13 
+SELECTED_ELEMENTS: [2, 9]
+Start Series: if_need = 1 , pt_id = 329 
+, new_clust_num = 1 
+real ser. length: 13, all_used_points: [329, 314, 29, 152, 284, 143, 209, 134, 219, 111, 323, 128, 149]
+
+NUM_SER 44 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [4, 26]
+Start Series: if_need = 1 , pt_id = 264 
+, new_clust_num = 1 
+real ser. length: 32, all_used_points: [264, 213, 226, 57, 289, 223, 259, 76, 109, 34, 169, 88, 228, 130, 217, 271, 37, 367, 328, 277, 142, 190, 229, 115, 298, 58, 121, 382, 61, 202, 67, 79]
+
+NUM_SER 45 
+CURRENT_MAX_LEN 26 
+SELECTED_ELEMENTS: [14, 10]
+Start Series: if_need = 1 , pt_id = 53 
+, new_clust_num = 0 
+real ser. length: 26, all_used_points: [53, 55, 244, 106, 265, 103, 316, 220, 331, 10, 97, 253, 313, 217, 112, 109, 151, 196, 334, 193, 274, 214, 4, 127, 85, 208]
+
+NUM_SER 46 
+CURRENT_MAX_LEN 36 
+SELECTED_ELEMENTS: [16, 18]
+Start Series: if_need = 1 , pt_id = 269 
+, new_clust_num = 1 
+real ser. length: 36, all_used_points: [269, 185, 128, 89, 149, 197, 365, 152, 131, 179, 323, 245, 51, 284, 341, 20, 314, 182, 224, 134, 329, 338, 266, 362, 125, 278, 29, 281, 287, 227, 45, 126, 194, 8, 92, 191]
+
+NUM_SER 47 
+CURRENT_MAX_LEN 45 
+SELECTED_ELEMENTS: [15, 28]
+Start Series: if_need = 1 , pt_id = 342 
+, new_clust_num = 2 
+real ser. length: 45, all_used_points: [342, 336, 48, 138, 375, 246, 204, 183, 234, 333, 9, 351, 141, 6, 231, 33, 15, 66, 381, 309, 102, 372, 195, 3, 300, 393, 117, 276, 366, 369, 270, 132, 186, 108, 237, 168, 93, 114, 144, 348, 147, 384, 357, 21, 36]
+
+NUM_SER 48 
+CURRENT_MAX_LEN 25 
+SELECTED_ELEMENTS: [2, 21]
+Start Series: if_need = 1 , pt_id = 228 
+, new_clust_num = 1 
+real ser. length: 25, all_used_points: [228, 223, 328, 57, 189, 130, 94, 58, 145, 271, 211, 115, 213, 37, 202, 229, 22, 184, 139, 196, 67, 169, 151, 289, 226]
+
+NUM_SER 49 
+CURRENT_MAX_LEN 39 
+SELECTED_ELEMENTS: [27, 10]
+Start Series: if_need = 1 , pt_id = 94 
+, new_clust_num = 2 
+real ser. length: 39, all_used_points: [94, 328, 219, 31, 116, 107, 288, 111, 105, 258, 318, 140, 180, 297, 24, 110, 294, 255, 171, 173, 363, 359, 327, 267, 198, 39, 84, 29, 248, 282, 143, 272, 18, 113, 209, 162, 87, 317, 284]
+
+NUM_SER 50 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [16, 19]
+Start Series: if_need = 1 , pt_id = 74 
+, new_clust_num = 2 
+real ser. length: 37, all_used_points: [74, 176, 230, 35, 344, 137, 215, 350, 386, 380, 62, 65, 188, 377, 146, 98, 212, 359, 203, 221, 362, 320, 257, 38, 113, 236, 233, 8, 305, 23, 206, 86, 239, 92, 338, 5, 317]
+
+NUM_SER 51 
+CURRENT_MAX_LEN 49 
+SELECTED_ELEMENTS: [23, 24]
+Start Series: if_need = 1 , pt_id = 51 
+, new_clust_num = 1 
+real ser. length: 49, all_used_points: [51, 269, 197, 45, 201, 126, 179, 185, 321, 89, 245, 128, 131, 365, 20, 284, 182, 266, 194, 224, 338, 257, 92, 281, 341, 287, 362, 98, 125, 203, 104, 323, 386, 353, 149, 8, 38, 212, 188, 221, 278, 5, 17, 35, 14, 233, 77, 134, 65]
+
+NUM_SER 52 
+CURRENT_MAX_LEN 23 
+SELECTED_ELEMENTS: [2, 19]
+Start Series: if_need = 1 , pt_id = 201 
+, new_clust_num = 1 
+real ser. length: 23, all_used_points: [201, 126, 269, 321, 45, 51, 89, 365, 179, 341, 245, 197, 20, 131, 185, 323, 182, 92, 149, 125, 362, 281, 338]
+
+NUM_SER 1 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [19, 11]
+Start Series: if_need = 1 , pt_id = 248 
+, new_clust_num = 1 
+real ser. length: 32, all_used_points: [248, 242, 95, 68, 272, 116, 347, 140, 170, 59, 110, 31, 158, 173, 11, 47, 83, 107, 219, 371, 122, 71, 335, 254, 134, 299, 328, 194, 278, 296, 284, 191]
+
+NUM_SER 2 
+CURRENT_MAX_LEN 25 
+SELECTED_ELEMENTS: [9, 14]
+Start Series: if_need = 1 , pt_id = 233 
+, new_clust_num = 0 
+real ser. length: 25, all_used_points: [233, 212, 65, 200, 62, 374, 392, 35, 302, 386, 167, 230, 389, 188, 146, 86, 326, 56, 203, 98, 32, 23, 221, 380, 305]
+
+NUM_SER 3 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [17, 8]
+Start Series: if_need = 1 , pt_id = 328 
+, new_clust_num = 2 
+real ser. length: 27, all_used_points: [328, 31, 107, 116, 272, 331, 140, 219, 97, 359, 214, 158, 248, 299, 368, 53, 313, 317, 265, 244, 110, 112, 220, 10, 215, 106, 347]
+
+NUM_SER 4 
+CURRENT_MAX_LEN 36 
+SELECTED_ELEMENTS: [10, 24]
+Start Series: if_need = 1 , pt_id = 157 
+, new_clust_num = 1 
+real ser. length: 36, all_used_points: [157, 82, 124, 346, 43, 286, 187, 325, 247, 373, 148, 256, 280, 91, 166, 1, 154, 175, 283, 28, 208, 379, 118, 19, 199, 76, 13, 262, 25, 295, 10, 358, 238, 121, 364, 301]
+
+NUM_SER 5 
+CURRENT_MAX_LEN 41 
+SELECTED_ELEMENTS: [14, 25]
+Start Series: if_need = 1 , pt_id = 47 
+, new_clust_num = 3 
+real ser. length: 41, all_used_points: [47, 254, 194, 170, 134, 323, 122, 11, 263, 335, 191, 278, 50, 101, 284, 56, 164, 68, 77, 44, 155, 83, 275, 20, 149, 80, 266, 281, 104, 2, 119, 332, 17, 371, 242, 71, 326, 59, 308, 167, 227]
+
+NUM_SER 6 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [19, 9]
+Start Series: if_need = 1 , pt_id = 95 
+, new_clust_num = 1 
+real ser. length: 2, all_used_points: [95, 173]
+
+NUM_SER 7 
+CURRENT_MAX_LEN 25 
+SELECTED_ELEMENTS: [1, 22]
+Start Series: if_need = 1 , pt_id = 237 
+, new_clust_num = 0 
+real ser. length: 25, all_used_points: [237, 147, 369, 195, 36, 291, 21, 243, 33, 75, 240, 333, 9, 63, 96, 30, 183, 360, 93, 90, 165, 384, 249, 366, 273]
+
+NUM_SER 8 
+CURRENT_MAX_LEN 55 
+SELECTED_ELEMENTS: [26, 27]
+Start Series: if_need = 1 , pt_id = 245 
+, new_clust_num = 1 
+real ser. length: 55, all_used_points: [245, 341, 197, 287, 179, 338, 5, 224, 182, 269, 353, 365, 257, 89, 131, 362, 185, 125, 356, 329, 92, 8, 14, 156, 128, 383, 98, 201, 233, 221, 38, 203, 311, 65, 54, 210, 152, 230, 392, 45, 386, 168, 51, 231, 188, 74, 306, 293, 312, 212, 330, 62, 348, 9, 174]
+
+NUM_SER 9 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [9, 19]
+Start Series: if_need = 1 , pt_id = 121 
+, new_clust_num = 0 
+real ser. length: 30, all_used_points: [121, 238, 76, 364, 118, 358, 379, 190, 382, 280, 19, 373, 43, 100, 28, 40, 235, 124, 61, 232, 157, 148, 82, 259, 109, 217, 307, 175, 346, 154]
+
+NUM_SER 10 
+CURRENT_MAX_LEN 21 
+SELECTED_ELEMENTS: [6, 13]
+Start Series: if_need = 1 , pt_id = 384 
+, new_clust_num = 0 
+real ser. length: 21, all_used_points: [384, 291, 75, 249, 36, 243, 369, 240, 30, 96, 21, 93, 273, 165, 183, 63, 144, 333, 261, 360, 366]
+
+NUM_SER 11 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [0, 28]
+Start Series: if_need = 1 , pt_id = 4 
+, new_clust_num = 0 
+real ser. length: 30, all_used_points: [4, 10, 334, 316, 274, 253, 55, 319, 103, 1, 176, 344, 208, 13, 199, 193, 52, 355, 350, 146, 166, 137, 187, 91, 325, 376, 286, 301, 377, 305]
+
+NUM_SER 12 
+CURRENT_MAX_LEN 14 
+SELECTED_ELEMENTS: [7, 5]
+Start Series: if_need = 1 , pt_id = 167 
+, new_clust_num = 4 
+real ser. length: 14, all_used_points: [167, 71, 308, 332, 50, 2, 56, 326, 14, 164, 119, 263, 80, 101]
+
+NUM_SER 13 
+CURRENT_MAX_LEN 10 
+SELECTED_ELEMENTS: [4, 4]
+Start Series: if_need = 1 , pt_id = 295 
+, new_clust_num = 0 
+real ser. length: 4, all_used_points: [295, 262, 283, 25]
+
+NUM_SER 14 
+CURRENT_MAX_LEN 21 
+SELECTED_ELEMENTS: [2, 17]
+Start Series: if_need = 1 , pt_id = 387 
+, new_clust_num = 0 
+real ser. length: 17, all_used_points: [387, 279, 378, 129, 153, 126, 99, 321, 303, 339, 222, 216, 354, 90, 159, 78, 60]
+
+NUM_SER 15 
+CURRENT_MAX_LEN 10 
+SELECTED_ELEMENTS: [0, 8]
+Start Series: if_need = 1 , pt_id = 355 
+, new_clust_num = 9 
+real ser. length: 10, all_used_points: [355, 52, 274, 376, 154, 316, 307, 232, 193, 187]
+
+NUM_SER 16 
+CURRENT_MAX_LEN 12 
+SELECTED_ELEMENTS: [10, 0]
+Start Series: if_need = 1 , pt_id = 307 
+, new_clust_num = 0 
+real ser. length: 11, all_used_points: [307, 52, 232, 370, 376, 274, 193, 355, 154, 316, 187]
+
+NUM_SER 17 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [13, 9]
+Start Series: if_need = 1 , pt_id = 239 
+, new_clust_num = 3 
+real ser. length: 24, all_used_points: [239, 206, 41, 215, 392, 260, 368, 248, 272, 32, 377, 167, 317, 137, 242, 113, 359, 236, 344, 65, 161, 176, 53, 140]
+
+NUM_SER 18 
+CURRENT_MAX_LEN 11 
+SELECTED_ELEMENTS: [3, 6]
+Start Series: if_need = 1 , pt_id = 305 
+, new_clust_num = 3 
+real ser. length: 11, all_used_points: [305, 350, 146, 320, 62, 230, 74, 35, 55, 188, 203]
+
+NUM_SER 19 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [18, 10]
+Start Series: if_need = 1 , pt_id = 95 
+, new_clust_num = 3 
+real ser. length: 30, all_used_points: [95, 173, 68, 83, 11, 371, 347, 71, 296, 254, 194, 335, 170, 299, 47, 122, 326, 26, 290, 263, 59, 209, 158, 218, 191, 110, 251, 134, 284, 323]
+
+NUM_SER 20 
+CURRENT_MAX_LEN 5 
+SELECTED_ELEMENTS: [0, 3]
+Start Series: if_need = 1 , pt_id = 247 
+, new_clust_num = 0 
+real ser. length: 2, all_used_points: [247, 256]
+
+NUM_SER 21 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [2, 28]
+Start Series: if_need = 1 , pt_id = 167 
+, new_clust_num = 2 
+real ser. length: 32, all_used_points: [167, 326, 71, 296, 32, 239, 371, 161, 59, 86, 41, 290, 215, 368, 392, 11, 206, 335, 170, 377, 305, 242, 260, 347, 122, 113, 380, 173, 83, 254, 272, 137]
+
+NUM_SER 22 
+CURRENT_MAX_LEN 36 
+SELECTED_ELEMENTS: [18, 16]
+Start Series: if_need = 1 , pt_id = 137 
+, new_clust_num = 4 
+real ser. length: 36, all_used_points: [137, 215, 113, 377, 305, 260, 368, 239, 290, 206, 59, 242, 161, 296, 41, 86, 392, 32, 200, 380, 83, 95, 68, 272, 347, 71, 371, 173, 170, 11, 302, 158, 299, 167, 374, 194]
+
+NUM_SER 23 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [19, 16]
+Start Series: if_need = 1 , pt_id = 203 
+, new_clust_num = 0 
+real ser. length: 37, all_used_points: [203, 188, 35, 62, 230, 320, 65, 146, 380, 350, 74, 86, 344, 23, 236, 200, 55, 53, 206, 374, 176, 305, 392, 137, 359, 377, 302, 239, 215, 167, 161, 248, 389, 290, 32, 41, 368]
+
+NUM_SER 24 
+CURRENT_MAX_LEN 26 
+SELECTED_ELEMENTS: [0, 24]
+Start Series: if_need = 1 , pt_id = 15 
+, new_clust_num = 0 
+real ser. length: 11, all_used_points: [15, 33, 6, 102, 300, 276, 117, 393, 195, 147, 237]
+
+NUM_SER 25 
+CURRENT_MAX_LEN 38 
+SELECTED_ELEMENTS: [15, 21]
+Start Series: if_need = 1 , pt_id = 167 
+, new_clust_num = 1 
+real ser. length: 38, all_used_points: [167, 389, 374, 302, 293, 200, 65, 212, 35, 32, 296, 233, 62, 380, 38, 320, 392, 188, 71, 203, 86, 386, 350, 290, 146, 371, 59, 230, 221, 74, 161, 98, 344, 257, 338, 362, 55, 41]
+
+NUM_SER 26 
+CURRENT_MAX_LEN 55 
+SELECTED_ELEMENTS: [27, 26]
+Start Series: if_need = 1 , pt_id = 284 
+, new_clust_num = 0 
+real ser. length: 55, all_used_points: [284, 194, 323, 251, 134, 110, 209, 140, 170, 173, 218, 26, 47, 335, 254, 299, 158, 272, 347, 122, 11, 71, 242, 59, 83, 263, 191, 101, 167, 68, 95, 371, 296, 32, 290, 161, 50, 56, 326, 164, 2, 41, 389, 392, 374, 308, 332, 302, 65, 200, 80, 212, 233, 293, 119]
+
+NUM_SER 27 
+CURRENT_MAX_LEN 43 
+SELECTED_ELEMENTS: [25, 16]
+Start Series: if_need = 1 , pt_id = 8 
+, new_clust_num = 2 
+real ser. length: 43, all_used_points: [8, 92, 182, 245, 125, 341, 179, 131, 365, 197, 287, 224, 89, 77, 104, 275, 269, 266, 281, 156, 155, 101, 278, 134, 323, 191, 44, 353, 20, 80, 185, 149, 50, 284, 14, 128, 308, 51, 383, 233, 194, 330, 5]
+
+NUM_SER 28 
+CURRENT_MAX_LEN 42 
+SELECTED_ELEMENTS: [26, 14]
+Start Series: if_need = 1 , pt_id = 188 
+, new_clust_num = 1 
+real ser. length: 42, all_used_points: [188, 35, 62, 386, 203, 380, 320, 230, 38, 98, 8, 221, 362, 5, 257, 338, 74, 353, 350, 344, 14, 86, 92, 125, 233, 146, 224, 55, 245, 197, 182, 77, 131, 341, 179, 101, 365, 155, 44, 191, 89, 50]
+
+NUM_SER 29 
+CURRENT_MAX_LEN 33 
+SELECTED_ELEMENTS: [6, 25]
+Start Series: if_need = 1 , pt_id = 356 
+, new_clust_num = 1 
+real ser. length: 33, all_used_points: [356, 329, 152, 143, 209, 107, 140, 251, 29, 110, 173, 116, 314, 328, 68, 31, 272, 311, 158, 53, 228, 244, 151, 219, 347, 198, 359, 288, 24, 345, 111, 83, 150]
+
+NUM_SER 30 
+CURRENT_MAX_LEN 14 
+SELECTED_ELEMENTS: [1, 11]
+Start Series: if_need = 1 , pt_id = 278 
+, new_clust_num = 0 
+real ser. length: 14, all_used_points: [278, 281, 323, 287, 149, 128, 152, 185, 356, 104, 269, 20, 266, 284]
+
+NUM_SER 31 
+CURRENT_MAX_LEN 19 
+SELECTED_ELEMENTS: [8, 9]
+Start Series: if_need = 1 , pt_id = 383 
+, new_clust_num = 0 
+real ser. length: 19, all_used_points: [383, 156, 311, 143, 51, 329, 111, 314, 29, 209, 251, 110, 330, 107, 219, 194, 288, 198, 24]
+
+NUM_SER 32 
+CURRENT_MAX_LEN 20 
+SELECTED_ELEMENTS: [2, 16]
+Start Series: if_need = 0 , pt_id = 134 
+, new_clust_num = 0 
+real ser. length: 1, all_used_points: [134]
+
+NUM_SER 33 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [17, 16]
+Start Series: if_need = 1 , pt_id = 176 
+, new_clust_num = 3 
+real ser. length: 35, all_used_points: [176, 344, 137, 236, 377, 215, 113, 74, 239, 161, 305, 350, 260, 23, 317, 206, 41, 55, 368, 86, 32, 392, 65, 296, 248, 59, 380, 242, 106, 290, 146, 167, 62, 320, 371]
+
+NUM_SER 34 
+CURRENT_MAX_LEN 45 
+SELECTED_ELEMENTS: [17, 26]
+Start Series: if_need = 1 , pt_id = 106 
+, new_clust_num = 0 
+real ser. length: 45, all_used_points: [106, 244, 55, 53, 74, 116, 31, 140, 151, 176, 158, 344, 236, 328, 305, 173, 23, 347, 68, 86, 392, 350, 95, 272, 359, 83, 242, 239, 248, 380, 228, 65, 32, 296, 377, 368, 62, 41, 215, 206, 59, 317, 260, 320, 146]
+
+NUM_SER 35 
+CURRENT_MAX_LEN 45 
+SELECTED_ELEMENTS: [24, 19]
+Start Series: if_need = 1 , pt_id = 137 
+, new_clust_num = 0 
+real ser. length: 2, all_used_points: [137, 113]
+
+NUM_SER 36 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [8, 20]
+Start Series: if_need = 1 , pt_id = 161 
+, new_clust_num = 0 
+real ser. length: 2, all_used_points: [161, 290]
+
+NUM_SER 37 
+CURRENT_MAX_LEN 23 
+SELECTED_ELEMENTS: [5, 16]
+Start Series: if_need = 0 , pt_id = 371 
+, new_clust_num = 0 
+real ser. length: 1, all_used_points: [371]
+
+NUM_SER 38 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [26, 4]
+Start Series: if_need = 0 , pt_id = 150 
+, new_clust_num = 0 
+real ser. length: 1, all_used_points: [150]
+
+NUM_SER 39 
+CURRENT_MAX_LEN 49 
+SELECTED_ELEMENTS: [25, 22]
+Start Series: if_need = 1 , pt_id = 135 
+, new_clust_num = 4 
+real ser. length: 49, all_used_points: [135, 228, 223, 115, 132, 58, 34, 57, 3, 357, 252, 114, 169, 273, 271, 79, 298, 189, 202, 367, 162, 328, 372, 267, 72, 151, 294, 309, 213, 42, 171, 186, 67, 327, 375, 160, 324, 364, 18, 229, 277, 282, 381, 81, 358, 315, 66, 177, 226]
+
+NUM_SER 40 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [8, 17]
+Start Series: if_need = 1 , pt_id = 22 
+, new_clust_num = 3 
+real ser. length: 27, all_used_points: [22, 94, 196, 85, 352, 145, 139, 211, 292, 163, 310, 349, 127, 337, 361, 64, 181, 7, 250, 16, 172, 112, 136, 49, 331, 304, 391]
+
+NUM_SER 41 
+CURRENT_MAX_LEN 40 
+SELECTED_ELEMENTS: [11, 27]
+Start Series: if_need = 1 , pt_id = 167 
+, new_clust_num = 0 
+real ser. length: 2, all_used_points: [167, 308]
+
+NUM_SER 42 
+CURRENT_MAX_LEN 22 
+SELECTED_ELEMENTS: [4, 16]
+Start Series: if_need = 1 , pt_id = 364 
+, new_clust_num = 0 
+real ser. length: 22, all_used_points: [364, 358, 367, 277, 202, 271, 34, 169, 88, 79, 49, 229, 391, 136, 58, 298, 67, 172, 160, 115, 223, 328]
+
+NUM_SER 43 
+CURRENT_MAX_LEN 38 
+SELECTED_ELEMENTS: [28, 8]
+Start Series: if_need = 1 , pt_id = 177 
+, new_clust_num = 0 
+real ser. length: 32, all_used_points: [177, 18, 42, 315, 81, 162, 273, 294, 327, 252, 267, 114, 3, 171, 66, 324, 282, 345, 189, 228, 357, 135, 132, 309, 372, 213, 381, 72, 375, 57, 226, 186]
+
+NUM_SER 44 
+CURRENT_MAX_LEN 43 
+SELECTED_ELEMENTS: [21, 20]
+Start Series: if_need = 1 , pt_id = 304 
+, new_clust_num = 0 
+real ser. length: 26, all_used_points: [304, 241, 349, 337, 163, 310, 133, 250, 139, 85, 352, 361, 127, 196, 64, 16, 211, 181, 94, 145, 22, 7, 292, 151, 331, 112]
+
+NUM_SER 45 
+CURRENT_MAX_LEN 38 
+SELECTED_ELEMENTS: [23, 13]
+Start Series: if_need = 1 , pt_id = 275 
+, new_clust_num = 0 
+
+NUM_SER 1 
+CURRENT_MAX_LEN 25 
+SELECTED_ELEMENTS: [9, 14]
+Start Series: if_need = 1 , pt_id = 314 
+, new_clust_num = 0 
+real ser. length: 25, all_used_points: [314, 29, 143, 107, 251, 111, 219, 209, 328, 288, 198, 135, 228, 180, 194, 110, 105, 94, 318, 282, 258, 150, 24, 69, 87]
+
+NUM_SER 2 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [10, 16]
+Start Series: if_need = 1 , pt_id = 233 
+, new_clust_num = 0 
+real ser. length: 28, all_used_points: [233, 65, 380, 320, 350, 146, 62, 35, 212, 230, 74, 200, 188, 302, 374, 389, 386, 236, 203, 98, 221, 392, 23, 239, 86, 176, 206, 32]
+
+NUM_SER 3 
+CURRENT_MAX_LEN 46 
+SELECTED_ELEMENTS: [19, 25]
+Start Series: if_need = 1 , pt_id = 122 
+, new_clust_num = 0 
+real ser. length: 46, all_used_points: [122, 335, 11, 71, 56, 326, 68, 296, 371, 167, 59, 242, 83, 368, 2, 170, 290, 260, 347, 95, 113, 215, 161, 254, 317, 137, 41, 26, 173, 272, 248, 377, 47, 140, 116, 31, 158, 331, 299, 359, 53, 218, 305, 151, 196, 97]
+
+NUM_SER 4 
+CURRENT_MAX_LEN 51 
+SELECTED_ELEMENTS: [24, 25]
+Start Series: if_need = 1 , pt_id = 4 
+, new_clust_num = 3 
+real ser. length: 51, all_used_points: [4, 214, 10, 313, 112, 334, 253, 319, 331, 193, 97, 220, 316, 53, 355, 370, 116, 307, 55, 265, 151, 52, 244, 274, 94, 106, 31, 107, 103, 272, 217, 376, 328, 140, 228, 232, 74, 196, 109, 259, 359, 198, 235, 282, 248, 242, 137, 135, 288, 317, 236]
+
+NUM_SER 5 
+CURRENT_MAX_LEN 43 
+SELECTED_ELEMENTS: [20, 21]
+Start Series: if_need = 1 , pt_id = 113 
+, new_clust_num = 1 
+real ser. length: 43, all_used_points: [113, 215, 260, 368, 239, 161, 41, 296, 32, 377, 290, 305, 167, 59, 71, 206, 86, 392, 326, 371, 350, 56, 344, 380, 65, 320, 122, 302, 23, 389, 2, 11, 332, 146, 200, 308, 68, 176, 50, 230, 335, 134, 83]
+
+NUM_SER 6 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [6, 16]
+Start Series: if_need = 1 , pt_id = 164 
+, new_clust_num = 1 
+real ser. length: 24, all_used_points: [164, 263, 191, 101, 275, 278, 44, 17, 104, 323, 155, 20, 284, 209, 77, 128, 224, 227, 281, 287, 266, 338, 80, 152]
+
+NUM_SER 7 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [19, 9]
+Start Series: if_need = 1 , pt_id = 230 
+, new_clust_num = 0 
+real ser. length: 30, all_used_points: [230, 320, 74, 176, 344, 146, 137, 236, 350, 380, 377, 65, 113, 305, 55, 215, 23, 317, 106, 53, 220, 86, 392, 244, 359, 260, 253, 97, 200, 248]
+
+NUM_SER 8 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [24, 3]
+Start Series: if_need = 1 , pt_id = 374 
+, new_clust_num = 1 
+real ser. length: 29, all_used_points: [374, 200, 293, 65, 62, 230, 386, 221, 35, 146, 98, 380, 233, 320, 188, 8, 350, 23, 392, 212, 5, 362, 257, 305, 86, 74, 38, 344, 203]
+
+NUM_SER 9 
+CURRENT_MAX_LEN 43 
+SELECTED_ELEMENTS: [19, 22]
+Start Series: if_need = 1 , pt_id = 382 
+, new_clust_num = 0 
+real ser. length: 4, all_used_points: [382, 100, 190, 61]
+
+NUM_SER 10 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [7, 19]
+Start Series: if_need = 1 , pt_id = 266 
+, new_clust_num = 1 
+real ser. length: 28, all_used_points: [266, 287, 281, 278, 104, 20, 77, 191, 224, 338, 101, 323, 257, 134, 275, 44, 284, 263, 362, 50, 2, 128, 80, 164, 155, 17, 332, 5]
+
+NUM_SER 11 
+CURRENT_MAX_LEN 21 
+SELECTED_ELEMENTS: [10, 9]
+Start Series: if_need = 1 , pt_id = 253 
+, new_clust_num = 1 
+real ser. length: 17, all_used_points: [253, 220, 106, 97, 55, 244, 53, 176, 236, 137, 377, 359, 317, 113, 215, 260, 248]
+
+NUM_SER 12 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [10, 15]
+Start Series: if_need = 1 , pt_id = 152 
+, new_clust_num = 0 
+real ser. length: 2, all_used_points: [152, 209]
+
+NUM_SER 13 
+CURRENT_MAX_LEN 21 
+SELECTED_ELEMENTS: [12, 7]
+Start Series: if_need = 1 , pt_id = 237 
+, new_clust_num = 0 
+real ser. length: 21, all_used_points: [237, 147, 195, 369, 291, 36, 21, 75, 96, 183, 165, 93, 243, 342, 240, 108, 270, 315, 360, 234, 63]
+
+NUM_SER 14 
+CURRENT_MAX_LEN 16 
+SELECTED_ELEMENTS: [13, 1]
+Start Series: if_need = 1 , pt_id = 68 
+, new_clust_num = 0 
+real ser. length: 16, all_used_points: [68, 83, 11, 371, 59, 56, 122, 368, 335, 71, 326, 242, 167, 215, 302, 308]
+
+NUM_SER 15 
+CURRENT_MAX_LEN 25 
+SELECTED_ELEMENTS: [8, 15]
+Start Series: if_need = 1 , pt_id = 374 
+, new_clust_num = 0 
+real ser. length: 25, all_used_points: [374, 293, 65, 380, 389, 212, 200, 392, 233, 23, 188, 14, 32, 86, 62, 320, 35, 305, 38, 350, 386, 230, 203, 221, 377]
+
+NUM_SER 16 
+CURRENT_MAX_LEN 34 
+SELECTED_ELEMENTS: [16, 16]
+Start Series: if_need = 1 , pt_id = 258 
+, new_clust_num = 4 
+real ser. length: 34, all_used_points: [258, 318, 180, 105, 69, 87, 24, 150, 159, 111, 222, 312, 99, 330, 153, 156, 269, 383, 126, 311, 60, 143, 356, 329, 339, 51, 216, 378, 152, 303, 354, 314, 185, 131]
+
+NUM_SER 17 
+CURRENT_MAX_LEN 44 
+SELECTED_ELEMENTS: [14, 28]
+Start Series: if_need = 1 , pt_id = 198 
+, new_clust_num = 9 
+real ser. length: 44, all_used_points: [198, 228, 135, 288, 223, 180, 171, 282, 345, 111, 115, 267, 327, 24, 22, 162, 67, 328, 189, 294, 297, 324, 151, 31, 18, 105, 252, 258, 132, 357, 273, 3, 311, 249, 81, 94, 42, 114, 315, 139, 309, 66, 145, 384]
+
+NUM_SER 18 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [23, 2]
+Start Series: if_need = 1 , pt_id = 139 
+, new_clust_num = 3 
+real ser. length: 27, all_used_points: [139, 145, 67, 22, 115, 328, 94, 198, 151, 24, 282, 223, 228, 135, 345, 31, 189, 252, 180, 273, 297, 357, 171, 162, 105, 324, 132]
+
+NUM_SER 19 
+CURRENT_MAX_LEN 33 
+SELECTED_ELEMENTS: [10, 21]
+Start Series: if_need = 1 , pt_id = 146 
+, new_clust_num = 0 
+real ser. length: 33, all_used_points: [146, 344, 176, 359, 74, 55, 137, 53, 236, 248, 116, 113, 317, 260, 331, 127, 106, 272, 140, 253, 244, 151, 313, 265, 112, 97, 220, 31, 292, 316, 107, 214, 219]
+
+NUM_SER 20 
+CURRENT_MAX_LEN 22 
+SELECTED_ELEMENTS: [3, 17]
+Start Series: if_need = 1 , pt_id = 98 
+, new_clust_num = 0 
+real ser. length: 2, all_used_points: [98, 8]
+
+NUM_SER 21 
+CURRENT_MAX_LEN 22 
+SELECTED_ELEMENTS: [3, 17]
+Start Series: if_need = 1 , pt_id = 201 
+, new_clust_num = 2 
+real ser. length: 22, all_used_points: [201, 387, 54, 174, 129, 45, 78, 279, 210, 306, 348, 168, 261, 393, 231, 300, 117, 234, 15, 333, 6, 204]
+
+NUM_SER 22 
+CURRENT_MAX_LEN 54 
+SELECTED_ELEMENTS: [26, 26]
+Start Series: if_need = 1 , pt_id = 297 
+, new_clust_num = 10 
+real ser. length: 54, all_used_points: [297, 255, 120, 84, 27, 363, 90, 207, 177, 222, 285, 258, 390, 318, 171, 69, 339, 87, 180, 105, 99, 288, 60, 282, 360, 354, 225, 126, 39, 12, 0, 216, 192, 153, 63, 24, 36, 96, 123, 198, 159, 328, 150, 312, 111, 303, 219, 115, 279, 228, 330, 144, 276, 261]
+
+NUM_SER 23 
+CURRENT_MAX_LEN 33 
+SELECTED_ELEMENTS: [17, 14]
+Start Series: if_need = 1 , pt_id = 196 
+, new_clust_num = 0 
+real ser. length: 33, all_used_points: [196, 94, 211, 85, 145, 67, 139, 328, 22, 163, 349, 133, 310, 241, 115, 352, 250, 337, 304, 136, 361, 16, 268, 199, 283, 388, 295, 64, 7, 198, 181, 160, 91]
+
+NUM_SER 24 
+CURRENT_MAX_LEN 50 
+SELECTED_ELEMENTS: [24, 24]
+Start Series: if_need = 1 , pt_id = 369 
+, new_clust_num = 2 
+real ser. length: 50, all_used_points: [369, 15, 195, 102, 33, 183, 291, 333, 336, 75, 366, 165, 375, 48, 246, 342, 147, 300, 240, 93, 141, 138, 264, 9, 234, 213, 237, 204, 186, 351, 108, 6, 372, 270, 231, 3, 117, 393, 114, 309, 66, 168, 72, 21, 132, 357, 249, 57, 228, 384]
+
+NUM_SER 25 
+CURRENT_MAX_LEN 41 
+SELECTED_ELEMENTS: [13, 26]
+Start Series: if_need = 1 , pt_id = 309 
+, new_clust_num = 12 
+real ser. length: 41, all_used_points: [309, 3, 66, 372, 132, 114, 273, 357, 228, 384, 30, 375, 48, 366, 291, 198, 165, 315, 183, 249, 351, 186, 177, 108, 141, 213, 219, 223, 93, 342, 204, 243, 21, 18, 96, 42, 24, 58, 72, 79, 369]
+
+NUM_SER 26 
+CURRENT_MAX_LEN 34 
+SELECTED_ELEMENTS: [19, 13]
+Start Series: if_need = 1 , pt_id = 342 
+, new_clust_num = 1 
+real ser. length: 34, all_used_points: [342, 204, 183, 366, 165, 243, 375, 93, 48, 351, 246, 291, 336, 138, 108, 141, 381, 270, 372, 66, 309, 21, 3, 72, 384, 186, 213, 132, 369, 114, 30, 273, 249, 357]
+
+NUM_SER 27 
+CURRENT_MAX_LEN 34 
+SELECTED_ELEMENTS: [13, 19]
+Start Series: if_need = 1 , pt_id = 219 
+, new_clust_num = 1 
+real ser. length: 34, all_used_points: [219, 328, 198, 143, 329, 311, 383, 356, 29, 269, 197, 107, 110, 24, 314, 228, 152, 179, 251, 345, 185, 140, 194, 209, 128, 156, 20, 158, 47, 131, 182, 365, 189, 135]
+
+NUM_SER 28 
+CURRENT_MAX_LEN 5 
+SELECTED_ELEMENTS: [2, 1]
+Start Series: if_need = 1 , pt_id = 189 
+, new_clust_num = 13 
+real ser. length: 5, all_used_points: [189, 228, 345, 282, 171]
+
+NUM_SER 29 
+CURRENT_MAX_LEN 33 
+SELECTED_ELEMENTS: [24, 7]
+Start Series: if_need = 1 , pt_id = 81 
+, new_clust_num = 13 
+real ser. length: 33, all_used_points: [81, 42, 18, 297, 363, 120, 273, 30, 207, 222, 294, 177, 255, 318, 258, 39, 180, 69, 105, 96, 111, 315, 327, 27, 288, 24, 198, 330, 84, 12, 219, 87, 143]
+
+NUM_SER 30 
+CURRENT_MAX_LEN 31 
+SELECTED_ELEMENTS: [18, 11]
+Start Series: if_need = 1 , pt_id = 325 
+, new_clust_num = 0 
+real ser. length: 31, all_used_points: [325, 175, 25, 262, 238, 385, 358, 121, 256, 76, 364, 46, 148, 286, 379, 118, 346, 340, 142, 73, 277, 367, 49, 40, 322, 289, 187, 247, 184, 382, 82]
+
+NUM_SER 31 
+CURRENT_MAX_LEN 22 
+SELECTED_ELEMENTS: [14, 6]
+Start Series: if_need = 1 , pt_id = 353 
+, new_clust_num = 0 
+real ser. length: 2, all_used_points: [353, 119]
+
+NUM_SER 32 
+CURRENT_MAX_LEN 42 
+SELECTED_ELEMENTS: [16, 24]
+Start Series: if_need = 1 , pt_id = 300 
+, new_clust_num = 2 
+real ser. length: 42, all_used_points: [300, 393, 117, 6, 15, 33, 276, 168, 261, 102, 195, 333, 231, 204, 342, 183, 9, 369, 147, 21, 237, 36, 375, 144, 234, 351, 336, 366, 75, 63, 354, 264, 279, 372, 96, 291, 165, 3, 303, 66, 108, 90]
+
+NUM_SER 33 
+CURRENT_MAX_LEN 19 
+SELECTED_ELEMENTS: [6, 11]
+Start Series: if_need = 0 , pt_id = 89 
+, new_clust_num = 2 
+real ser. length: 1, all_used_points: [89]
+
+NUM_SER 34 
+CURRENT_MAX_LEN 17 
+SELECTED_ELEMENTS: [13, 2]
+Start Series: if_need = 1 , pt_id = 91 
+, new_clust_num = 6 
+real ser. length: 17, all_used_points: [91, 187, 283, 199, 325, 268, 286, 346, 250, 295, 16, 133, 181, 262, 304, 388, 82]
+
+NUM_SER 35 
+CURRENT_MAX_LEN 19 
+SELECTED_ELEMENTS: [11, 6]
+Start Series: if_need = 1 , pt_id = 143 
+, new_clust_num = 2 
+real ser. length: 19, all_used_points: [143, 111, 180, 219, 171, 288, 198, 267, 330, 24, 282, 327, 105, 345, 228, 258, 135, 57, 324]
+
+NUM_SER 36 
+CURRENT_MAX_LEN 23 
+SELECTED_ELEMENTS: [20, 1]
+Start Series: if_need = 1 , pt_id = 161 
+, new_clust_num = 0 
+real ser. length: 6, all_used_points: [161, 41, 290, 296, 239, 206]
+
+NUM_SER 37 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [12, 18]
+Start Series: if_need = 1 , pt_id = 270 
+, new_clust_num = 1 
+real ser. length: 32, all_used_points: [270, 141, 138, 381, 93, 48, 246, 243, 309, 384, 30, 273, 249, 315, 252, 114, 357, 132, 228, 177, 135, 81, 57, 42, 198, 18, 72, 345, 328, 255, 24, 39]
+
+NUM_SER 38 
+CURRENT_MAX_LEN 36 
+SELECTED_ELEMENTS: [22, 12]
+Start Series: if_need = 1 , pt_id = 51 
+, new_clust_num = 2 
+real ser. length: 36, all_used_points: [51, 201, 378, 54, 45, 174, 78, 168, 306, 387, 210, 261, 300, 117, 129, 279, 348, 231, 354, 321, 90, 63, 303, 393, 6, 15, 240, 27, 369, 144, 225, 204, 276, 12, 33, 36]
+
+NUM_SER 39 
+CURRENT_MAX_LEN 20 
+SELECTED_ELEMENTS: [8, 10]
+Start Series: if_need = 1 , pt_id = 313 
+, new_clust_num = 5 
+real ser. length: 20, all_used_points: [313, 97, 220, 253, 112, 214, 331, 265, 31, 107, 106, 244, 292, 53, 127, 316, 151, 7, 116, 55]
+
+NUM_SER 40 
+CURRENT_MAX_LEN 31 
+SELECTED_ELEMENTS: [11, 18]
+Start Series: if_need = 1 , pt_id = 369 
+, new_clust_num = 8 
+real ser. length: 31, all_used_points: [369, 15, 6, 102, 231, 195, 204, 300, 276, 33, 147, 36, 237, 168, 144, 117, 393, 45, 240, 192, 63, 261, 306, 354, 303, 90, 216, 78, 222, 348, 360]
+
+NUM_SER 41 
+CURRENT_MAX_LEN 38 
+SELECTED_ELEMENTS: [24, 12]
+Start Series: if_need = 1 , pt_id = 82 
+, new_clust_num = 5 
+real ser. length: 38, all_used_points: [82, 124, 157, 43, 373, 28, 232, 280, 346, 235, 376, 19, 274, 100, 217, 193, 307, 370, 154, 52, 187, 103, 325, 355, 61, 190, 259, 286, 109, 226, 55, 106, 319, 283, 334, 57, 316, 91]
+
+NUM_SER 42 
+CURRENT_MAX_LEN 20 
+SELECTED_ELEMENTS: [17, 1]
+Start Series: if_need = 1 , pt_id = 391 
+, new_clust_num = 5 
+real ser. length: 20, all_used_points: [391, 343, 388, 178, 295, 304, 16, 250, 172, 133, 199, 262, 268, 181, 301, 13, 7, 1, 292, 127]
+
+NUM_SER 43 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [7, 18]
+Start Series: if_need = 1 , pt_id = 140 
+, new_clust_num = 0 
+real ser. length: 27, all_used_points: [140, 158, 110, 116, 47, 53, 107, 31, 29, 143, 251, 244, 209, 314, 219, 328, 329, 106, 220, 265, 331, 288, 194, 311, 152, 313, 55]
+
+NUM_SER 44 
+CURRENT_MAX_LEN 12 
+SELECTED_ELEMENTS: [7, 3]
+Start Series: if_need = 1 , pt_id = 189 
+, new_clust_num = 1 
+real ser. length: 12, all_used_points: [189, 267, 282, 162, 294, 327, 171, 297, 363, 324, 318, 69]
+
+NUM_SER 45 
+CURRENT_MAX_LEN 19 
+SELECTED_ELEMENTS: [11, 6]
+Start Series: if_need = 1 , pt_id = 277 
+, new_clust_num = 8 
+real ser. length: 19, all_used_points: [277, 322, 367, 364, 73, 343, 49, 121, 391, 310, 385, 79, 76, 172, 67, 289, 136, 46, 262]
+
+NUM_SER 46 
+CURRENT_MAX_LEN 23 
+SELECTED_ELEMENTS: [21, 0]
+Start Series: if_need = 1 , pt_id = 356 
+, new_clust_num = 0 
+real ser. length: 23, all_used_points: [356, 128, 383, 185, 156, 269, 51, 126, 312, 60, 197, 378, 159, 330, 20, 150, 99, 111, 87, 321, 153, 201, 279]
+
+NUM_SER 47 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [11, 17]
+Start Series: if_need = 1 , pt_id = 112 
+, new_clust_num = 0 
+real ser. length: 30, all_used_points: [112, 97, 214, 4, 127, 292, 196, 70, 205, 7, 10, 85, 64, 151, 352, 94, 334, 361, 133, 349, 250, 211, 145, 253, 22, 208, 163, 115, 139, 316]
+
+NUM_SER 48 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [21, 14]
+Start Series: if_need = 0 , pt_id = 184 
+, new_clust_num = 9 
+real ser. length: 1, all_used_points: [184]
+
+NUM_SER 49 
+CURRENT_MAX_LEN 23 
+SELECTED_ELEMENTS: [5, 16]
+Start Series: if_need = 1 , pt_id = 262 
+, new_clust_num = 6 
+real ser. length: 23, all_used_points: [262, 46, 385, 73, 364, 343, 322, 277, 49, 169, 121, 76, 391, 310, 229, 172, 202, 136, 34, 289, 223, 139, 367]
+
+NUM_SER 50 
+CURRENT_MAX_LEN 22 
+SELECTED_ELEMENTS: [9, 11]
+Start Series: if_need = 1 , pt_id = 132 
+, new_clust_num = 6 
+real ser. length: 22, all_used_points: [132, 228, 357, 324, 189, 3, 372, 267, 309, 294, 381, 345, 66, 252, 375, 297, 162, 18, 273, 39, 141, 351]
+
+NUM_SER 51 
+CURRENT_MAX_LEN 5 
+SELECTED_ELEMENTS: [0, 3]
+Start Series: if_need = 1 , pt_id = 141 
+, new_clust_num = 1 
+real ser. length: 5, all_used_points: [141, 66, 309, 372, 132]
+
+NUM_SER 52 
+CURRENT_MAX_LEN 14 
+SELECTED_ELEMENTS: [9, 3]
+Start Series: if_need = 1 , pt_id = 341 
+, new_clust_num = 3 
+real ser. length: 14, all_used_points: [341, 245, 338, 224, 287, 125, 5, 266, 92, 14, 353, 362, 17, 227]
+
+NUM_SER 1 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [1, 25]
+Start Series: if_need = 1 , pt_id = 154 
+, new_clust_num = 1 
+real ser. length: 28, all_used_points: [154, 346, 166, 187, 286, 325, 283, 262, 247, 82, 157, 46, 1, 124, 148, 43, 379, 175, 13, 373, 280, 205, 19, 28, 91, 70, 25, 292]
+
+NUM_SER 2 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [27, 6]
+Start Series: if_need = 1 , pt_id = 4 
+, new_clust_num = 2 
+real ser. length: 35, all_used_points: [4, 214, 313, 10, 220, 334, 253, 316, 106, 244, 97, 265, 112, 53, 55, 274, 331, 193, 319, 217, 52, 355, 176, 307, 370, 74, 359, 103, 236, 109, 232, 61, 376, 146, 259]
+
+NUM_SER 3 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [6, 19]
+Start Series: if_need = 1 , pt_id = 296 
+, new_clust_num = 2 
+real ser. length: 27, all_used_points: [296, 71, 167, 59, 242, 248, 308, 11, 371, 2, 389, 122, 83, 68, 173, 140, 332, 272, 50, 95, 326, 170, 293, 194, 56, 263, 164]
+
+NUM_SER 4 
+CURRENT_MAX_LEN 33 
+SELECTED_ELEMENTS: [7, 24]
+Start Series: if_need = 1 , pt_id = 359 
+, new_clust_num = 1 
+real ser. length: 33, all_used_points: [359, 116, 31, 53, 331, 176, 112, 265, 55, 292, 107, 127, 236, 97, 151, 313, 352, 74, 7, 64, 250, 214, 328, 70, 146, 143, 85, 316, 220, 334, 253, 163, 10]
+
+NUM_SER 5 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [12, 13]
+Start Series: if_need = 1 , pt_id = 181 
+, new_clust_num = 1 
+real ser. length: 27, all_used_points: [181, 361, 349, 133, 241, 337, 304, 16, 172, 199, 310, 136, 79, 391, 160, 343, 277, 364, 388, 49, 178, 67, 73, 358, 268, 295, 202]
+
+NUM_SER 6 
+CURRENT_MAX_LEN 45 
+SELECTED_ELEMENTS: [24, 19]
+Start Series: if_need = 1 , pt_id = 216 
+, new_clust_num = 2 
+real ser. length: 45, all_used_points: [216, 339, 303, 279, 354, 222, 153, 99, 261, 306, 210, 144, 159, 312, 276, 300, 54, 126, 156, 201, 51, 60, 174, 348, 15, 330, 269, 378, 168, 321, 387, 45, 231, 102, 131, 393, 6, 117, 78, 197, 129, 89, 311, 365, 383]
+
+NUM_SER 7 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [8, 22]
+Start Series: if_need = 1 , pt_id = 191 
+, new_clust_num = 2 
+real ser. length: 32, all_used_points: [191, 134, 278, 44, 155, 284, 281, 323, 149, 209, 128, 101, 152, 104, 275, 77, 224, 314, 227, 17, 356, 185, 287, 329, 29, 266, 251, 311, 245, 80, 119, 156]
+
+NUM_SER 8 
+CURRENT_MAX_LEN 45 
+SELECTED_ELEMENTS: [15, 28]
+Start Series: if_need = 1 , pt_id = 218 
+, new_clust_num = 2 
+real ser. length: 9, all_used_points: [218, 47, 110, 299, 26, 158, 347, 254, 335]
+
+NUM_SER 9 
+CURRENT_MAX_LEN 46 
+SELECTED_ELEMENTS: [20, 24]
+Start Series: if_need = 1 , pt_id = 383 
+, new_clust_num = 2 
+real ser. length: 46, all_used_points: [383, 269, 51, 312, 197, 131, 365, 89, 179, 20, 201, 126, 378, 45, 341, 99, 153, 182, 387, 279, 129, 261, 222, 54, 339, 303, 78, 276, 321, 102, 147, 338, 354, 168, 237, 195, 216, 369, 330, 87, 15, 33, 306, 174, 159, 92]
+
+NUM_SER 10 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [18, 7]
+Start Series: if_need = 1 , pt_id = 185 
+, new_clust_num = 1 
+real ser. length: 27, all_used_points: [185, 356, 149, 128, 284, 152, 194, 134, 209, 251, 329, 20, 266, 314, 29, 143, 311, 281, 156, 323, 107, 328, 191, 47, 26, 278, 104]
+
+NUM_SER 11 
+CURRENT_MAX_LEN 23 
+SELECTED_ELEMENTS: [19, 2]
+Start Series: if_need = 1 , pt_id = 4 
+, new_clust_num = 2 
+real ser. length: 23, all_used_points: [4, 205, 13, 268, 1, 208, 166, 199, 388, 319, 154, 301, 91, 16, 304, 370, 337, 187, 355, 286, 295, 172, 178]
+
+NUM_SER 12 
+CURRENT_MAX_LEN 20 
+SELECTED_ELEMENTS: [3, 15]
+Start Series: if_need = 1 , pt_id = 250 
+, new_clust_num = 1 
+real ser. length: 20, all_used_points: [250, 64, 7, 352, 70, 292, 127, 112, 85, 331, 151, 328, 214, 265, 97, 313, 31, 253, 53, 220]
+
+NUM_SER 13 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [15, 13]
+Start Series: if_need = 1 , pt_id = 365 
+, new_clust_num = 0 
+real ser. length: 30, all_used_points: [365, 89, 131, 197, 269, 245, 287, 266, 224, 185, 104, 20, 149, 281, 323, 278, 128, 77, 134, 155, 356, 284, 227, 17, 275, 44, 152, 383, 194, 101]
+
+NUM_SER 14 
+CURRENT_MAX_LEN 33 
+SELECTED_ELEMENTS: [12, 19]
+Start Series: if_need = 1 , pt_id = 212 
+, new_clust_num = 0 
+real ser. length: 33, all_used_points: [212, 188, 386, 65, 203, 98, 221, 74, 35, 233, 62, 380, 293, 392, 200, 230, 32, 374, 302, 320, 332, 308, 167, 389, 86, 305, 326, 146, 350, 50, 296, 23, 236]
+
+NUM_SER 15 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [18, 10]
+Start Series: if_need = 1 , pt_id = 194 
+, new_clust_num = 2 
+real ser. length: 30, all_used_points: [194, 284, 134, 278, 149, 152, 323, 281, 128, 20, 356, 185, 44, 383, 155, 77, 101, 104, 269, 275, 224, 287, 266, 197, 245, 227, 89, 179, 17, 353]
+
+NUM_SER 16 
+CURRENT_MAX_LEN 23 
+SELECTED_ELEMENTS: [4, 17]
+Start Series: if_need = 1 , pt_id = 5 
+, new_clust_num = 2 
+real ser. length: 13, all_used_points: [5, 38, 14, 257, 338, 362, 125, 182, 365, 131, 341, 92, 8]
+
+NUM_SER 17 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [7, 19]
+Start Series: if_need = 1 , pt_id = 235 
+, new_clust_num = 1 
+real ser. length: 4, all_used_points: [235, 382, 100, 190]
+
+NUM_SER 18 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [28, 0]
+Start Series: if_need = 1 , pt_id = 316 
+, new_clust_num = 1 
+real ser. length: 30, all_used_points: [316, 334, 10, 55, 244, 106, 74, 176, 230, 344, 146, 137, 320, 350, 380, 359, 377, 221, 236, 305, 248, 206, 386, 35, 62, 23, 113, 239, 203, 92]
+
+NUM_SER 19 
+CURRENT_MAX_LEN 34 
+SELECTED_ELEMENTS: [28, 4]
+Start Series: if_need = 1 , pt_id = 269 
+, new_clust_num = 1 
+real ser. length: 34, all_used_points: [269, 131, 185, 365, 182, 341, 179, 338, 245, 89, 197, 224, 125, 266, 92, 20, 323, 156, 17, 383, 77, 287, 281, 353, 149, 311, 14, 5, 257, 356, 128, 104, 278, 362]
+
+NUM_SER 20 
+CURRENT_MAX_LEN 38 
+SELECTED_ELEMENTS: [10, 26]
+Start Series: if_need = 1 , pt_id = 143 
+, new_clust_num = 1 
+real ser. length: 38, all_used_points: [143, 329, 152, 314, 356, 284, 383, 128, 209, 311, 156, 29, 185, 197, 269, 149, 20, 323, 266, 179, 245, 194, 281, 107, 89, 134, 251, 278, 341, 224, 131, 365, 182, 338, 110, 125, 92, 287]
+
+NUM_SER 21 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [7, 28]
+Start Series: if_need = 1 , pt_id = 219 
+, new_clust_num = 0 
+real ser. length: 37, all_used_points: [219, 111, 288, 105, 328, 258, 180, 363, 318, 87, 24, 198, 330, 150, 171, 282, 297, 60, 294, 69, 84, 312, 327, 267, 159, 189, 222, 94, 135, 228, 126, 151, 162, 255, 324, 345, 120]
+
+NUM_SER 22 
+CURRENT_MAX_LEN 33 
+SELECTED_ELEMENTS: [3, 28]
+Start Series: if_need = 1 , pt_id = 269 
+, new_clust_num = 1 
+real ser. length: 33, all_used_points: [269, 185, 383, 149, 311, 143, 314, 197, 329, 356, 89, 152, 20, 156, 365, 131, 29, 179, 341, 182, 107, 245, 266, 338, 281, 209, 323, 128, 92, 125, 287, 8, 104]
+
+NUM_SER 23 
+CURRENT_MAX_LEN 25 
+SELECTED_ELEMENTS: [5, 18]
+Start Series: if_need = 1 , pt_id = 269 
+, new_clust_num = 1 
+real ser. length: 25, all_used_points: [269, 197, 245, 287, 266, 20, 383, 89, 185, 365, 149, 281, 224, 179, 323, 104, 338, 131, 77, 156, 125, 311, 329, 341, 155]
+
+NUM_SER 24 
+CURRENT_MAX_LEN 11 
+SELECTED_ELEMENTS: [8, 1]
+Start Series: if_need = 1 , pt_id = 10 
+, new_clust_num = 1 
+real ser. length: 11, all_used_points: [10, 316, 334, 55, 106, 244, 176, 344, 236, 350, 146]
+
+NUM_SER 25 
+CURRENT_MAX_LEN 15 
+SELECTED_ELEMENTS: [13, 0]
+Start Series: if_need = 1 , pt_id = 349 
+, new_clust_num = 2 
+real ser. length: 15, all_used_points: [349, 361, 352, 133, 181, 250, 64, 16, 268, 13, 304, 301, 205, 85, 241]
+
+NUM_SER 26 
+CURRENT_MAX_LEN 24 
+SELECTED_ELEMENTS: [8, 14]
+Start Series: if_need = 0 , pt_id = 163 
+, new_clust_num = 1 
+real ser. length: 1, all_used_points: [163]
+
+NUM_SER 27 
+CURRENT_MAX_LEN 34 
+SELECTED_ELEMENTS: [27, 5]
+Start Series: if_need = 1 , pt_id = 146 
+, new_clust_num = 0 
+real ser. length: 34, all_used_points: [146, 350, 344, 236, 176, 55, 253, 53, 316, 265, 244, 97, 217, 10, 313, 274, 112, 208, 1, 331, 205, 220, 103, 109, 106, 334, 13, 319, 4, 70, 214, 31, 376, 301]
+
+NUM_SER 28 
+CURRENT_MAX_LEN 7 
+SELECTED_ELEMENTS: [4, 1]
+Start Series: if_need = 1 , pt_id = 156 
+, new_clust_num = 1 
+real ser. length: 7, all_used_points: [156, 311, 143, 107, 329, 29, 110]
+
+NUM_SER 29 
+CURRENT_MAX_LEN 42 
+SELECTED_ELEMENTS: [28, 12]
+Start Series: if_need = 1 , pt_id = 156 
+, new_clust_num = 1 
+real ser. length: 42, all_used_points: [156, 383, 269, 311, 356, 185, 329, 143, 197, 131, 29, 89, 20, 149, 179, 128, 341, 284, 365, 107, 152, 209, 251, 182, 140, 92, 194, 314, 110, 338, 116, 272, 8, 173, 323, 47, 266, 242, 281, 158, 134, 299]
+
+NUM_SER 30 
+CURRENT_MAX_LEN 25 
+SELECTED_ELEMENTS: [8, 15]
+Start Series: if_need = 1 , pt_id = 359 
+, new_clust_num = 1 
+real ser. length: 25, all_used_points: [359, 137, 113, 248, 215, 260, 317, 116, 368, 140, 377, 272, 161, 290, 59, 173, 242, 371, 83, 41, 296, 11, 167, 68, 71]
+
+NUM_SER 31 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [10, 25]
+Start Series: if_need = 1 , pt_id = 344 
+, new_clust_num = 0 
+real ser. length: 37, all_used_points: [344, 350, 236, 146, 176, 53, 265, 31, 151, 97, 55, 328, 331, 214, 70, 253, 4, 292, 109, 112, 313, 220, 106, 244, 127, 316, 274, 10, 85, 103, 349, 352, 217, 208, 337, 219, 205]
+
+NUM_SER 32 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [18, 15]
+Start Series: if_need = 1 , pt_id = 350 
+, new_clust_num = 0 
+real ser. length: 35, all_used_points: [350, 344, 146, 236, 176, 53, 31, 55, 106, 331, 151, 244, 265, 253, 220, 97, 112, 214, 127, 70, 313, 316, 292, 4, 64, 196, 109, 205, 328, 85, 352, 115, 10, 103, 7]
+
+NUM_SER 33 
+CURRENT_MAX_LEN 33 
+SELECTED_ELEMENTS: [16, 15]
+Start Series: if_need = 1 , pt_id = 350 
+, new_clust_num = 0 
+real ser. length: 33, all_used_points: [350, 146, 236, 344, 176, 55, 53, 244, 265, 106, 109, 331, 97, 31, 112, 151, 127, 328, 220, 85, 196, 259, 61, 94, 313, 211, 22, 190, 214, 198, 253, 70, 316]
+
+NUM_SER 34 
+CURRENT_MAX_LEN 42 
+SELECTED_ELEMENTS: [19, 21]
+Start Series: if_need = 1 , pt_id = 74 
+, new_clust_num = 1 
+real ser. length: 42, all_used_points: [74, 221, 230, 35, 8, 320, 188, 62, 212, 386, 92, 98, 182, 65, 233, 362, 203, 380, 5, 125, 38, 257, 293, 86, 392, 23, 131, 332, 305, 269, 14, 156, 119, 374, 89, 302, 377, 167, 200, 353, 296, 338]
+
+NUM_SER 35 
+CURRENT_MAX_LEN 49 
+SELECTED_ELEMENTS: [27, 20]
+Start Series: if_need = 1 , pt_id = 236 
+, new_clust_num = 0 
+real ser. length: 49, all_used_points: [236, 350, 344, 176, 146, 55, 53, 316, 253, 331, 220, 103, 313, 106, 217, 244, 97, 265, 4, 10, 274, 214, 208, 205, 334, 70, 13, 193, 319, 1, 7, 301, 268, 154, 112, 292, 127, 109, 376, 352, 355, 31, 166, 61, 64, 250, 232, 16, 370]
+
+NUM_SER 36 
+CURRENT_MAX_LEN 34 
+SELECTED_ELEMENTS: [8, 24]
+Start Series: if_need = 1 , pt_id = 269 
+, new_clust_num = 1 
+real ser. length: 34, all_used_points: [269, 131, 365, 89, 197, 179, 341, 182, 245, 338, 224, 185, 104, 353, 227, 77, 383, 287, 275, 155, 17, 44, 278, 92, 257, 128, 362, 119, 203, 8, 14, 80, 332, 233]
+
+NUM_SER 37 
+CURRENT_MAX_LEN 34 
+SELECTED_ELEMENTS: [15, 17]
+Start Series: if_need = 1 , pt_id = 269 
+, new_clust_num = 1 
+real ser. length: 34, all_used_points: [269, 197, 179, 266, 156, 341, 20, 149, 245, 323, 383, 185, 89, 365, 131, 224, 227, 182, 311, 143, 281, 287, 29, 356, 92, 329, 104, 314, 209, 152, 278, 338, 107, 284]
+
+NUM_SER 38 
+CURRENT_MAX_LEN 4 
+SELECTED_ELEMENTS: [2, 0]
+Start Series: if_need = 1 , pt_id = 51 
+, new_clust_num = 0 
+real ser. length: 4, all_used_points: [51, 201, 312, 387]
+
+NUM_SER 39 
+CURRENT_MAX_LEN 15 
+SELECTED_ELEMENTS: [12, 1]
+Start Series: if_need = 1 , pt_id = 236 
+, new_clust_num = 0 
+real ser. length: 15, all_used_points: [236, 344, 350, 176, 53, 146, 31, 55, 103, 331, 151, 328, 265, 127, 220]
+
+NUM_SER 40 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [22, 8]
+Start Series: if_need = 1 , pt_id = 236 
+, new_clust_num = 0 
+real ser. length: 32, all_used_points: [236, 176, 55, 350, 344, 146, 53, 244, 253, 331, 265, 220, 97, 316, 214, 70, 313, 112, 106, 10, 127, 4, 292, 31, 109, 7, 196, 217, 103, 151, 85, 334]
+
+NUM_SER 41 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [5, 21]
+Start Series: if_need = 1 , pt_id = 359 
+, new_clust_num = 1 
+real ser. length: 28, all_used_points: [359, 248, 317, 260, 242, 368, 272, 116, 59, 215, 371, 140, 290, 83, 95, 113, 11, 68, 71, 173, 296, 347, 32, 170, 158, 239, 335, 137]
+
+NUM_SER 42 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [6, 27]
+Start Series: if_need = 1 , pt_id = 176 
+, new_clust_num = 0 
+real ser. length: 35, all_used_points: [176, 236, 55, 350, 344, 253, 316, 146, 53, 274, 10, 313, 193, 334, 97, 331, 214, 208, 4, 13, 205, 265, 31, 328, 70, 355, 1, 319, 268, 244, 223, 217, 292, 57, 106]
+
+NUM_SER 43 
+CURRENT_MAX_LEN 18 
+SELECTED_ELEMENTS: [0, 16]
+Start Series: if_need = 1 , pt_id = 350 
+, new_clust_num = 0 
+real ser. length: 18, all_used_points: [350, 236, 176, 344, 146, 55, 53, 265, 103, 331, 112, 106, 244, 97, 220, 31, 253, 127]
+
+NUM_SER 44 
+CURRENT_MAX_LEN 40 
+SELECTED_ELEMENTS: [17, 21]
+Start Series: if_need = 1 , pt_id = 219 
+, new_clust_num = 0 
+real ser. length: 40, all_used_points: [219, 288, 328, 111, 198, 24, 282, 180, 105, 258, 363, 330, 171, 318, 297, 120, 255, 39, 207, 27, 150, 84, 327, 60, 69, 222, 18, 135, 267, 87, 12, 285, 294, 312, 151, 216, 177, 0, 115, 315]
+
+NUM_SER 45 
+CURRENT_MAX_LEN 40 
+SELECTED_ELEMENTS: [26, 12]
+Start Series: if_need = 1 , pt_id = 350 
+, new_clust_num = 0 
+real ser. length: 40, all_used_points: [350, 236, 344, 176, 146, 55, 53, 331, 244, 31, 151, 265, 97, 214, 328, 220, 106, 4, 127, 219, 94, 112, 228, 198, 196, 10, 211, 253, 292, 85, 132, 352, 24, 70, 349, 163, 145, 313, 22, 139]
+
+NUM_SER 46 
+CURRENT_MAX_LEN 40 
+SELECTED_ELEMENTS: [20, 18]
+Start Series: if_need = 1 , pt_id = 344 
+, new_clust_num = 0 
+real ser. length: 40, all_used_points: [344, 146, 350, 176, 236, 53, 244, 265, 220, 55, 103, 253, 217, 106, 313, 97, 214, 331, 4, 316, 274, 112, 10, 205, 334, 70, 208, 292, 1, 109, 13, 376, 268, 61, 127, 193, 64, 232, 199, 301]
+
+NUM_SER 47 
+CURRENT_MAX_LEN 11 
+SELECTED_ELEMENTS: [9, 0]
+Start Series: if_need = 1 , pt_id = 137 
+, new_clust_num = 1 
+real ser. length: 11, all_used_points: [137, 359, 113, 317, 215, 248, 239, 377, 206, 86, 305]
+
+NUM_SER 48 
+CURRENT_MAX_LEN 8 
+SELECTED_ELEMENTS: [2, 4]
+Start Series: if_need = 1 , pt_id = 23 
+, new_clust_num = 1 
+real ser. length: 8, all_used_points: [23, 86, 380, 62, 65, 305, 239, 293]
+
+NUM_SER 49 
+CURRENT_MAX_LEN 33 
+SELECTED_ELEMENTS: [15, 16]
+Start Series: if_need = 1 , pt_id = 143 
+, new_clust_num = 1 
+real ser. length: 33, all_used_points: [143, 329, 314, 311, 383, 152, 156, 269, 197, 356, 185, 128, 131, 29, 266, 179, 89, 209, 365, 284, 107, 110, 245, 182, 287, 341, 194, 323, 149, 251, 134, 20, 281]
+
+NUM_SER 50 
+CURRENT_MAX_LEN 34 
+SELECTED_ELEMENTS: [15, 17]
+Start Series: if_need = 1 , pt_id = 107 
+, new_clust_num = 1 
+real ser. length: 34, all_used_points: [107, 29, 314, 110, 143, 140, 158, 173, 347, 95, 242, 251, 371, 194, 272, 47, 209, 248, 83, 68, 152, 329, 116, 356, 59, 359, 284, 128, 368, 218, 383, 254, 185, 311]
+
+NUM_SER 51 
+CURRENT_MAX_LEN 49 
+SELECTED_ELEMENTS: [19, 28]
+Start Series: if_need = 1 , pt_id = 156 
+, new_clust_num = 1 
+real ser. length: 49, all_used_points: [156, 311, 383, 269, 185, 356, 152, 20, 143, 197, 329, 149, 29, 128, 89, 314, 131, 245, 284, 209, 179, 365, 338, 341, 182, 281, 251, 266, 224, 107, 110, 104, 47, 254, 323, 92, 299, 194, 278, 287, 158, 347, 77, 140, 272, 218, 95, 134, 173]
+
+NUM_SER 52 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [13, 15]
+Start Series: if_need = 1 , pt_id = 330 
+, new_clust_num = 0 
+real ser. length: 30, all_used_points: [330, 150, 312, 105, 258, 180, 60, 87, 159, 51, 126, 99, 321, 222, 111, 153, 339, 216, 303, 318, 378, 279, 297, 363, 18, 201, 120, 255, 69, 84]
+
+NUM_SER 1 
+CURRENT_MAX_LEN 18 
+SELECTED_ELEMENTS: [2, 14]
+Start Series: if_need = 1 , pt_id = 221 
+, new_clust_num = 0 
+real ser. length: 18, all_used_points: [221, 230, 74, 386, 98, 35, 203, 320, 62, 146, 188, 344, 176, 55, 53, 109, 350, 212]
+
+NUM_SER 2 
+CURRENT_MAX_LEN 4 
+SELECTED_ELEMENTS: [1, 1]
+Start Series: if_need = 1 , pt_id = 314 
+, new_clust_num = 0 
+real ser. length: 4, all_used_points: [314, 29, 110, 143]
+
+NUM_SER 3 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [27, 0]
+Start Series: if_need = 1 , pt_id = 382 
+, new_clust_num = 3 
+real ser. length: 29, all_used_points: [382, 190, 61, 259, 100, 235, 232, 109, 307, 370, 355, 103, 217, 52, 376, 319, 193, 334, 274, 316, 55, 10, 253, 53, 313, 359, 331, 4, 97]
+
+NUM_SER 4 
+CURRENT_MAX_LEN 41 
+SELECTED_ELEMENTS: [22, 17]
+Start Series: if_need = 1 , pt_id = 209 
+, new_clust_num = 0 
+real ser. length: 41, all_used_points: [209, 251, 218, 194, 47, 26, 254, 170, 335, 347, 158, 299, 11, 83, 173, 122, 68, 56, 371, 71, 296, 140, 95, 290, 326, 59, 167, 368, 41, 272, 215, 161, 239, 302, 242, 86, 374, 2, 32, 113, 377]
+
+NUM_SER 5 
+CURRENT_MAX_LEN 37 
+SELECTED_ELEMENTS: [21, 14]
+Start Series: if_need = 1 , pt_id = 36 
+, new_clust_num = 0 
+real ser. length: 37, all_used_points: [36, 369, 240, 63, 147, 123, 390, 192, 90, 360, 75, 195, 0, 96, 291, 237, 33, 243, 315, 30, 21, 183, 177, 342, 273, 93, 384, 39, 141, 333, 42, 165, 336, 204, 108, 18, 27]
+
+NUM_SER 6 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [18, 7]
+Start Series: if_need = 1 , pt_id = 144 
+, new_clust_num = 1 
+real ser. length: 27, all_used_points: [144, 261, 354, 348, 276, 168, 300, 279, 306, 210, 393, 78, 6, 102, 15, 174, 54, 387, 45, 303, 117, 201, 126, 231, 153, 216, 129]
+
+NUM_SER 7 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [16, 11]
+Start Series: if_need = 1 , pt_id = 233 
+, new_clust_num = 0 
+real ser. length: 29, all_used_points: [233, 65, 392, 200, 380, 23, 305, 206, 236, 137, 359, 53, 55, 106, 316, 253, 248, 220, 244, 313, 103, 317, 265, 109, 116, 97, 331, 260, 31]
+
+NUM_SER 8 
+CURRENT_MAX_LEN 28 
+SELECTED_ELEMENTS: [13, 13]
+Start Series: if_need = 1 , pt_id = 150 
+, new_clust_num = 0 
+real ser. length: 28, all_used_points: [150, 111, 87, 180, 288, 198, 318, 24, 328, 258, 69, 105, 219, 171, 282, 22, 363, 297, 120, 255, 267, 162, 84, 94, 207, 145, 177, 107]
+
+NUM_SER 9 
+CURRENT_MAX_LEN 41 
+SELECTED_ELEMENTS: [15, 24]
+Start Series: if_need = 1 , pt_id = 303 
+, new_clust_num = 0 
+real ser. length: 41, all_used_points: [303, 216, 285, 354, 63, 90, 207, 144, 27, 123, 279, 390, 84, 153, 36, 120, 261, 276, 318, 240, 0, 255, 78, 69, 174, 225, 363, 147, 360, 300, 12, 378, 321, 39, 105, 177, 87, 258, 348, 306, 369]
+
+NUM_SER 10 
+CURRENT_MAX_LEN 33 
+SELECTED_ELEMENTS: [16, 15]
+Start Series: if_need = 1 , pt_id = 159 
+, new_clust_num = 1 
+real ser. length: 33, all_used_points: [159, 60, 312, 330, 222, 99, 339, 311, 51, 156, 143, 269, 197, 245, 266, 383, 338, 281, 20, 287, 179, 185, 356, 104, 257, 182, 77, 329, 38, 29, 251, 353, 89]
+
+NUM_SER 11 
+CURRENT_MAX_LEN 19 
+SELECTED_ELEMENTS: [5, 12]
+Start Series: if_need = 1 , pt_id = 60 
+, new_clust_num = 1 
+real ser. length: 19, all_used_points: [60, 312, 159, 99, 339, 222, 156, 51, 330, 269, 185, 311, 383, 356, 128, 152, 284, 89, 197]
+
+NUM_SER 12 
+CURRENT_MAX_LEN 19 
+SELECTED_ELEMENTS: [16, 1]
+Start Series: if_need = 1 , pt_id = 109 
+, new_clust_num = 1 
+real ser. length: 19, all_used_points: [109, 55, 244, 53, 265, 331, 103, 106, 220, 97, 176, 359, 313, 116, 253, 316, 74, 137, 248]
+
+NUM_SER 13 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [21, 9]
+Start Series: if_need = 1 , pt_id = 167 
+, new_clust_num = 4 
+real ser. length: 32, all_used_points: [167, 296, 290, 32, 59, 71, 41, 215, 302, 161, 368, 371, 374, 308, 242, 272, 200, 248, 83, 11, 239, 95, 392, 260, 86, 377, 68, 140, 317, 113, 305, 347]
+
+NUM_SER 14 
+CURRENT_MAX_LEN 30 
+SELECTED_ELEMENTS: [17, 11]
+Start Series: if_need = 0 , pt_id = 389 
+, new_clust_num = 0 
+real ser. length: 1, all_used_points: [389]
+
+NUM_SER 15 
+CURRENT_MAX_LEN 43 
+SELECTED_ELEMENTS: [27, 14]
+Start Series: if_need = 1 , pt_id = 109 
+, new_clust_num = 1 
+real ser. length: 43, all_used_points: [109, 103, 55, 244, 316, 265, 331, 220, 53, 74, 106, 253, 97, 112, 214, 313, 221, 31, 140, 158, 176, 230, 116, 92, 386, 299, 98, 347, 47, 146, 236, 320, 344, 62, 362, 254, 350, 380, 173, 8, 251, 23, 257]
+
+NUM_SER 16 
+CURRENT_MAX_LEN 16 
+SELECTED_ELEMENTS: [3, 11]
+Start Series: if_need = 1 , pt_id = 31 
+, new_clust_num = 1 
+real ser. length: 16, all_used_points: [31, 331, 140, 53, 359, 116, 112, 97, 265, 110, 317, 176, 214, 248, 137, 272]
+
+NUM_SER 17 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [25, 0]
+Start Series: if_need = 1 , pt_id = 31 
+, new_clust_num = 1 
+real ser. length: 27, all_used_points: [31, 116, 248, 53, 368, 244, 215, 260, 106, 239, 41, 55, 140, 113, 359, 161, 272, 176, 32, 317, 236, 173, 377, 305, 137, 296, 392]
+
+NUM_SER 18 
+CURRENT_MAX_LEN 27 
+SELECTED_ELEMENTS: [5, 20]
+Start Series: if_need = 1 , pt_id = 214 
+, new_clust_num = 1 
+real ser. length: 27, all_used_points: [214, 97, 220, 313, 112, 331, 265, 253, 53, 316, 31, 244, 106, 55, 103, 116, 109, 248, 242, 272, 95, 176, 173, 68, 140, 74, 83]
+
+NUM_SER 19 
+CURRENT_MAX_LEN 38 
+SELECTED_ELEMENTS: [26, 10]
+Start Series: if_need = 1 , pt_id = 126 
+, new_clust_num = 2 
+real ser. length: 38, all_used_points: [126, 99, 222, 153, 312, 279, 87, 303, 339, 354, 69, 150, 261, 318, 51, 156, 387, 201, 159, 60, 45, 207, 105, 54, 168, 84, 306, 129, 330, 363, 348, 111, 311, 276, 174, 300, 15, 78]
+
+NUM_SER 20 
+CURRENT_MAX_LEN 50 
+SELECTED_ELEMENTS: [20, 28]
+Start Series: if_need = 1 , pt_id = 10 
+, new_clust_num = 0 
+real ser. length: 50, all_used_points: [10, 208, 334, 274, 205, 1, 193, 166, 319, 91, 199, 13, 295, 7, 70, 301, 154, 4, 187, 286, 325, 283, 214, 262, 46, 178, 292, 112, 355, 268, 388, 82, 256, 175, 250, 16, 25, 181, 127, 379, 247, 385, 52, 346, 43, 376, 157, 124, 73, 343]
+
+NUM_SER 21 
+CURRENT_MAX_LEN 45 
+SELECTED_ELEMENTS: [23, 20]
+Start Series: if_need = 1 , pt_id = 214 
+, new_clust_num = 0 
+real ser. length: 45, all_used_points: [214, 70, 112, 4, 7, 292, 10, 127, 64, 205, 352, 208, 319, 85, 355, 151, 1, 334, 181, 154, 361, 346, 349, 307, 376, 337, 199, 370, 52, 193, 133, 187, 232, 241, 91, 61, 250, 286, 274, 196, 172, 190, 217, 13, 16]
+
+NUM_SER 22 
+CURRENT_MAX_LEN 44 
+SELECTED_ELEMENTS: [25, 17]
+Start Series: if_need = 1 , pt_id = 316 
+, new_clust_num = 1 
+real ser. length: 44, all_used_points: [316, 253, 220, 55, 106, 244, 53, 313, 214, 103, 74, 97, 109, 176, 230, 112, 265, 146, 331, 31, 359, 116, 317, 236, 272, 305, 140, 173, 344, 377, 248, 350, 86, 158, 23, 260, 242, 95, 320, 239, 368, 113, 380, 206]
+
+NUM_SER 23 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [15, 12]
+Start Series: if_need = 1 , pt_id = 153 
+, new_clust_num = 0 
+real ser. length: 29, all_used_points: [153, 303, 378, 279, 387, 174, 126, 129, 306, 321, 201, 54, 78, 348, 210, 261, 45, 354, 216, 276, 168, 90, 117, 102, 231, 144, 63, 123, 300]
+
+NUM_SER 24 
+CURRENT_MAX_LEN 29 
+SELECTED_ELEMENTS: [26, 1]
+Start Series: if_need = 1 , pt_id = 387 
+, new_clust_num = 2 
+real ser. length: 29, all_used_points: [387, 174, 129, 210, 279, 306, 261, 300, 78, 54, 201, 168, 303, 354, 393, 348, 231, 153, 99, 276, 15, 33, 51, 117, 6, 45, 144, 102, 216]
+
+NUM_SER 25 
+CURRENT_MAX_LEN 52 
+SELECTED_ELEMENTS: [28, 22]
+Start Series: if_need = 1 , pt_id = 111 
+, new_clust_num = 0 
+real ser. length: 52, all_used_points: [111, 105, 258, 288, 180, 150, 318, 219, 87, 69, 171, 267, 198, 363, 84, 297, 39, 120, 24, 207, 328, 255, 177, 18, 162, 294, 252, 151, 282, 327, 135, 42, 94, 127, 315, 12, 27, 0, 228, 352, 345, 196, 189, 324, 107, 225, 273, 81, 390, 357, 85, 30]
+
+NUM_SER 26 
+CURRENT_MAX_LEN 17 
+SELECTED_ELEMENTS: [5, 10]
+Start Series: if_need = 1 , pt_id = 126 
+, new_clust_num = 0 
+real ser. length: 17, all_used_points: [126, 153, 303, 201, 378, 279, 45, 321, 354, 78, 387, 129, 261, 216, 285, 90, 168]
+
+NUM_SER 27 
+CURRENT_MAX_LEN 35 
+SELECTED_ELEMENTS: [16, 17]
+Start Series: if_need = 1 , pt_id = 201 
+, new_clust_num = 0 
+real ser. length: 35, all_used_points: [201, 378, 321, 54, 153, 279, 387, 126, 303, 78, 261, 354, 129, 306, 174, 90, 216, 300, 45, 210, 285, 123, 63, 360, 390, 231, 27, 348, 255, 225, 12, 168, 144, 207, 240]
+
+NUM_SER 28 
+CURRENT_MAX_LEN 22 
+SELECTED_ELEMENTS: [1, 19]
+Start Series: if_need = 1 , pt_id = 217 
+, new_clust_num = 0 
+real ser. length: 22, all_used_points: [217, 274, 376, 52, 232, 61, 355, 154, 100, 307, 235, 193, 157, 334, 319, 346, 10, 370, 190, 259, 286, 1]
+
+NUM_SER 29 
+CURRENT_MAX_LEN 26 
+SELECTED_ELEMENTS: [17, 7]
+Start Series: if_need = 1 , pt_id = 107 
+, new_clust_num = 0 
+real ser. length: 26, all_used_points: [107, 328, 198, 219, 135, 228, 282, 22, 115, 145, 288, 132, 24, 180, 67, 171, 327, 111, 357, 58, 297, 258, 150, 105, 87, 160]
+
+NUM_SER 30 
+CURRENT_MAX_LEN 32 
+SELECTED_ELEMENTS: [9, 21]
+Start Series: if_need = 1 , pt_id = 109 
+, new_clust_num = 1 
+real ser. length: 32, all_used_points: [109, 103, 55, 53, 316, 106, 74, 344, 359, 176, 137, 253, 221, 236, 248, 230, 146, 113, 320, 317, 62, 350, 380, 386, 35, 212, 244, 188, 65, 305, 38, 215]
+
+NUM_SER 31 
+CURRENT_MAX_LEN 16 
+SELECTED_ELEMENTS: [4, 10]
+Start Series: if_need = 1 , pt_id = 153 
+, new_clust_num = 0 
+real ser. length: 16, all_used_points: [153, 279, 354, 378, 303, 216, 285, 126, 207, 261, 90, 129, 120, 144, 84, 27]
+
+NUM_SER 32 
+CURRENT_MAX_LEN 3 
+SELECTED_ELEMENTS: [1, 0]
+Start Series: if_need = 1 , pt_id = 387 
+, new_clust_num = 2 
+real ser. length: 3, all_used_points: [387, 54, 174]
+
+NUM_SER 33 
+CURRENT_MAX_LEN 25 
+SELECTED_ELEMENTS: [5, 18]
+Start Series: if_need = 1 , pt_id = 330 
+, new_clust_num = 1 
+real ser. length: 25, all_used_points: [330, 312, 311, 60, 156, 269, 185, 159, 383, 356, 51, 222, 197, 99, 89, 131, 149, 20, 179, 339, 365, 152, 329, 314, 143]
+
+NUM_SER 34 
+CURRENT_MAX_LEN 13 
+SELECTED_ELEMENTS: [7, 4]
+Start Series: if_need = 1 , pt_id = 109 
+, new_clust_num = 1 
+real ser. length: 13, all_used_points: [109, 103, 316, 55, 53, 265, 220, 253, 244, 97, 106, 74, 313]
+
+NUM_SER 35 
+CURRENT_MAX_LEN 43 
+SELECTED_ELEMENTS: [16, 25]
+Start Series: if_need = 1 , pt_id = 222 
+, new_clust_num = 1 
+real ser. length: 43, all_used_points: [222, 99, 339, 312, 159, 60, 156, 330, 311, 51, 356, 383, 269, 185, 143, 329, 29, 131, 152, 284, 128, 197, 89, 149, 314, 365, 245, 20, 281, 182, 92, 209, 179, 341, 323, 125, 110, 362, 338, 266, 194, 134, 278]
+
+NUM_SER 36 
+CURRENT_MAX_LEN 56 
+SELECTED_ELEMENTS: [28, 26]
+Start Series: if_need = 1 , pt_id = 87 
+, new_clust_num = 0 
+real ser. length: 56, all_used_points: [87, 69, 150, 111, 105, 318, 84, 258, 180, 297, 363, 288, 120, 255, 219, 39, 207, 285, 328, 198, 24, 282, 27, 94, 223, 18, 327, 171, 58, 135, 228, 267, 390, 294, 177, 22, 81, 162, 42, 345, 107, 0, 96, 189, 30, 252, 169, 90, 324, 151, 130, 145, 123, 225, 249, 291]
+
+NUM_SER 37 
+CURRENT_MAX_LEN 18 
+SELECTED_ELEMENTS: [13, 3]
+Start Series: if_need = 1 , pt_id = 126 
+, new_clust_num = 0 
+real ser. length: 18, all_used_points: [126, 153, 378, 321, 303, 201, 54, 387, 45, 216, 354, 90, 210, 174, 78, 168, 306, 231]
