@@ -5,6 +5,7 @@ import pandas as pd
 from pyexcelerate import Workbook
 
 warnings.filterwarnings('ignore')
+#Check
 
 # Функция для загрузки параметров из файла
 file_params = 'parameters.txt'
