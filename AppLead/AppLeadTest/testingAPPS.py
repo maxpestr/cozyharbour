@@ -172,7 +172,7 @@ merged_df = assign_traffic_source_and_recommendation(merged_df, df_train, countA
 merged_df['Alternative_notRecomended'] = where(
     (merged_df['notRecomended'] == 'remove') & (merged_df['Alternative_Recomendation'] == 0),
     'remove',
-    0
+    '0'
 )
 
 '''
