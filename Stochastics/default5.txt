@@ -1,0 +1,8 @@
+{
+  "t_g_option": false,
+  "t_g_option_no": true,
+  "int_search_option": false,
+  "int_search_option_no": true,
+  "check_geom_option": true,
+  "check_geom_option_no": false
+}

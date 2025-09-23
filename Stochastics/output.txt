@@ -1,0 +1,3990 @@
+boundary_points_number= 118
+bpn^-0.5 = 0.09205746178983233
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.274591070419924
+farthest_term **-1.0 = 0.10160092014665044
+self.tf = 552.1834970812166
+__
+boundary_points_number= 118
+bpn^-0.5 = 0.09205746178983233
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.274591070419924
+farthest_term **-1.0 = 0.10160092014665044
+self.tf = 552.1834970812166
+__
+
+NUM_SER 1 
+CURRENT_MAX_LEN 14 
+boundary_points_number= 118
+bpn^-0.5 = 0.09205746178983233
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.274591070419924
+farthest_term **-1.0 = 0.10160092014665044
+self.tf = 552.1834970812166
+__
+CORRECTING
+point to trans id 194 
+new clust num: 0
+is_new? False 
+trans_points_nums: [110, 29, 140, 158, 170, 31, 47, 173, 254, 209]
+real ser. length: 14
+clust_trans: 0
+boundary_points_number= 131
+bpn^-0.5 = 0.0873704056661038
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.142352049195108
+farthest_term **-1.0 = 0.10231170639894818
+self.tf = 1063.9841964150353
+__
+New_TF= 1063.9841964150353 
+Old_TF= 552.1834970812166
+ACCEPTED
+!!!!
+
+NUM_SER 2 
+CURRENT_MAX_LEN 20 
+boundary_points_number= 131
+bpn^-0.5 = 0.0873704056661038
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.142352049195108
+farthest_term **-1.0 = 0.10231170639894818
+self.tf = 1063.9841964150353
+__
+CORRECTING
+point to trans id 216 
+new clust num: 2
+is_new? False 
+trans_points_nums: [129, 201, 279, 159, 387, 54, 261, 144, 51, 312]
+real ser. length: 20
+clust_trans: 2
+boundary_points_number= 139
+bpn^-0.5 = 0.08481889296799709
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.012538438742421
+farthest_term **-1.0 = 0.10601413847013362
+self.tf = 1461.1748770894503
+__
+New_TF= 1461.1748770894503 
+Old_TF= 1063.9841964150353
+ACCEPTED
+!!!!
+
+NUM_SER 3 
+CURRENT_MAX_LEN 15 
+boundary_points_number= 139
+bpn^-0.5 = 0.08481889296799709
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.012538438742421
+farthest_term **-1.0 = 0.10601413847013362
+self.tf = 1461.1748770894503
+__
+CORRECTING
+point to trans id 2 
+new clust num: 0
+is_new? False 
+trans_points_nums: [32, 11, 122, 392, 371, 167, 59, 71, 200]
+real ser. length: 15
+clust_trans: 0
+boundary_points_number= 135
+bpn^-0.5 = 0.08606629658238704
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.090580604708906
+farthest_term **-1.0 = 0.10591229369532117
+self.tf = 1525.7706131187729
+__
+New_TF= 1525.7706131187729 
+Old_TF= 1461.1748770894503
+ACCEPTED
+!!!!
+
+NUM_SER 4 
+CURRENT_MAX_LEN 7 
+boundary_points_number= 135
+bpn^-0.5 = 0.08606629658238704
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.090580604708906
+farthest_term **-1.0 = 0.10591229369532117
+self.tf = 1525.7706131187729
+__
+CORRECTING
+point to trans id 335 
+new clust num: 0
+is_new? False 
+trans_points_nums: [242, 95]
+real ser. length: 7
+clust_trans: 0
+boundary_points_number= 123
+bpn^-0.5 = 0.09016696346674323
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.302778479686735
+farthest_term **-1.0 = 0.10583862348302227
+self.tf = 1661.990555712183
+__
+New_TF= 1661.990555712183 
+Old_TF= 1525.7706131187729
+ACCEPTED
+!!!!
+
+NUM_SER 5 
+CURRENT_MAX_LEN 9 
+boundary_points_number= 123
+bpn^-0.5 = 0.09016696346674323
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.302778479686735
+farthest_term **-1.0 = 0.10583862348302227
+self.tf = 1661.990555712183
+__
+CORRECTING
+point to trans id 331 
+new clust num: 1
+is_new? False 
+trans_points_nums: [265, 55, 331, 176, 359, 220, 74, 244, 53]
+real ser. length: 9
+clust_trans: 1
+boundary_points_number= 142
+bpn^-0.5 = 0.08391813582966891
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.257447290231045
+farthest_term **-1.0 = 0.10625149316061654
+self.tf = 1879.612257003281
+__
+New_TF= 1879.612257003281 
+Old_TF= 1661.990555712183
+ACCEPTED
+!!!!
+
+NUM_SER 6 
+CURRENT_MAX_LEN 15 
+boundary_points_number= 142
+bpn^-0.5 = 0.08391813582966891
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.257447290231045
+farthest_term **-1.0 = 0.10625149316061654
+self.tf = 1879.612257003281
+__
+CORRECTING
+point to trans id 248 
+new clust num: 0
+is_new? False 
+trans_points_nums: [265, 137, 97, 176, 244, 220, 260, 215, 53, 248]
+real ser. length: 15
+clust_trans: 0
+boundary_points_number= 137
+bpn^-0.5 = 0.0854357657716761
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.609017534961008
+farthest_term **-1.0 = 0.10795896789829663
+self.tf = 2121.472877515845
+__
+New_TF= 2121.472877515845 
+Old_TF= 1879.612257003281
+ACCEPTED
+!!!!
+
+NUM_SER 7 
+CURRENT_MAX_LEN 11 
+boundary_points_number= 137
+bpn^-0.5 = 0.0854357657716761
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.609017534961008
+farthest_term **-1.0 = 0.10795896789829663
+self.tf = 2121.472877515845
+__
+CORRECTING
+point to trans id 233 
+new clust num: 0
+is_new? False 
+trans_points_nums: [230, 350, 380, 35, 305, 188, 62, 86]
+real ser. length: 11
+clust_trans: 0
+boundary_points_number= 137
+bpn^-0.5 = 0.0854357657716761
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.533715279251237
+farthest_term **-1.0 = 0.10803560148820307
+self.tf = 2093.146482259791
+__
+New_TF= 2093.146482259791 
+Old_TF= 2121.472877515845
+CANCELED
+!!!!
+
+NUM_SER 8 
+CURRENT_MAX_LEN 24 
+boundary_points_number= 137
+bpn^-0.5 = 0.0854357657716761
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.609017534961008
+farthest_term **-1.0 = 0.10795896789829663
+self.tf = 2121.472877515845
+__
+CORRECTING
+point to trans id 257 
+new clust num: 3
+is_new? False 
+trans_points_nums: [14, 224, 80, 17, 245, 275, 131, 227, 332, 89, 353, 197]
+real ser. length: 24
+clust_trans: 3
+boundary_points_number= 148
+bpn^-0.5 = 0.08219949365267865
+mult.term **0.0 = 1.0
+mean_near **1.0 = 4.772010064411455
+farthest_term **-1.0 = 0.10770069235249634
+self.tf = 1736.2910754832203
+__
+New_TF= 1736.2910754832203 
+Old_TF= 2121.472877515845
+CANCELED
+!!!!
+
+NUM_SER 9 
+CURRENT_MAX_LEN 17 
+boundary_points_number= 137
+bpn^-0.5 = 0.0854357657716761
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.609017534961008
+farthest_term **-1.0 = 0.10795896789829663
+self.tf = 2121.472877515845
+__
+CORRECTING
+point to trans id 107 
+new clust num: 0
+is_new? False 
+trans_points_nums: [67, 58, 328, 211, 94, 288, 219, 139, 196, 310, 143, 198, 115]
+real ser. length: 17
+clust_trans: 0
+boundary_points_number= 156
+bpn^-0.5 = 0.08006407690254357
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.812473845921068
+farthest_term **-1.0 = 0.10905942359792409
+self.tf = 1959.8418400337912
+__
+New_TF= 1959.8418400337912 
+Old_TF= 2121.472877515845
+CANCELED
+!!!!
+
+NUM_SER 10 
+CURRENT_MAX_LEN 11 
+boundary_points_number= 137
+bpn^-0.5 = 0.0854357657716761
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.609017534961008
+farthest_term **-1.0 = 0.10795896789829663
+self.tf = 2121.472877515845
+__
+CORRECTING
+point to trans id 314 
+new clust num: 0
+is_new? False 
+trans_points_nums: [228, 22, 328, 198, 282, 219, 189, 111]
+real ser. length: 11
+clust_trans: 0
+boundary_points_number= 152
+bpn^-0.5 = 0.08111071056538127
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.420088537453522
+farthest_term **-1.0 = 0.10828210140983101
+self.tf = 1923.0684008323049
+__
+New_TF= 1923.0684008323049 
+Old_TF= 2121.472877515845
+CANCELED
+!!!!
+
+NUM_SER 11 
+CURRENT_MAX_LEN 13 
+boundary_points_number= 137
+bpn^-0.5 = 0.0854357657716761
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.609017534961008
+farthest_term **-1.0 = 0.10795896789829663
+self.tf = 2121.472877515845
+__
+SIMPLE
+point to trans id 110  
+new clust num: 1 
+is_new? False 
+trans_points_nums: [272, 284, 140, 47, 26, 251, 173, 347, 209, 158, 218]
+real ser. length: 13
+clust_trans: 1
+boundary_points_number= 157
+bpn^-0.5 = 0.07980868844676221
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.604672403768211
+farthest_term **-1.0 = 0.108909781868194
+self.tf = 1603.793968712572
+__
+New_TF= 1603.793968712572 
+Old_TF= 2121.472877515845
+CANCELED
+!!!!
+
+NUM_SER 12 
+CURRENT_MAX_LEN 12 
+boundary_points_number= 137
+bpn^-0.5 = 0.0854357657716761
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.609017534961008
+farthest_term **-1.0 = 0.10795896789829663
+self.tf = 2121.472877515845
+__
+CORRECTING
+point to trans id 142 
+new clust num: 2
+is_new? False 
+trans_points_nums: [130, 229, 118, 226, 289, 264, 298, 184, 213]
+real ser. length: 12
+clust_trans: 2
+boundary_points_number= 155
+bpn^-0.5 = 0.08032193289024989
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.484275957531996
+farthest_term **-1.0 = 0.1087672484840649
+self.tf = 2033.6884232682207
+__
+New_TF= 2033.6884232682207 
+Old_TF= 2121.472877515845
+CANCELED
+!!!!
+
+NUM_SER 13 
+CURRENT_MAX_LEN 11 
+boundary_points_number= 137
+bpn^-0.5 = 0.0854357657716761
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.609017534961008
+farthest_term **-1.0 = 0.10795896789829663
+self.tf = 2121.472877515845
+__
+CORRECTING
+point to trans id 150 
+new clust num: 0
+is_new? False 
+trans_points_nums: [180, 288, 87, 258, 219, 143, 222, 105]
+real ser. length: 11
+clust_trans: 0
+boundary_points_number= 148
+bpn^-0.5 = 0.08219949365267865
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.440160740139205
+farthest_term **-1.0 = 0.10798202492491303
+self.tf = 1911.5864131464014
+__
+New_TF= 1911.5864131464014 
+Old_TF= 2121.472877515845
+CANCELED
+!!!!
+
+NUM_SER 14 
+CURRENT_MAX_LEN 10 
+boundary_points_number= 137
+bpn^-0.5 = 0.0854357657716761
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.609017534961008
+farthest_term **-1.0 = 0.10795896789829663
+self.tf = 2121.472877515845
+__
+CORRECTING
+point to trans id 15 
+new clust num: 1
+is_new? False 
+trans_points_nums: [348, 231, 168]
+real ser. length: 10
+clust_trans: 1
+boundary_points_number= 123
+bpn^-0.5 = 0.09016696346674323
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.9825940486002365
+farthest_term **-1.0 = 0.10840994871289512
+self.tf = 2608.9924086801702
+__
+New_TF= 2608.9924086801702 
+Old_TF= 2121.472877515845
+ACCEPTED
+!!!!
+
+NUM_SER 15 
+CURRENT_MAX_LEN 18 
+boundary_points_number= 123
+bpn^-0.5 = 0.09016696346674323
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.9825940486002365
+farthest_term **-1.0 = 0.10840994871289512
+self.tf = 2608.9924086801702
+__
+CORRECTING
+point to trans id 129 
+new clust num: 0
+is_new? False 
+trans_points_nums: [216, 90, 261, 99, 354, 144, 126, 201, 222]
+real ser. length: 18
+clust_trans: 0
+boundary_points_number= 135
+bpn^-0.5 = 0.08606629658238704
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.833202740397385
+farthest_term **-1.0 = 0.10611277736418263
+self.tf = 2055.634424955852
+__
+New_TF= 2055.634424955852 
+Old_TF= 2608.9924086801702
+CANCELED
+!!!!
+
+NUM_SER 16 
+CURRENT_MAX_LEN 23 
+boundary_points_number= 123
+bpn^-0.5 = 0.09016696346674323
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.9825940486002365
+farthest_term **-1.0 = 0.10840994871289512
+self.tf = 2608.9924086801702
+__
+CORRECTING
+point to trans id 212 
+new clust num: 0
+is_new? False 
+trans_points_nums: [305, 377, 350, 230, 344, 41, 146, 221]
+real ser. length: 23
+clust_trans: 0
+boundary_points_number= 105
+bpn^-0.5 = 0.09759000729485331
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.369456568296042
+farthest_term **-1.0 = 0.10759098554060377
+self.tf = 2983.504968582986
+__
+New_TF= 2983.504968582986 
+Old_TF= 2608.9924086801702
+ACCEPTED
+!!!!
+
+NUM_SER 17 
+CURRENT_MAX_LEN 23 
+boundary_points_number= 105
+bpn^-0.5 = 0.09759000729485331
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.369456568296042
+farthest_term **-1.0 = 0.10759098554060377
+self.tf = 2983.504968582986
+__
+CORRECTING
+point to trans id 55 
+new clust num: 2
+is_new? False 
+trans_points_nums: [377, 305, 230, 116, 31, 206, 344, 137, 113, 146, 331, 236, 221, 359, 35]
+real ser. length: 23
+clust_trans: 2
+boundary_points_number= 109
+bpn^-0.5 = 0.09578262852211514
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.76182909459328
+farthest_term **-1.0 = 0.10654437164634246
+self.tf = 2402.556565150875
+__
+New_TF= 2402.556565150875 
+Old_TF= 2983.504968582986
+CANCELED
+!!!!
+
+NUM_SER 18 
+CURRENT_MAX_LEN 14 
+boundary_points_number= 105
+bpn^-0.5 = 0.09759000729485331
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.369456568296042
+farthest_term **-1.0 = 0.10759098554060377
+self.tf = 2983.504968582986
+__
+CORRECTING
+point to trans id 60 
+new clust num: 1
+is_new? False 
+trans_points_nums: [182, 269, 20, 179, 131, 365, 185, 329, 356]
+real ser. length: 14
+clust_trans: 1
+boundary_points_number= 114
+bpn^-0.5 = 0.0936585811581694
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.3347772280737304
+farthest_term **-1.0 = 0.10743729664614335
+self.tf = 2201.1550188748033
+__
+New_TF= 2201.1550188748033 
+Old_TF= 2983.504968582986
+CANCELED
+!!!!
+
+NUM_SER 19 
+CURRENT_MAX_LEN 18 
+boundary_points_number= 105
+bpn^-0.5 = 0.09759000729485331
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.369456568296042
+farthest_term **-1.0 = 0.10759098554060377
+self.tf = 2983.504968582986
+__
+CORRECTING
+point to trans id 55 
+new clust num: 2
+is_new? False 
+trans_points_nums: [215, 59, 344, 368, 331, 265, 53, 176, 140, 236, 116, 74, 137, 244, 146, 272, 158]
+real ser. length: 18
+clust_trans: 2
+boundary_points_number= 114
+bpn^-0.5 = 0.0936585811581694
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.5388589556847565
+farthest_term **-1.0 = 0.1076013806086633
+self.tf = 2325.4794577680454
+__
+New_TF= 2325.4794577680454 
+Old_TF= 2983.504968582986
+CANCELED
+!!!!
+
+NUM_SER 20 
+CURRENT_MAX_LEN 16 
+boundary_points_number= 105
+bpn^-0.5 = 0.09759000729485331
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.369456568296042
+farthest_term **-1.0 = 0.10759098554060377
+self.tf = 2983.504968582986
+__
+CORRECTING
+point to trans id 382 
+new clust num: 1
+is_new? False 
+trans_points_nums: [244, 307, 232, 217, 274, 370, 55, 316]
+real ser. length: 16
+clust_trans: 1
+boundary_points_number= 94
+bpn^-0.5 = 0.10314212462587934
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.839253308408942
+farthest_term **-1.0 = 0.11725812314652281
+self.tf = 2971.2754329439463
+__
+New_TF= 2971.2754329439463 
+Old_TF= 2983.504968582986
+CANCELED
+!!!!
+
+NUM_SER 21 
+CURRENT_MAX_LEN 13 
+boundary_points_number= 105
+bpn^-0.5 = 0.09759000729485331
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.369456568296042
+farthest_term **-1.0 = 0.10759098554060377
+self.tf = 2983.504968582986
+__
+CORRECTING
+point to trans id 314 
+new clust num: 0
+is_new? False 
+trans_points_nums: [180, 297, 228, 24, 111, 198, 258, 328]
+real ser. length: 13
+clust_trans: 0
+boundary_points_number= 122
+bpn^-0.5 = 0.09053574604251853
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.029009464860051
+farthest_term **-1.0 = 0.10785137563364944
+self.tf = 2530.275470333967
+__
+New_TF= 2530.275470333967 
+Old_TF= 2983.504968582986
+CANCELED
+!!!!
+
+NUM_SER 22 
+CURRENT_MAX_LEN 15 
+boundary_points_number= 105
+bpn^-0.5 = 0.09759000729485331
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.369456568296042
+farthest_term **-1.0 = 0.10759098554060377
+self.tf = 2983.504968582986
+__
+CORRECTING
+point to trans id 236 
+new clust num: 0
+is_new? False 
+trans_points_nums: [236]
+real ser. length: 1
+clust_trans: 0
+boundary_points_number= 100
+bpn^-0.5 = 0.1
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.678560978557962
+farthest_term **-1.0 = 0.10746620424803907
+self.tf = 3201.8216796364827
+__
+New_TF= 3201.8216796364827 
+Old_TF= 2983.504968582986
+ACCEPTED
+!!!!
+
+NUM_SER 23 
+CURRENT_MAX_LEN 12 
+boundary_points_number= 100
+bpn^-0.5 = 0.1
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.678560978557962
+farthest_term **-1.0 = 0.10746620424803907
+self.tf = 3201.8216796364827
+__
+CORRECTING
+point to trans id 142 
+new clust num: 2
+is_new? False 
+trans_points_nums: [379, 43, 289, 121, 76, 175, 118, 226, 57, 325]
+real ser. length: 12
+clust_trans: 2
+boundary_points_number= 129
+bpn^-0.5 = 0.08804509063256238
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.268434492821551
+farthest_term **-1.0 = 0.11563802231028233
+self.tf = 3478.3362630734946
+__
+New_TF= 3478.3362630734946 
+Old_TF= 3201.8216796364827
+ACCEPTED
+!!!!
+
+NUM_SER 24 
+CURRENT_MAX_LEN 21 
+boundary_points_number= 129
+bpn^-0.5 = 0.08804509063256238
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.268434492821551
+farthest_term **-1.0 = 0.11563802231028233
+self.tf = 3478.3362630734946
+__
+CORRECTING
+point to trans id 174 
+new clust num: 1
+is_new? False 
+trans_points_nums: [341, 89, 104, 269, 20, 278, 383, 131, 245, 179, 185, 323, 287]
+real ser. length: 21
+clust_trans: 1
+boundary_points_number= 141
+bpn^-0.5 = 0.08421519210665189
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.801294936650379
+farthest_term **-1.0 = 0.11233163277037247
+self.tf = 2483.529568511161
+__
+New_TF= 2483.529568511161 
+Old_TF= 3478.3362630734946
+CANCELED
+!!!!
+
+NUM_SER 25 
+CURRENT_MAX_LEN 20 
+boundary_points_number= 129
+bpn^-0.5 = 0.08804509063256238
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.268434492821551
+farthest_term **-1.0 = 0.11563802231028233
+self.tf = 3478.3362630734946
+__
+CORRECTING
+point to trans id 43 
+new clust num: 1
+is_new? False 
+trans_points_nums: [55, 232, 226, 109]
+real ser. length: 20
+clust_trans: 1
+boundary_points_number= 97
+bpn^-0.5 = 0.1015346165133619
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.449167245696097
+farthest_term **-1.0 = 0.11783879857555093
+self.tf = 3840.116175715713
+__
+New_TF= 3840.116175715713 
+Old_TF= 3478.3362630734946
+ACCEPTED
+!!!!
+
+NUM_SER 26 
+CURRENT_MAX_LEN 14 
+boundary_points_number= 97
+bpn^-0.5 = 0.1015346165133619
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.449167245696097
+farthest_term **-1.0 = 0.11783879857555093
+self.tf = 3840.116175715713
+__
+CORRECTING
+point to trans id 232 
+new clust num: 2
+is_new? False 
+trans_points_nums: [55, 190, 157, 53, 40, 259, 244, 235, 382, 142]
+real ser. length: 14
+clust_trans: 2
+boundary_points_number= 108
+bpn^-0.5 = 0.09622504486493763
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.6203386160390325
+farthest_term **-1.0 = 0.11794725861546201
+self.tf = 4102.023210276115
+__
+New_TF= 4102.023210276115 
+Old_TF= 3840.116175715713
+ACCEPTED
+!!!!
+
+NUM_SER 27 
+CURRENT_MAX_LEN 19 
+boundary_points_number= 108
+bpn^-0.5 = 0.09622504486493763
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.6203386160390325
+farthest_term **-1.0 = 0.11794725861546201
+self.tf = 4102.023210276115
+__
+CORRECTING
+point to trans id 60 
+new clust num: 1
+is_new? False 
+trans_points_nums: [323, 179, 131, 128, 284, 365, 185, 20, 197, 269, 152]
+real ser. length: 19
+clust_trans: 1
+boundary_points_number= 116
+bpn^-0.5 = 0.09284766908852593
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.811150221658328
+farthest_term **-1.0 = 0.11725268455306019
+self.tf = 3433.8007789433054
+__
+New_TF= 3433.8007789433054 
+Old_TF= 4102.023210276115
+CANCELED
+!!!!
+
+NUM_SER 28 
+CURRENT_MAX_LEN 15 
+boundary_points_number= 108
+bpn^-0.5 = 0.09622504486493763
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.6203386160390325
+farthest_term **-1.0 = 0.11794725861546201
+self.tf = 4102.023210276115
+__
+CORRECTING
+point to trans id 31 
+new clust num: 1
+is_new? False 
+trans_points_nums: [140, 359, 215, 253, 137, 220, 265, 53, 55, 244, 316, 248, 272]
+real ser. length: 15
+clust_trans: 1
+boundary_points_number= 119
+bpn^-0.5 = 0.09166984970282113
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.445372614822046
+farthest_term **-1.0 = 0.11652660861593508
+self.tf = 2848.8610528387044
+__
+New_TF= 2848.8610528387044 
+Old_TF= 4102.023210276115
+CANCELED
+!!!!
+
+NUM_SER 29 
+CURRENT_MAX_LEN 21 
+boundary_points_number= 108
+bpn^-0.5 = 0.09622504486493763
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.6203386160390325
+farthest_term **-1.0 = 0.11794725861546201
+self.tf = 4102.023210276115
+__
+CORRECTING
+point to trans id 296 
+new clust num: 0
+is_new? False 
+trans_points_nums: []
+real ser. length: 4
+clust_trans: 0
+boundary_points_number= 95
+bpn^-0.5 = 0.10259783520851541
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.056975812533683
+farthest_term **-1.0 = 0.11797770364612203
+self.tf = 4625.317154832081
+__
+New_TF= 4625.317154832081 
+Old_TF= 4102.023210276115
+ACCEPTED
+!!!!
+
+NUM_SER 30 
+CURRENT_MAX_LEN 13 
+boundary_points_number= 95
+bpn^-0.5 = 0.10259783520851541
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.056975812533683
+farthest_term **-1.0 = 0.11797770364612203
+self.tf = 4625.317154832081
+__
+CORRECTING
+point to trans id 306 
+new clust num: 1
+is_new? False 
+trans_points_nums: [197, 269, 156, 20, 185, 149, 266, 383]
+real ser. length: 13
+clust_trans: 1
+boundary_points_number= 96
+bpn^-0.5 = 0.10206207261596575
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.2103041207119185
+farthest_term **-1.0 = 0.11261315636102451
+self.tf = 3733.3952161916095
+__
+New_TF= 3733.3952161916095 
+Old_TF= 4625.317154832081
+CANCELED
+!!!!
+
+NUM_SER 31 
+CURRENT_MAX_LEN 24 
+boundary_points_number= 95
+bpn^-0.5 = 0.10259783520851541
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.056975812533683
+farthest_term **-1.0 = 0.11797770364612203
+self.tf = 4625.317154832081
+__
+CORRECTING
+point to trans id 210 
+new clust num: 1
+is_new? False 
+trans_points_nums: [89, 356, 149, 185, 182, 245, 20, 338, 266, 92, 131, 197, 329]
+real ser. length: 24
+clust_trans: 1
+boundary_points_number= 97
+bpn^-0.5 = 0.1015346165133619
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.0136249849641
+farthest_term **-1.0 = 0.11274814116251666
+self.tf = 3207.1140506206552
+__
+New_TF= 3207.1140506206552 
+Old_TF= 4625.317154832081
+CANCELED
+!!!!
+
+NUM_SER 32 
+CURRENT_MAX_LEN 14 
+boundary_points_number= 95
+bpn^-0.5 = 0.10259783520851541
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.056975812533683
+farthest_term **-1.0 = 0.11797770364612203
+self.tf = 4625.317154832081
+__
+CORRECTING
+point to trans id 142 
+new clust num: 1
+is_new? False 
+trans_points_nums: [274, 217, 232, 316, 103, 109, 235]
+real ser. length: 14
+clust_trans: 1
+boundary_points_number= 92
+bpn^-0.5 = 0.10425720702853739
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.3464141651747425
+farthest_term **-1.0 = 0.11730270799246392
+self.tf = 3976.2960923416194
+__
+New_TF= 3976.2960923416194 
+Old_TF= 4625.317154832081
+CANCELED
+!!!!
+
+NUM_SER 33 
+CURRENT_MAX_LEN 17 
+boundary_points_number= 95
+bpn^-0.5 = 0.10259783520851541
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.056975812533683
+farthest_term **-1.0 = 0.11797770364612203
+self.tf = 4625.317154832081
+__
+CORRECTING
+point to trans id 57 
+new clust num: 1
+is_new? False 
+trans_points_nums: [57]
+real ser. length: 1
+clust_trans: 1
+boundary_points_number= 89
+bpn^-0.5 = 0.105999788000636
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.450277292286122
+farthest_term **-1.0 = 0.11630392459783084
+self.tf = 4345.740469895254
+__
+New_TF= 4345.740469895254 
+Old_TF= 4625.317154832081
+CANCELED
+!!!!
+
+NUM_SER 34 
+CURRENT_MAX_LEN 18 
+boundary_points_number= 95
+bpn^-0.5 = 0.10259783520851541
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.056975812533683
+farthest_term **-1.0 = 0.11797770364612203
+self.tf = 4625.317154832081
+__
+CORRECTING
+point to trans id 74 
+new clust num: 0
+is_new? False 
+trans_points_nums: [316, 61, 313, 259, 334, 208, 103, 97, 265, 109, 53, 10]
+real ser. length: 18
+clust_trans: 0
+boundary_points_number= 92
+bpn^-0.5 = 0.10425720702853739
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.9918128789540726
+farthest_term **-1.0 = 0.10742111410987094
+self.tf = 3135.2088479320346
+__
+New_TF= 3135.2088479320346 
+Old_TF= 4625.317154832081
+CANCELED
+!!!!
+
+NUM_SER 35 
+CURRENT_MAX_LEN 23 
+boundary_points_number= 95
+bpn^-0.5 = 0.10259783520851541
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.056975812533683
+farthest_term **-1.0 = 0.11797770364612203
+self.tf = 4625.317154832081
+__
+CORRECTING
+point to trans id 60 
+new clust num: 1
+is_new? False 
+trans_points_nums: [197, 281, 152, 341, 149, 179, 45, 20, 182, 284, 131]
+real ser. length: 23
+clust_trans: 1
+boundary_points_number= 101
+bpn^-0.5 = 0.09950371902099892
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.896251751077405
+farthest_term **-1.0 = 0.11231764485382163
+self.tf = 2958.398537984151
+__
+New_TF= 2958.398537984151 
+Old_TF= 4625.317154832081
+CANCELED
+!!!!
+
+NUM_SER 36 
+CURRENT_MAX_LEN 14 
+boundary_points_number= 95
+bpn^-0.5 = 0.10259783520851541
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.056975812533683
+farthest_term **-1.0 = 0.11797770364612203
+self.tf = 4625.317154832081
+__
+CORRECTING
+point to trans id 154 
+new clust num: 2
+is_new? False 
+trans_points_nums: [199, 346, 82, 187, 283, 208, 13, 25, 262, 295, 91]
+real ser. length: 14
+clust_trans: 2
+boundary_points_number= 112
+bpn^-0.5 = 0.09449111825230681
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.452349992281387
+farthest_term **-1.0 = 0.1180360069895846
+self.tf = 4265.500210158732
+__
+New_TF= 4265.500210158732 
+Old_TF= 4625.317154832081
+CANCELED
+!!!!
+
+NUM_SER 37 
+CURRENT_MAX_LEN 8 
+boundary_points_number= 95
+bpn^-0.5 = 0.10259783520851541
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.056975812533683
+farthest_term **-1.0 = 0.11797770364612203
+self.tf = 4625.317154832081
+__
+CORRECTING
+point to trans id 174 
+new clust num: 1
+is_new? False 
+trans_points_nums: [269, 156, 383]
+real ser. length: 8
+clust_trans: 1
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.608289596989126
+farthest_term **-1.0 = 0.11264120676082819
+self.tf = 4484.157622288056
+__
+New_TF= 4484.157622288056 
+Old_TF= 4625.317154832081
+CANCELED
+!!!!
+
+NUM_SER 38 
+CURRENT_MAX_LEN 20 
+boundary_points_number= 95
+bpn^-0.5 = 0.10259783520851541
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.056975812533683
+farthest_term **-1.0 = 0.11797770364612203
+self.tf = 4625.317154832081
+__
+CORRECTING
+point to trans id 60 
+new clust num: 1
+is_new? False 
+trans_points_nums: [311, 179, 128, 266, 365, 131, 356, 210, 245, 20, 149]
+real ser. length: 20
+clust_trans: 1
+boundary_points_number= 99
+bpn^-0.5 = 0.10050378152592121
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.949029839237618
+farthest_term **-1.0 = 0.11242680518593193
+self.tf = 3207.1075155451363
+__
+New_TF= 3207.1075155451363 
+Old_TF= 4625.317154832081
+CANCELED
+!!!!
+
+NUM_SER 39 
+CURRENT_MAX_LEN 10 
+boundary_points_number= 95
+bpn^-0.5 = 0.10259783520851541
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.056975812533683
+farthest_term **-1.0 = 0.11797770364612203
+self.tf = 4625.317154832081
+__
+CORRECTING
+point to trans id 220 
+new clust num: 2
+is_new? False 
+trans_points_nums: [31, 127, 85, 328, 219, 151]
+real ser. length: 10
+clust_trans: 2
+boundary_points_number= 100
+bpn^-0.5 = 0.1
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.00257000484377
+farthest_term **-1.0 = 0.12166346689892929
+self.tf = 4755.690882307679
+__
+New_TF= 4755.690882307679 
+Old_TF= 4625.317154832081
+ACCEPTED
+!!!!
+
+NUM_SER 40 
+CURRENT_MAX_LEN 17 
+boundary_points_number= 100
+bpn^-0.5 = 0.1
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.00257000484377
+farthest_term **-1.0 = 0.12166346689892929
+self.tf = 4755.690882307679
+__
+CORRECTING
+point to trans id 116 
+new clust num: 2
+is_new? False 
+trans_points_nums: [116, 83, 173, 248, 59, 95, 113, 11, 290, 260, 140, 107, 368, 71]
+real ser. length: 17
+clust_trans: 2
+boundary_points_number= 123
+bpn^-0.5 = 0.09016696346674323
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.851137405199893
+farthest_term **-1.0 = 0.1173214264689466
+self.tf = 3031.865795888428
+__
+New_TF= 3031.865795888428 
+Old_TF= 4755.690882307679
+CANCELED
+!!!!
+
+NUM_SER 41 
+CURRENT_MAX_LEN 16 
+boundary_points_number= 100
+bpn^-0.5 = 0.1
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.00257000484377
+farthest_term **-1.0 = 0.12166346689892929
+self.tf = 4755.690882307679
+__
+CORRECTING
+point to trans id 154 
+new clust num: 2
+is_new? False 
+trans_points_nums: [325, 283, 76, 286, 199, 256, 82, 1, 175, 379, 208]
+real ser. length: 16
+clust_trans: 2
+boundary_points_number= 114
+bpn^-0.5 = 0.0936585811581694
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.529517621400167
+farthest_term **-1.0 = 0.12182174983903798
+self.tf = 4854.562732115544
+__
+New_TF= 4854.562732115544 
+Old_TF= 4755.690882307679
+ACCEPTED
+!!!!
+
+NUM_SER 42 
+CURRENT_MAX_LEN 19 
+boundary_points_number= 114
+bpn^-0.5 = 0.0936585811581694
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.529517621400167
+farthest_term **-1.0 = 0.12182174983903798
+self.tf = 4854.562732115544
+__
+CORRECTING
+point to trans id 261 
+new clust num: 0
+is_new? False 
+trans_points_nums: [6, 102, 276, 117, 354, 144, 147, 195, 279, 15, 168, 240, 36, 303, 33]
+real ser. length: 19
+clust_trans: 0
+boundary_points_number= 139
+bpn^-0.5 = 0.08481889296799709
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.742411475040825
+farthest_term **-1.0 = 0.12151582636818692
+self.tf = 3341.520088920588
+__
+New_TF= 3341.520088920588 
+Old_TF= 4854.562732115544
+CANCELED
+!!!!
+
+NUM_SER 43 
+CURRENT_MAX_LEN 12 
+boundary_points_number= 114
+bpn^-0.5 = 0.0936585811581694
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.529517621400167
+farthest_term **-1.0 = 0.12182174983903798
+self.tf = 4854.562732115544
+__
+CORRECTING
+point to trans id 379 
+new clust num: 4
+is_new? False 
+trans_points_nums: [190, 184, 238, 118, 76, 25, 379, 61, 325, 262]
+real ser. length: 12
+clust_trans: 4
+boundary_points_number= 121
+bpn^-0.5 = 0.09090909090909091
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.053992487925218
+farthest_term **-1.0 = 0.12229613068155414
+self.tf = 4583.842090155884
+__
+New_TF= 4583.842090155884 
+Old_TF= 4854.562732115544
+CANCELED
+!!!!
+
+NUM_SER 44 
+CURRENT_MAX_LEN 24 
+boundary_points_number= 114
+bpn^-0.5 = 0.0936585811581694
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.529517621400167
+farthest_term **-1.0 = 0.12182174983903798
+self.tf = 4854.562732115544
+__
+CORRECTING
+point to trans id 78 
+new clust num: 1
+is_new? False 
+trans_points_nums: [185, 128, 266, 245, 353, 227, 20, 269, 152, 179, 89, 224, 330]
+real ser. length: 24
+clust_trans: 1
+boundary_points_number= 123
+bpn^-0.5 = 0.09016696346674323
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.491111207827055
+farthest_term **-1.0 = 0.11565897227367263
+self.tf = 3302.184372570441
+__
+New_TF= 3302.184372570441 
+Old_TF= 4854.562732115544
+CANCELED
+!!!!
+
+NUM_SER 45 
+CURRENT_MAX_LEN 3 
+boundary_points_number= 114
+bpn^-0.5 = 0.0936585811581694
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.529517621400167
+farthest_term **-1.0 = 0.12182174983903798
+self.tf = 4854.562732115544
+__
+CORRECTING
+point to trans id 1 
+new clust num: 1
+is_new? False 
+trans_points_nums: [154, 355, 1]
+real ser. length: 3
+clust_trans: 1
+boundary_points_number= 125
+bpn^-0.5 = 0.08944271909999159
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.207346524515575
+farthest_term **-1.0 = 0.12186058606817386
+self.tf = 4352.393120075472
+__
+New_TF= 4352.393120075472 
+Old_TF= 4854.562732115544
+CANCELED
+!!!!
+
+NUM_SER 46 
+CURRENT_MAX_LEN 19 
+boundary_points_number= 114
+bpn^-0.5 = 0.0936585811581694
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.529517621400167
+farthest_term **-1.0 = 0.12182174983903798
+self.tf = 4854.562732115544
+__
+CORRECTING
+point to trans id 226 
+new clust num: 2
+is_new? False 
+trans_points_nums: [57, 228, 37, 226, 132, 72, 58, 367, 115, 375, 223, 213, 229, 121, 372]
+real ser. length: 19
+clust_trans: 2
+boundary_points_number= 138
+bpn^-0.5 = 0.08512565307587486
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.192211176148967
+farthest_term **-1.0 = 0.12572094802380304
+self.tf = 5870.52625143838
+__
+New_TF= 5870.52625143838 
+Old_TF= 4854.562732115544
+ACCEPTED
+!!!!
+
+NUM_SER 47 
+CURRENT_MAX_LEN 14 
+boundary_points_number= 138
+bpn^-0.5 = 0.08512565307587486
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.192211176148967
+farthest_term **-1.0 = 0.12572094802380304
+self.tf = 5870.52625143838
+__
+CORRECTING
+point to trans id 176 
+new clust num: 2
+is_new? False 
+trans_points_nums: [305, 236, 248, 368, 137, 215, 350, 320, 230, 359, 74]
+real ser. length: 14
+clust_trans: 2
+boundary_points_number= 160
+bpn^-0.5 = 0.07905694150420949
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.080611087340114
+farthest_term **-1.0 = 0.1139172376744786
+self.tf = 3601.849340154493
+__
+New_TF= 3601.849340154493 
+Old_TF= 5870.52625143838
+CANCELED
+!!!!
+
+NUM_SER 48 
+CURRENT_MAX_LEN 16 
+boundary_points_number= 138
+bpn^-0.5 = 0.08512565307587486
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.192211176148967
+farthest_term **-1.0 = 0.12572094802380304
+self.tf = 5870.52625143838
+__
+CORRECTING
+point to trans id 130 
+new clust num: 2
+is_new? False 
+trans_points_nums: [385, 73, 79, 358, 49, 310, 322]
+real ser. length: 16
+clust_trans: 2
+boundary_points_number= 137
+bpn^-0.5 = 0.0854357657716761
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.952996451739804
+farthest_term **-1.0 = 0.1246683670263274
+self.tf = 6558.408186684836
+__
+New_TF= 6558.408186684836 
+Old_TF= 5870.52625143838
+ACCEPTED
+!!!!
+
+NUM_SER 49 
+CURRENT_MAX_LEN 3 
+boundary_points_number= 137
+bpn^-0.5 = 0.0854357657716761
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.952996451739804
+farthest_term **-1.0 = 0.1246683670263274
+self.tf = 6558.408186684836
+__
+CORRECTING
+point to trans id 348 
+new clust num: 0
+is_new? False 
+trans_points_nums: [348, 261, 393]
+real ser. length: 3
+clust_trans: 0
+boundary_points_number= 144
+bpn^-0.5 = 0.08333333333333333
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.789126672050439
+farthest_term **-1.0 = 0.12471221781812068
+self.tf = 6101.3493295811795
+__
+New_TF= 6101.3493295811795 
+Old_TF= 6558.408186684836
+CANCELED
+!!!!
+
+NUM_SER 50 
+CURRENT_MAX_LEN 12 
+boundary_points_number= 137
+bpn^-0.5 = 0.0854357657716761
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.952996451739804
+farthest_term **-1.0 = 0.1246683670263274
+self.tf = 6558.408186684836
+__
+CORRECTING
+point to trans id 379 
+new clust num: 5
+is_new? False 
+trans_points_nums: [175, 358, 289, 25, 367, 121, 118, 184, 40]
+real ser. length: 12
+clust_trans: 5
+boundary_points_number= 145
+bpn^-0.5 = 0.08304547985373997
+mult.term **0.0 = 1.0
+mean_near **1.0 = 5.84763204832354
+farthest_term **-1.0 = 0.12481501422820418
+self.tf = 5368.701383098006
+__
+New_TF= 5368.701383098006 
+Old_TF= 6558.408186684836
+CANCELED
+!!!!
+
+NUM_SER 51 
+CURRENT_MAX_LEN 18 
+boundary_points_number= 137
+bpn^-0.5 = 0.0854357657716761
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.952996451739804
+farthest_term **-1.0 = 0.1246683670263274
+self.tf = 6558.408186684836
+__
+CORRECTING
+point to trans id 13 
+new clust num: 2
+is_new? False 
+trans_points_nums: [388, 349, 133, 178, 163, 16, 250]
+real ser. length: 18
+clust_trans: 2
+boundary_points_number= 130
+bpn^-0.5 = 0.08770580193070292
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.067593414390321
+farthest_term **-1.0 = 0.12451780186246171
+self.tf = 6833.824250047548
+__
+New_TF= 6833.824250047548 
+Old_TF= 6558.408186684836
+ACCEPTED
+!!!!
+
+NUM_SER 52 
+CURRENT_MAX_LEN 12 
+boundary_points_number= 130
+bpn^-0.5 = 0.08770580193070292
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.067593414390321
+farthest_term **-1.0 = 0.12451780186246171
+self.tf = 6833.824250047548
+__
+CORRECTING
+point to trans id 186 
+new clust num: 2
+is_new? False 
+trans_points_nums: [186]
+real ser. length: 1
+clust_trans: 2
+boundary_points_number= 128
+bpn^-0.5 = 0.08838834764831845
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.143299706051851
+farthest_term **-1.0 = 0.12461508890455814
+self.tf = 6911.2562944299525
+__
+New_TF= 6911.2562944299525 
+Old_TF= 6833.824250047548
+ACCEPTED
+!!!!
+
+NUM_SER 53 
+CURRENT_MAX_LEN 16 
+boundary_points_number= 128
+bpn^-0.5 = 0.08838834764831845
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.143299706051851
+farthest_term **-1.0 = 0.12461508890455814
+self.tf = 6911.2562944299525
+__
+CORRECTING
+point to trans id 348 
+new clust num: 0
+is_new? False 
+trans_points_nums: [369, 183, 15, 144, 75, 168, 261, 36, 393]
+real ser. length: 16
+clust_trans: 0
+boundary_points_number= 145
+bpn^-0.5 = 0.08304547985373997
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.656565455500187
+farthest_term **-1.0 = 0.12474005148736528
+self.tf = 5335.835052692406
+__
+New_TF= 5335.835052692406 
+Old_TF= 6911.2562944299525
+CANCELED
+!!!!
+
+NUM_SER 54 
+CURRENT_MAX_LEN 5 
+boundary_points_number= 128
+bpn^-0.5 = 0.08838834764831845
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.143299706051851
+farthest_term **-1.0 = 0.12461508890455814
+self.tf = 6911.2562944299525
+__
+CORRECTING
+point to trans id 74 
+new clust num: 0
+is_new? False 
+trans_points_nums: [220, 316, 244, 55]
+real ser. length: 5
+clust_trans: 0
+boundary_points_number= 137
+bpn^-0.5 = 0.0854357657716761
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.378733876228919
+farthest_term **-1.0 = 0.11457242982777753
+self.tf = 5300.985950872293
+__
+New_TF= 5300.985950872293 
+Old_TF= 6911.2562944299525
+CANCELED
+!!!!
+
+NUM_SER 55 
+CURRENT_MAX_LEN 22 
+boundary_points_number= 128
+bpn^-0.5 = 0.08838834764831845
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.143299706051851
+farthest_term **-1.0 = 0.12461508890455814
+self.tf = 6911.2562944299525
+__
+SIMPLE
+point to trans id 381  
+new clust num: 2 
+is_new? False 
+trans_points_nums: [342, 138, 366, 357, 384, 324, 30, 270, 273, 183, 93]
+real ser. length: 22
+clust_trans: 2
+boundary_points_number= 143
+bpn^-0.5 = 0.08362420100070908
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.820719041119806
+farthest_term **-1.0 = 0.12471871689310864
+self.tf = 5276.445458630952
+__
+New_TF= 5276.445458630952 
+Old_TF= 6911.2562944299525
+CANCELED
+!!!!
+
+NUM_SER 56 
+CURRENT_MAX_LEN 11 
+boundary_points_number= 128
+bpn^-0.5 = 0.08838834764831845
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.143299706051851
+farthest_term **-1.0 = 0.12461508890455814
+self.tf = 6911.2562944299525
+__
+CORRECTING
+point to trans id 247 
+new clust num: 2
+is_new? False 
+trans_points_nums: []
+real ser. length: 8
+clust_trans: 2
+boundary_points_number= 112
+bpn^-0.5 = 0.09449111825230681
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.6027544389782955
+farthest_term **-1.0 = 0.12452012045825005
+self.tf = 7856.884405367284
+__
+New_TF= 7856.884405367284 
+Old_TF= 6911.2562944299525
+ACCEPTED
+!!!!
+
+NUM_SER 57 
+CURRENT_MAX_LEN 16 
+boundary_points_number= 112
+bpn^-0.5 = 0.09449111825230681
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.6027544389782955
+farthest_term **-1.0 = 0.12452012045825005
+self.tf = 7856.884405367284
+__
+SIMPLE
+point to trans id 385  
+new clust num: 5 
+is_new? False 
+trans_points_nums: [178, 121, 136, 49, 367, 277, 172, 229, 310, 343]
+real ser. length: 16
+clust_trans: 5
+boundary_points_number= 117
+bpn^-0.5 = 0.09245003270420485
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.4852883259487815
+farthest_term **-1.0 = 0.12461797012930116
+self.tf = 7575.535311847501
+__
+New_TF= 7575.535311847501 
+Old_TF= 7856.884405367284
+CANCELED
+!!!!
+
+NUM_SER 58 
+CURRENT_MAX_LEN 8 
+boundary_points_number= 112
+bpn^-0.5 = 0.09449111825230681
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.6027544389782955
+farthest_term **-1.0 = 0.12452012045825005
+self.tf = 7856.884405367284
+__
+CORRECTING
+point to trans id 283 
+new clust num: 5
+is_new? False 
+trans_points_nums: [268, 325, 91, 187, 286, 1, 199]
+real ser. length: 8
+clust_trans: 5
+boundary_points_number= 126
+bpn^-0.5 = 0.0890870806374748
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.185167832874039
+farthest_term **-1.0 = 0.12454710570749812
+self.tf = 7002.897404294352
+__
+New_TF= 7002.897404294352 
+Old_TF= 7856.884405367284
+CANCELED
+!!!!
+
+NUM_SER 59 
+CURRENT_MAX_LEN 18 
+boundary_points_number= 112
+bpn^-0.5 = 0.09449111825230681
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.6027544389782955
+farthest_term **-1.0 = 0.12452012045825005
+self.tf = 7856.884405367284
+__
+CORRECTING
+point to trans id 324 
+new clust num: 2
+is_new? False 
+trans_points_nums: [42, 3, 297, 189, 249, 171, 114, 180, 18, 273, 267]
+real ser. length: 18
+clust_trans: 2
+boundary_points_number= 130
+bpn^-0.5 = 0.08770580193070292
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.055630361953963
+farthest_term **-1.0 = 0.12450751860706429
+self.tf = 5879.997224726345
+__
+New_TF= 5879.997224726345 
+Old_TF= 7856.884405367284
+CANCELED
+!!!!
+
+NUM_SER 60 
+CURRENT_MAX_LEN 11 
+boundary_points_number= 112
+bpn^-0.5 = 0.09449111825230681
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.6027544389782955
+farthest_term **-1.0 = 0.12452012045825005
+self.tf = 7856.884405367284
+__
+CORRECTING
+point to trans id 60 
+new clust num: 1
+is_new? False 
+trans_points_nums: [152, 89, 356, 269, 185]
+real ser. length: 11
+clust_trans: 1
+boundary_points_number= 113
+bpn^-0.5 = 0.09407208683835973
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.913872002056774
+farthest_term **-1.0 = 0.12411742579287423
+self.tf = 7095.497757516027
+__
+New_TF= 7095.497757516027 
+Old_TF= 7856.884405367284
+CANCELED
+!!!!
+
+NUM_SER 61 
+CURRENT_MAX_LEN 21 
+boundary_points_number= 112
+bpn^-0.5 = 0.09449111825230681
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.6027544389782955
+farthest_term **-1.0 = 0.12452012045825005
+self.tf = 7856.884405367284
+__
+CORRECTING
+point to trans id 241 
+new clust num: 2
+is_new? False 
+trans_points_nums: []
+real ser. length: 7
+clust_trans: 2
+boundary_points_number= 99
+bpn^-0.5 = 0.10050378152592121
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.083215522024283
+farthest_term **-1.0 = 0.12448077998562584
+self.tf = 8881.465612139455
+__
+New_TF= 8881.465612139455 
+Old_TF= 7856.884405367284
+ACCEPTED
+!!!!
+
+NUM_SER 62 
+CURRENT_MAX_LEN 16 
+boundary_points_number= 99
+bpn^-0.5 = 0.10050378152592121
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.083215522024283
+farthest_term **-1.0 = 0.12448077998562584
+self.tf = 8881.465612139455
+__
+CORRECTING
+point to trans id 262 
+new clust num: 2
+is_new? False 
+trans_points_nums: []
+real ser. length: 5
+clust_trans: 2
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+New_TF= 10565.601951100836 
+Old_TF= 8881.465612139455
+ACCEPTED
+!!!!
+
+NUM_SER 63 
+CURRENT_MAX_LEN 20 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 58 
+new clust num: 4
+is_new? False 
+trans_points_nums: [130, 73, 49, 229, 277, 271, 121, 79, 223, 46, 364, 385, 328]
+real ser. length: 20
+clust_trans: 4
+boundary_points_number= 104
+bpn^-0.5 = 0.09805806756909202
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.9358600388618035
+farthest_term **-1.0 = 0.12915373056607526
+self.tf = 7777.196735779862
+__
+New_TF= 7777.196735779862 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 64 
+CURRENT_MAX_LEN 11 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 74 
+new clust num: 0
+is_new? False 
+trans_points_nums: [55, 265, 109, 244, 253, 53, 217, 220, 316]
+real ser. length: 11
+clust_trans: 0
+boundary_points_number= 94
+bpn^-0.5 = 0.10314212462587934
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.238665092451258
+farthest_term **-1.0 = 0.11439564576677272
+self.tf = 7977.121092403936
+__
+New_TF= 7977.121092403936 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 65 
+CURRENT_MAX_LEN 17 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 107 
+new clust num: 0
+is_new? False 
+trans_points_nums: [331, 111, 150, 151, 198, 58, 328, 219, 244, 53, 223, 115, 143, 97, 55]
+real ser. length: 17
+clust_trans: 0
+boundary_points_number= 98
+bpn^-0.5 = 0.10101525445522108
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.836452877805739
+farthest_term **-1.0 = 0.11862203874962234
+self.tf = 7637.313280433066
+__
+New_TF= 7637.313280433066 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 66 
+CURRENT_MAX_LEN 13 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 344 
+new clust num: 3
+is_new? False 
+trans_points_nums: [176, 386, 236, 35, 221, 380, 305, 62, 350]
+real ser. length: 13
+clust_trans: 3
+boundary_points_number= 100
+bpn^-0.5 = 0.1
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.673689342608476
+farthest_term **-1.0 = 0.12431538880801501
+self.tf = 10562.508182821624
+__
+New_TF= 10562.508182821624 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 67 
+CURRENT_MAX_LEN 20 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 314 
+new clust num: 0
+is_new? False 
+trans_points_nums: [53, 111, 132, 267, 328, 171, 31, 3, 228, 180, 345]
+real ser. length: 20
+clust_trans: 0
+boundary_points_number= 84
+bpn^-0.5 = 0.1091089451179962
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.947296417531264
+farthest_term **-1.0 = 0.12381960234958672
+self.tf = 9895.28459398377
+__
+New_TF= 9895.28459398377 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 68 
+CURRENT_MAX_LEN 26 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 375 
+new clust num: 1
+is_new? False 
+trans_points_nums: [223, 238, 76, 184, 61, 379, 328, 130, 226, 34, 118, 121, 190, 175, 259, 289]
+real ser. length: 26
+clust_trans: 1
+boundary_points_number= 101
+bpn^-0.5 = 0.09950371902099892
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.665419592355948
+farthest_term **-1.0 = 0.11737095812175116
+self.tf = 6353.068463761846
+__
+New_TF= 6353.068463761846 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 69 
+CURRENT_MAX_LEN 13 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 372 
+new clust num: 1
+is_new? False 
+trans_points_nums: [31, 226, 328, 130, 223]
+real ser. length: 13
+clust_trans: 1
+boundary_points_number= 76
+bpn^-0.5 = 0.11470786693528089
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.034369741696402
+farthest_term **-1.0 = 0.1177558486169272
+self.tf = 9834.944299109125
+__
+New_TF= 9834.944299109125 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 70 
+CURRENT_MAX_LEN 12 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 74 
+new clust num: 0
+is_new? False 
+trans_points_nums: [190, 103, 118, 259, 61, 379, 232, 217, 55, 106]
+real ser. length: 12
+clust_trans: 0
+boundary_points_number= 108
+bpn^-0.5 = 0.09622504486493763
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.216457198966137
+farthest_term **-1.0 = 0.11397470180445035
+self.tf = 5451.453938085146
+__
+New_TF= 5451.453938085146 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 71 
+CURRENT_MAX_LEN 17 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 176 
+new clust num: 2
+is_new? False 
+trans_points_nums: [116, 8, 74, 236, 140, 377, 215, 230, 107, 221, 146, 359, 173, 320, 176, 113]
+real ser. length: 17
+clust_trans: 2
+boundary_points_number= 109
+bpn^-0.5 = 0.09578262852211514
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.695164484244966
+farthest_term **-1.0 = 0.11038266188630384
+self.tf = 5425.629858410803
+__
+New_TF= 5425.629858410803 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 72 
+CURRENT_MAX_LEN 14 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 107 
+new clust num: 0
+is_new? False 
+trans_points_nums: [105, 180, 151, 150, 31, 198, 288, 94, 328]
+real ser. length: 14
+clust_trans: 0
+boundary_points_number= 82
+bpn^-0.5 = 0.11043152607484655
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.378539880069198
+farthest_term **-1.0 = 0.11864454975373903
+self.tf = 9097.861545627591
+__
+New_TF= 9097.861545627591 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 73 
+CURRENT_MAX_LEN 14 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 329 
+new clust num: 1
+is_new? False 
+trans_points_nums: [179, 185, 269, 197, 131, 356, 89, 152]
+real ser. length: 14
+clust_trans: 1
+boundary_points_number= 89
+bpn^-0.5 = 0.105999788000636
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.063828382156666
+farthest_term **-1.0 = 0.12375094939233124
+self.tf = 10205.737336249122
+__
+New_TF= 10205.737336249122 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 74 
+CURRENT_MAX_LEN 12 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 74 
+new clust num: 0
+is_new? False 
+trans_points_nums: [331, 313, 97, 109, 253, 265, 112, 55, 244]
+real ser. length: 12
+clust_trans: 0
+boundary_points_number= 97
+bpn^-0.5 = 0.1015346165133619
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.16731790044415
+farthest_term **-1.0 = 0.11658999834324207
+self.tf = 7730.858090749008
+__
+New_TF= 7730.858090749008 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 75 
+CURRENT_MAX_LEN 23 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 375 
+new clust num: 1
+is_new? False 
+trans_points_nums: [223, 229, 259, 130, 226, 118, 367, 76, 271, 340, 328, 184]
+real ser. length: 23
+clust_trans: 1
+boundary_points_number= 89
+bpn^-0.5 = 0.105999788000636
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.42580056076262
+farthest_term **-1.0 = 0.1180734021671715
+self.tf = 7769.769817047057
+__
+New_TF= 7769.769817047057 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 76 
+CURRENT_MAX_LEN 14 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+SIMPLE
+point to trans id 129  
+new clust num: 0 
+is_new? False 
+trans_points_nums: [99, 216, 279, 339, 303, 126, 51]
+real ser. length: 14
+clust_trans: 0
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.997858462067748
+farthest_term **-1.0 = 0.11869596645098725
+self.tf = 8044.694858388291
+__
+New_TF= 8044.694858388291 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 77 
+CURRENT_MAX_LEN 18 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 348 
+new clust num: 0
+is_new? False 
+trans_points_nums: [33, 279, 204, 195, 369, 231, 237, 276, 15, 261, 6, 234]
+real ser. length: 18
+clust_trans: 0
+boundary_points_number= 102
+bpn^-0.5 = 0.09901475429766743
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.892156619816533
+farthest_term **-1.0 = 0.12410429836889762
+self.tf = 7385.997861931684
+__
+New_TF= 7385.997861931684 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 78 
+CURRENT_MAX_LEN 17 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 85 
+new clust num: 4
+is_new? False 
+trans_points_nums: [31, 112, 163, 151, 337, 220, 64, 265, 53, 292, 352, 97, 70, 349]
+real ser. length: 17
+clust_trans: 4
+boundary_points_number= 105
+bpn^-0.5 = 0.09759000729485331
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.486315621252543
+farthest_term **-1.0 = 0.12757531213313233
+self.tf = 8190.187504749703
+__
+New_TF= 8190.187504749703 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 79 
+CURRENT_MAX_LEN 20 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 51 
+new clust num: 0
+is_new? False 
+trans_points_nums: [207, 87, 378, 216, 84, 222, 180, 303, 105, 279, 69, 201]
+real ser. length: 20
+clust_trans: 0
+boundary_points_number= 98
+bpn^-0.5 = 0.10101525445522108
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.325831650893854
+farthest_term **-1.0 = 0.11867433057937624
+self.tf = 6585.030387408875
+__
+New_TF= 6585.030387408875 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 80 
+CURRENT_MAX_LEN 17 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 174 
+new clust num: 1
+is_new? False 
+trans_points_nums: [197, 185, 182, 245, 128, 89, 156, 131, 383, 341, 179]
+real ser. length: 17
+clust_trans: 1
+boundary_points_number= 88
+bpn^-0.5 = 0.10660035817780522
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.554061035925545
+farthest_term **-1.0 = 0.11782255863321499
+self.tf = 8008.542531119794
+__
+New_TF= 8008.542531119794 
+Old_TF= 10565.601951100836
+CANCELED
+!!!!
+
+NUM_SER 81 
+CURRENT_MAX_LEN 11 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.807159493083406
+farthest_term **-1.0 = 0.12445229248644443
+self.tf = 10565.601951100836
+__
+CORRECTING
+point to trans id 375 
+new clust num: 1
+is_new? False 
+trans_points_nums: [132, 213, 223, 57, 130, 229, 37]
+real ser. length: 11
+clust_trans: 1
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.614994566335826
+farthest_term **-1.0 = 0.13043980633980548
+self.tf = 12156.507582797713
+__
+New_TF= 12156.507582797713 
+Old_TF= 10565.601951100836
+ACCEPTED
+!!!!
+
+NUM_SER 82 
+CURRENT_MAX_LEN 9 
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.614994566335826
+farthest_term **-1.0 = 0.13043980633980548
+self.tf = 12156.507582797713
+__
+CORRECTING
+point to trans id 79 
+new clust num: 4
+is_new? False 
+trans_points_nums: [228, 58, 79, 136, 223, 391, 310, 57, 328]
+real ser. length: 9
+clust_trans: 4
+boundary_points_number= 93
+bpn^-0.5 = 0.10369516947304253
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.412189851789591
+farthest_term **-1.0 = 0.1333485623388491
+self.tf = 10808.706712607158
+__
+New_TF= 10808.706712607158 
+Old_TF= 12156.507582797713
+CANCELED
+!!!!
+
+NUM_SER 83 
+CURRENT_MAX_LEN 12 
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.614994566335826
+farthest_term **-1.0 = 0.13043980633980548
+self.tf = 12156.507582797713
+__
+CORRECTING
+point to trans id 60 
+new clust num: 1
+is_new? False 
+trans_points_nums: [92, 185, 89, 269, 131, 329, 356]
+real ser. length: 12
+clust_trans: 1
+boundary_points_number= 92
+bpn^-0.5 = 0.10425720702853739
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.707806115072094
+farthest_term **-1.0 = 0.13030782376851546
+self.tf = 10544.57148415131
+__
+New_TF= 10544.57148415131 
+Old_TF= 12156.507582797713
+CANCELED
+!!!!
+
+NUM_SER 84 
+CURRENT_MAX_LEN 10 
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.614994566335826
+farthest_term **-1.0 = 0.13043980633980548
+self.tf = 12156.507582797713
+__
+CORRECTING
+point to trans id 115 
+new clust num: 4
+is_new? False 
+trans_points_nums: [202, 135, 198, 34, 282, 223, 328, 228, 58]
+real ser. length: 10
+clust_trans: 4
+boundary_points_number= 92
+bpn^-0.5 = 0.10425720702853739
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.159676389924647
+farthest_term **-1.0 = 0.13000927174172763
+self.tf = 11098.594368350778
+__
+New_TF= 11098.594368350778 
+Old_TF= 12156.507582797713
+CANCELED
+!!!!
+
+NUM_SER 85 
+CURRENT_MAX_LEN 12 
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.614994566335826
+farthest_term **-1.0 = 0.13043980633980548
+self.tf = 12156.507582797713
+__
+CORRECTING
+point to trans id 312 
+new clust num: 0
+is_new? False 
+trans_points_nums: [279, 378, 126, 99, 153, 339, 159, 387]
+real ser. length: 12
+clust_trans: 0
+boundary_points_number= 90
+bpn^-0.5 = 0.10540925533894598
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.746182254323777
+farthest_term **-1.0 = 0.12348047026383827
+self.tf = 9312.719878510248
+__
+New_TF= 9312.719878510248 
+Old_TF= 12156.507582797713
+CANCELED
+!!!!
+
+NUM_SER 86 
+CURRENT_MAX_LEN 14 
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.614994566335826
+farthest_term **-1.0 = 0.13043980633980548
+self.tf = 12156.507582797713
+__
+CORRECTING
+point to trans id 228 
+new clust num: 1
+is_new? False 
+trans_points_nums: [88, 34, 169, 67, 145, 328, 94, 79, 139]
+real ser. length: 14
+clust_trans: 1
+boundary_points_number= 78
+bpn^-0.5 = 0.11322770341445958
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.984168185715392
+farthest_term **-1.0 = 0.12627447308412343
+self.tf = 11838.25188407339
+__
+New_TF= 11838.25188407339 
+Old_TF= 12156.507582797713
+CANCELED
+!!!!
+
+NUM_SER 87 
+CURRENT_MAX_LEN 8 
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.614994566335826
+farthest_term **-1.0 = 0.13043980633980548
+self.tf = 12156.507582797713
+__
+CORRECTING
+point to trans id 60 
+new clust num: 1
+is_new? False 
+trans_points_nums: [197, 185, 269, 383, 311]
+real ser. length: 8
+clust_trans: 1
+boundary_points_number= 90
+bpn^-0.5 = 0.10540925533894598
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.887812076139332
+farthest_term **-1.0 = 0.13011566049234127
+self.tf = 11216.493263449602
+__
+New_TF= 11216.493263449602 
+Old_TF= 12156.507582797713
+CANCELED
+!!!!
+
+NUM_SER 88 
+CURRENT_MAX_LEN 21 
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.614994566335826
+farthest_term **-1.0 = 0.13043980633980548
+self.tf = 12156.507582797713
+__
+CORRECTING
+point to trans id 78 
+new clust num: 1
+is_new? False 
+trans_points_nums: [245, 185, 383, 131, 20, 311, 149, 156, 92, 365, 197, 287, 341]
+real ser. length: 21
+clust_trans: 1
+boundary_points_number= 94
+bpn^-0.5 = 0.10314212462587934
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.448434521402962
+farthest_term **-1.0 = 0.12465843482413293
+self.tf = 9232.1938148033
+__
+New_TF= 9232.1938148033 
+Old_TF= 12156.507582797713
+CANCELED
+!!!!
+
+NUM_SER 89 
+CURRENT_MAX_LEN 5 
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.614994566335826
+farthest_term **-1.0 = 0.13043980633980548
+self.tf = 12156.507582797713
+__
+CORRECTING
+point to trans id 312 
+new clust num: 0
+is_new? False 
+trans_points_nums: [126, 99, 159, 51]
+real ser. length: 5
+clust_trans: 0
+boundary_points_number= 91
+bpn^-0.5 = 0.10482848367219183
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.584667076767118
+farthest_term **-1.0 = 0.12754698029060824
+self.tf = 11074.387216069545
+__
+New_TF= 11074.387216069545 
+Old_TF= 12156.507582797713
+CANCELED
+!!!!
+
+NUM_SER 90 
+CURRENT_MAX_LEN 7 
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.614994566335826
+farthest_term **-1.0 = 0.13043980633980548
+self.tf = 12156.507582797713
+__
+CORRECTING
+point to trans id 229 
+new clust num: 2
+is_new? False 
+trans_points_nums: [132, 213]
+real ser. length: 7
+clust_trans: 2
+boundary_points_number= 79
+bpn^-0.5 = 0.1125087900926024
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.016384319437936
+farthest_term **-1.0 = 0.12444302170612245
+self.tf = 11445.847564692767
+__
+New_TF= 11445.847564692767 
+Old_TF= 12156.507582797713
+CANCELED
+!!!!
+
+NUM_SER 91 
+CURRENT_MAX_LEN 20 
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.614994566335826
+farthest_term **-1.0 = 0.13043980633980548
+self.tf = 12156.507582797713
+__
+CORRECTING
+point to trans id 130 
+new clust num: 2
+is_new? False 
+trans_points_nums: [108, 336, 372, 375, 366, 132, 234, 342, 48, 381, 246]
+real ser. length: 20
+clust_trans: 2
+boundary_points_number= 93
+bpn^-0.5 = 0.10369516947304253
+mult.term **0.0 = 1.0
+mean_near **1.0 = 6.84552758743491
+farthest_term **-1.0 = 0.11907201172664288
+self.tf = 6910.886364604337
+__
+New_TF= 6910.886364604337 
+Old_TF= 12156.507582797713
+CANCELED
+!!!!
+
+NUM_SER 92 
+CURRENT_MAX_LEN 22 
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.614994566335826
+farthest_term **-1.0 = 0.13043980633980548
+self.tf = 12156.507582797713
+__
+CORRECTING
+point to trans id 127 
+new clust num: 4
+is_new? False 
+trans_points_nums: [310, 112, 7, 250, 352, 331, 133, 13, 349, 31, 219, 337, 328, 301, 107, 64, 70]
+real ser. length: 22
+clust_trans: 4
+boundary_points_number= 108
+bpn^-0.5 = 0.09622504486493763
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.578103782765577
+farthest_term **-1.0 = 0.12928388823516984
+self.tf = 9671.566237358662
+__
+New_TF= 9671.566237358662 
+Old_TF= 12156.507582797713
+CANCELED
+!!!!
+
+NUM_SER 93 
+CURRENT_MAX_LEN 7 
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.614994566335826
+farthest_term **-1.0 = 0.13043980633980548
+self.tf = 12156.507582797713
+__
+CORRECTING
+point to trans id 229 
+new clust num: 2
+is_new? False 
+trans_points_nums: [132, 372, 57]
+real ser. length: 7
+clust_trans: 2
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.682100235680112
+farthest_term **-1.0 = 0.129466066437954
+self.tf = 12475.128321795783
+__
+New_TF= 12475.128321795783 
+Old_TF= 12156.507582797713
+ACCEPTED
+!!!!
+
+NUM_SER 94 
+CURRENT_MAX_LEN 10 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.682100235680112
+farthest_term **-1.0 = 0.129466066437954
+self.tf = 12475.128321795783
+__
+SIMPLE
+point to trans id 74  
+new clust num: 0 
+is_new? False 
+trans_points_nums: [103, 55, 265, 220, 53, 253, 313]
+real ser. length: 10
+clust_trans: 0
+boundary_points_number= 89
+bpn^-0.5 = 0.105999788000636
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.068179529577236
+farthest_term **-1.0 = 0.11786710460861181
+self.tf = 9687.854113894877
+__
+New_TF= 9687.854113894877 
+Old_TF= 12475.128321795783
+CANCELED
+!!!!
+
+NUM_SER 95 
+CURRENT_MAX_LEN 18 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.682100235680112
+farthest_term **-1.0 = 0.129466066437954
+self.tf = 12475.128321795783
+__
+CORRECTING
+point to trans id 330 
+new clust num: 1
+is_new? False 
+trans_points_nums: [210, 284, 128, 185, 269, 179, 197, 89, 152, 306]
+real ser. length: 18
+clust_trans: 1
+boundary_points_number= 84
+bpn^-0.5 = 0.1091089451179962
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.784735764693755
+farthest_term **-1.0 = 0.12231523969123319
+self.tf = 10311.39645871045
+__
+New_TF= 10311.39645871045 
+Old_TF= 12475.128321795783
+CANCELED
+!!!!
+
+NUM_SER 96 
+CURRENT_MAX_LEN 14 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.682100235680112
+farthest_term **-1.0 = 0.129466066437954
+self.tf = 12475.128321795783
+__
+CORRECTING
+point to trans id 306 
+new clust num: 1
+is_new? False 
+trans_points_nums: [281, 179, 20, 245, 287, 269, 197, 338]
+real ser. length: 14
+clust_trans: 1
+boundary_points_number= 93
+bpn^-0.5 = 0.10369516947304253
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.472968883446187
+farthest_term **-1.0 = 0.12331684635817813
+self.tf = 9518.156278463046
+__
+New_TF= 9518.156278463046 
+Old_TF= 12475.128321795783
+CANCELED
+!!!!
+
+NUM_SER 97 
+CURRENT_MAX_LEN 4 
+boundary_points_number= 83
+bpn^-0.5 = 0.10976425998969035
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.682100235680112
+farthest_term **-1.0 = 0.129466066437954
+self.tf = 12475.128321795783
+__
+CORRECTING
+point to trans id 22 
+new clust num: 2
+is_new? False 
+trans_points_nums: [67, 22, 160, 94]
+real ser. length: 4
+clust_trans: 2
+boundary_points_number= 81
+bpn^-0.5 = 0.1111111111111111
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.018038379093088
+farthest_term **-1.0 = 0.12931745466041752
+self.tf = 13051.25038156966
+__
+New_TF= 13051.25038156966 
+Old_TF= 12475.128321795783
+ACCEPTED
+!!!!
+
+NUM_SER 98 
+CURRENT_MAX_LEN 16 
+boundary_points_number= 81
+bpn^-0.5 = 0.1111111111111111
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.018038379093088
+farthest_term **-1.0 = 0.12931745466041752
+self.tf = 13051.25038156966
+__
+CORRECTING
+point to trans id 53 
+new clust num: 0
+is_new? False 
+trans_points_nums: [53, 94, 127, 112, 214, 55, 313, 253, 316, 151, 331]
+real ser. length: 16
+clust_trans: 0
+boundary_points_number= 96
+bpn^-0.5 = 0.10206207261596575
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.88931178279051
+farthest_term **-1.0 = 0.1271098063462194
+self.tf = 9300.802803192433
+__
+New_TF= 9300.802803192433 
+Old_TF= 13051.25038156966
+CANCELED
+!!!!
+
+NUM_SER 99 
+CURRENT_MAX_LEN 7 
+boundary_points_number= 81
+bpn^-0.5 = 0.1111111111111111
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.018038379093088
+farthest_term **-1.0 = 0.12931745466041752
+self.tf = 13051.25038156966
+__
+CORRECTING
+point to trans id 372 
+new clust num: 1
+is_new? False 
+trans_points_nums: [57, 226, 328, 223]
+real ser. length: 7
+clust_trans: 1
+boundary_points_number= 74
+bpn^-0.5 = 0.11624763874381928
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.68196733119947
+farthest_term **-1.0 = 0.11867368223768957
+self.tf = 11031.331638244757
+__
+New_TF= 11031.331638244757 
+Old_TF= 13051.25038156966
+CANCELED
+!!!!
+
+NUM_SER 100 
+CURRENT_MAX_LEN 10 
+boundary_points_number= 81
+bpn^-0.5 = 0.1111111111111111
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.018038379093088
+farthest_term **-1.0 = 0.12931745466041752
+self.tf = 13051.25038156966
+__
+CORRECTING
+point to trans id 213 
+new clust num: 2
+is_new? False 
+trans_points_nums: [342, 231, 333, 375, 204]
+real ser. length: 10
+clust_trans: 2
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 7.292648103218374
+farthest_term **-1.0 = 0.11879130192594728
+self.tf = 7820.604163985838
+__
+New_TF= 7820.604163985838 
+Old_TF= 13051.25038156966
+CANCELED
+!!!!
+
+NUM_SER 101 
+CURRENT_MAX_LEN 19 
+boundary_points_number= 81
+bpn^-0.5 = 0.1111111111111111
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.018038379093088
+farthest_term **-1.0 = 0.12931745466041752
+self.tf = 13051.25038156966
+__
+CORRECTING
+point to trans id 51 
+new clust num: 0
+is_new? False 
+trans_points_nums: [216, 159, 354, 222, 261]
+real ser. length: 19
+clust_trans: 0
+boundary_points_number= 81
+bpn^-0.5 = 0.1111111111111111
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.338175680726117
+farthest_term **-1.0 = 0.12276246672785895
+self.tf = 9962.157557284563
+__
+New_TF= 9962.157557284563 
+Old_TF= 13051.25038156966
+CANCELED
+!!!!
+
+NUM_SER 102 
+CURRENT_MAX_LEN 10 
+boundary_points_number= 81
+bpn^-0.5 = 0.1111111111111111
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.018038379093088
+farthest_term **-1.0 = 0.12931745466041752
+self.tf = 13051.25038156966
+__
+CORRECTING
+point to trans id 51 
+new clust num: 0
+is_new? False 
+trans_points_nums: [126, 207, 222, 201, 216, 87, 99]
+real ser. length: 10
+clust_trans: 0
+boundary_points_number= 95
+bpn^-0.5 = 0.10259783520851541
+mult.term **0.0 = 1.0
+mean_near **1.0 = 8.580332274572013
+farthest_term **-1.0 = 0.12284922025151063
+self.tf = 9067.56083687859
+__
+New_TF= 9067.56083687859 
+Old_TF= 13051.25038156966
+CANCELED
+!!!!
+
+NUM_SER 103 
+CURRENT_MAX_LEN 8 
+boundary_points_number= 81
+bpn^-0.5 = 0.1111111111111111
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.018038379093088
+farthest_term **-1.0 = 0.12931745466041752
+self.tf = 13051.25038156966
+__
+CORRECTING
+point to trans id 107 
+new clust num: 0
+is_new? False 
+trans_points_nums: [328, 223, 198, 219, 31, 111, 143]
+real ser. length: 8
+clust_trans: 0
+boundary_points_number= 87
+bpn^-0.5 = 0.10721125348377948
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.133893985510946
+farthest_term **-1.0 = 0.12475559289089772
+self.tf = 10895.585403476522
+__
+New_TF= 10895.585403476522 
+Old_TF= 13051.25038156966
+CANCELED
+!!!!
+
+NUM_SER 104 
+CURRENT_MAX_LEN 6 
+boundary_points_number= 81
+bpn^-0.5 = 0.1111111111111111
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.018038379093088
+farthest_term **-1.0 = 0.12931745466041752
+self.tf = 13051.25038156966
+__
+CORRECTING
+point to trans id 329 
+new clust num: 1
+is_new? False 
+trans_points_nums: [284, 356, 128, 329, 209]
+real ser. length: 6
+clust_trans: 1
+boundary_points_number= 90
+bpn^-0.5 = 0.10540925533894598
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.53693395632613
+farthest_term **-1.0 = 0.12930309203259485
+self.tf = 11231.344803858738
+__
+New_TF= 11231.344803858738 
+Old_TF= 13051.25038156966
+CANCELED
+!!!!
+
+NUM_SER 105 
+CURRENT_MAX_LEN 9 
+boundary_points_number= 81
+bpn^-0.5 = 0.1111111111111111
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.018038379093088
+farthest_term **-1.0 = 0.12931745466041752
+self.tf = 13051.25038156966
+__
+CORRECTING
+point to trans id 129 
+new clust num: 0
+is_new? False 
+trans_points_nums: [387, 279, 51, 153, 312, 378, 321, 201]
+real ser. length: 9
+clust_trans: 0
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.033731701576778
+farthest_term **-1.0 = 0.12268031400822735
+self.tf = 10098.378489723167
+__
+New_TF= 10098.378489723167 
+Old_TF= 13051.25038156966
+CANCELED
+!!!!
+
+NUM_SER 106 
+CURRENT_MAX_LEN 7 
+boundary_points_number= 81
+bpn^-0.5 = 0.1111111111111111
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.018038379093088
+farthest_term **-1.0 = 0.12931745466041752
+self.tf = 13051.25038156966
+__
+CORRECTING
+point to trans id 330 
+new clust num: 1
+is_new? False 
+trans_points_nums: [269, 329, 311, 383]
+real ser. length: 7
+clust_trans: 1
+boundary_points_number= 79
+bpn^-0.5 = 0.1125087900926024
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.669001752463652
+farthest_term **-1.0 = 0.12922936271530847
+self.tf = 13157.490961979398
+__
+New_TF= 13157.490961979398 
+Old_TF= 13051.25038156966
+ACCEPTED
+!!!!
+
+NUM_SER 107 
+CURRENT_MAX_LEN 6 
+boundary_points_number= 79
+bpn^-0.5 = 0.1125087900926024
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.669001752463652
+farthest_term **-1.0 = 0.12922936271530847
+self.tf = 13157.490961979398
+__
+CORRECTING
+point to trans id 198 
+new clust num: 3
+is_new? False 
+trans_points_nums: [345, 267, 282, 198, 288]
+real ser. length: 6
+clust_trans: 3
+boundary_points_number= 86
+bpn^-0.5 = 0.10783277320343841
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.405945160387903
+farthest_term **-1.0 = 0.1281644622300496
+self.tf = 11606.656057045184
+__
+New_TF= 11606.656057045184 
+Old_TF= 13157.490961979398
+CANCELED
+!!!!
+
+NUM_SER 108 
+CURRENT_MAX_LEN 7 
+boundary_points_number= 79
+bpn^-0.5 = 0.1125087900926024
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.669001752463652
+farthest_term **-1.0 = 0.12922936271530847
+self.tf = 13157.490961979398
+__
+CORRECTING
+point to trans id 372 
+new clust num: 1
+is_new? False 
+trans_points_nums: [328, 22, 223, 57]
+real ser. length: 7
+clust_trans: 1
+boundary_points_number= 69
+bpn^-0.5 = 0.1203858530857692
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.380653352563852
+farthest_term **-1.0 = 0.1280370255091396
+self.tf = 15202.399576516971
+__
+New_TF= 15202.399576516971 
+Old_TF= 13157.490961979398
+ACCEPTED
+!!!!
+
+NUM_SER 109 
+CURRENT_MAX_LEN 6 
+boundary_points_number= 69
+bpn^-0.5 = 0.1203858530857692
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.380653352563852
+farthest_term **-1.0 = 0.1280370255091396
+self.tf = 15202.399576516971
+__
+CORRECTING
+point to trans id 348 
+new clust num: 2
+is_new? False 
+trans_points_nums: [231, 393, 117, 348, 15]
+real ser. length: 6
+clust_trans: 2
+boundary_points_number= 81
+bpn^-0.5 = 0.1111111111111111
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.547269724277816
+farthest_term **-1.0 = 0.1267670554504401
+self.tf = 12776.899439848079
+__
+New_TF= 12776.899439848079 
+Old_TF= 15202.399576516971
+CANCELED
+!!!!
+
+NUM_SER 110 
+CURRENT_MAX_LEN 8 
+boundary_points_number= 69
+bpn^-0.5 = 0.1203858530857692
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.380653352563852
+farthest_term **-1.0 = 0.1280370255091396
+self.tf = 15202.399576516971
+__
+CORRECTING
+point to trans id 219 
+new clust num: 1
+is_new? False 
+trans_points_nums: [219]
+real ser. length: 1
+clust_trans: 1
+boundary_points_number= 65
+bpn^-0.5 = 0.12403473458920845
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.560290071923228
+farthest_term **-1.0 = 0.1270649267979681
+self.tf = 15813.22120195349
+__
+New_TF= 15813.22120195349 
+Old_TF= 15202.399576516971
+ACCEPTED
+!!!!
+
+NUM_SER 111 
+CURRENT_MAX_LEN 9 
+boundary_points_number= 65
+bpn^-0.5 = 0.12403473458920845
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.560290071923228
+farthest_term **-1.0 = 0.1270649267979681
+self.tf = 15813.22120195349
+__
+CORRECTING
+point to trans id 223 
+new clust num: 3
+is_new? False 
+trans_points_nums: [143, 228, 57, 145, 328, 107, 219]
+real ser. length: 9
+clust_trans: 3
+boundary_points_number= 70
+bpn^-0.5 = 0.11952286093343936
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.343527099003845
+farthest_term **-1.0 = 0.12669330259342326
+self.tf = 14885.794921486828
+__
+New_TF= 14885.794921486828 
+Old_TF= 15813.22120195349
+CANCELED
+!!!!
+
+NUM_SER 112 
+CURRENT_MAX_LEN 9 
+boundary_points_number= 65
+bpn^-0.5 = 0.12403473458920845
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.560290071923228
+farthest_term **-1.0 = 0.1270649267979681
+self.tf = 15813.22120195349
+__
+CORRECTING
+point to trans id 74 
+new clust num: 0
+is_new? False 
+trans_points_nums: [55, 53, 106, 103, 244, 316, 253, 217]
+real ser. length: 9
+clust_trans: 0
+boundary_points_number= 74
+bpn^-0.5 = 0.11624763874381928
+mult.term **0.0 = 1.0
+mean_near **1.0 = 9.964919718502111
+farthest_term **-1.0 = 0.11699473324527518
+self.tf = 12280.686743826835
+__
+New_TF= 12280.686743826835 
+Old_TF= 15813.22120195349
+CANCELED
+!!!!
+
+NUM_SER 113 
+CURRENT_MAX_LEN 9 
+boundary_points_number= 65
+bpn^-0.5 = 0.12403473458920845
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.560290071923228
+farthest_term **-1.0 = 0.1270649267979681
+self.tf = 15813.22120195349
+__
+CORRECTING
+point to trans id 196 
+new clust num: 3
+is_new? False 
+trans_points_nums: [143, 328, 223, 219]
+real ser. length: 9
+clust_trans: 3
+boundary_points_number= 54
+bpn^-0.5 = 0.13608276348795434
+mult.term **0.0 = 1.0
+mean_near **1.0 = 12.783198757874661
+farthest_term **-1.0 = 0.13275041840989502
+self.tf = 22472.90029187765
+__
+New_TF= 22472.90029187765 
+Old_TF= 15813.22120195349
+ACCEPTED
+!!!!
+
+NUM_SER 114 
+CURRENT_MAX_LEN 9 
+boundary_points_number= 54
+bpn^-0.5 = 0.13608276348795434
+mult.term **0.0 = 1.0
+mean_near **1.0 = 12.783198757874661
+farthest_term **-1.0 = 0.13275041840989502
+self.tf = 22472.90029187765
+__
+CORRECTING
+point to trans id 306 
+new clust num: 1
+is_new? False 
+trans_points_nums: []
+real ser. length: 5
+clust_trans: 1
+boundary_points_number= 40
+bpn^-0.5 = 0.15811388300841897
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.510529645780181
+farthest_term **-1.0 = 0.12541237931496765
+self.tf = 28000.611309398086
+__
+New_TF= 28000.611309398086 
+Old_TF= 22472.90029187765
+ACCEPTED
+!!!!
+
+NUM_SER 115 
+CURRENT_MAX_LEN 6 
+boundary_points_number= 40
+bpn^-0.5 = 0.15811388300841897
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.510529645780181
+farthest_term **-1.0 = 0.12541237931496765
+self.tf = 28000.611309398086
+__
+CORRECTING
+point to trans id 57 
+new clust num: 2
+is_new? False 
+trans_points_nums: [357, 252, 375, 213, 132, 57]
+real ser. length: 6
+clust_trans: 2
+boundary_points_number= 57
+bpn^-0.5 = 0.13245323570650439
+mult.term **0.0 = 1.0
+mean_near **1.0 = 10.224967845816922
+farthest_term **-1.0 = 0.11936563605737956
+self.tf = 15006.17505727229
+__
+New_TF= 15006.17505727229 
+Old_TF= 28000.611309398086
+CANCELED
+!!!!
+
+NUM_SER 116 
+CURRENT_MAX_LEN 9 
+boundary_points_number= 40
+bpn^-0.5 = 0.15811388300841897
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.510529645780181
+farthest_term **-1.0 = 0.12541237931496765
+self.tf = 28000.611309398086
+__
+CORRECTING
+point to trans id 74 
+new clust num: 0
+is_new? False 
+trans_points_nums: [265, 220, 53, 55, 253, 313]
+real ser. length: 9
+clust_trans: 0
+boundary_points_number= 45
+bpn^-0.5 = 0.14907119849998599
+mult.term **0.0 = 1.0
+mean_near **1.0 = 13.467361400843224
+farthest_term **-1.0 = 0.11486599427978815
+self.tf = 21414.72333540958
+__
+New_TF= 21414.72333540958 
+Old_TF= 28000.611309398086
+CANCELED
+!!!!
+
+NUM_SER 117 
+CURRENT_MAX_LEN 6 
+boundary_points_number= 40
+bpn^-0.5 = 0.15811388300841897
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.510529645780181
+farthest_term **-1.0 = 0.12541237931496765
+self.tf = 28000.611309398086
+__
+CORRECTING
+point to trans id 107 
+new clust num: 0
+is_new? False 
+trans_points_nums: [151, 31, 107, 198, 219, 328]
+real ser. length: 6
+clust_trans: 0
+boundary_points_number= 48
+bpn^-0.5 = 0.14433756729740643
+mult.term **0.0 = 1.0
+mean_near **1.0 = 12.211224840619245
+farthest_term **-1.0 = 0.12070313297253124
+self.tf = 20219.095904368227
+__
+New_TF= 20219.095904368227 
+Old_TF= 28000.611309398086
+CANCELED
+!!!!
+
+NUM_SER 118 
+CURRENT_MAX_LEN 4 
+boundary_points_number= 40
+bpn^-0.5 = 0.15811388300841897
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.510529645780181
+farthest_term **-1.0 = 0.12541237931496765
+self.tf = 28000.611309398086
+__
+CORRECTING
+point to trans id 185 
+new clust num: 1
+is_new? False 
+trans_points_nums: [149, 128, 185, 20]
+real ser. length: 4
+clust_trans: 1
+boundary_points_number= 47
+bpn^-0.5 = 0.14586499149789456
+mult.term **0.0 = 1.0
+mean_near **1.0 = 13.414073104660801
+farthest_term **-1.0 = 0.12552940785731
+self.tf = 23175.743829395167
+__
+New_TF= 23175.743829395167 
+Old_TF= 28000.611309398086
+CANCELED
+!!!!
+
+NUM_SER 119 
+CURRENT_MAX_LEN 9 
+boundary_points_number= 40
+bpn^-0.5 = 0.15811388300841897
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.510529645780181
+farthest_term **-1.0 = 0.12541237931496765
+self.tf = 28000.611309398086
+__
+CORRECTING
+point to trans id 185 
+new clust num: 1
+is_new? False 
+trans_points_nums: [284, 152, 20, 134, 149, 197]
+real ser. length: 9
+clust_trans: 1
+boundary_points_number= 51
+bpn^-0.5 = 0.14002800840280097
+mult.term **0.0 = 1.0
+mean_near **1.0 = 12.841122899760608
+farthest_term **-1.0 = 0.1252311340598234
+self.tf = 20445.66345333607
+__
+New_TF= 20445.66345333607 
+Old_TF= 28000.611309398086
+CANCELED
+!!!!
+
+NUM_SER 120 
+CURRENT_MAX_LEN 7 
+boundary_points_number= 40
+bpn^-0.5 = 0.15811388300841897
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.510529645780181
+farthest_term **-1.0 = 0.12541237931496765
+self.tf = 28000.611309398086
+__
+CORRECTING
+point to trans id 269 
+new clust num: 0
+is_new? False 
+trans_points_nums: [45, 269, 201, 156, 54, 311, 51]
+real ser. length: 7
+clust_trans: 0
+boundary_points_number= 51
+bpn^-0.5 = 0.14002800840280097
+mult.term **0.0 = 1.0
+mean_near **1.0 = 13.114562099783313
+farthest_term **-1.0 = 0.12972735359196544
+self.tf = 23187.11328805221
+__
+New_TF= 23187.11328805221 
+Old_TF= 28000.611309398086
+CANCELED
+!!!!
+
+NUM_SER 121 
+CURRENT_MAX_LEN 9 
+boundary_points_number= 40
+bpn^-0.5 = 0.15811388300841897
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.510529645780181
+farthest_term **-1.0 = 0.12541237931496765
+self.tf = 28000.611309398086
+__
+CORRECTING
+point to trans id 176 
+new clust num: 2
+is_new? False 
+trans_points_nums: [230, 116, 359, 176, 221, 98, 74, 317, 344]
+real ser. length: 9
+clust_trans: 2
+boundary_points_number= 56
+bpn^-0.5 = 0.1336306209562122
+mult.term **0.0 = 1.0
+mean_near **1.0 = 11.441456045269113
+farthest_term **-1.0 = 0.11338683689229151
+self.tf = 15726.12300947016
+__
+New_TF= 15726.12300947016 
+Old_TF= 28000.611309398086
+CANCELED
+!!!!
+
+NUM_SER 122 
+CURRENT_MAX_LEN 3 
+boundary_points_number= 40
+bpn^-0.5 = 0.15811388300841897
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.510529645780181
+farthest_term **-1.0 = 0.12541237931496765
+self.tf = 28000.611309398086
+__
+CORRECTING
+point to trans id 53 
+new clust num: 0
+is_new? False 
+trans_points_nums: [331, 53, 127]
+real ser. length: 3
+clust_trans: 0
+boundary_points_number= 50
+bpn^-0.5 = 0.1414213562373095
+mult.term **0.0 = 1.0
+mean_near **1.0 = 13.612729698664618
+farthest_term **-1.0 = 0.130739966932223
+self.tf = 24302.525098037415
+__
+New_TF= 24302.525098037415 
+Old_TF= 28000.611309398086
+CANCELED
+!!!!
+
+NUM_SER 123 
+CURRENT_MAX_LEN 5 
+boundary_points_number= 40
+bpn^-0.5 = 0.15811388300841897
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.510529645780181
+farthest_term **-1.0 = 0.12541237931496765
+self.tf = 28000.611309398086
+__
+CORRECTING
+point to trans id 53 
+new clust num: 0
+is_new? False 
+trans_points_nums: [265, 244, 55, 253, 53]
+real ser. length: 5
+clust_trans: 0
+boundary_points_number= 51
+bpn^-0.5 = 0.14002800840280097
+mult.term **0.0 = 1.0
+mean_near **1.0 = 13.001511154493546
+farthest_term **-1.0 = 0.12407053061814985
+self.tf = 21472.42769244327
+__
+New_TF= 21472.42769244327 
+Old_TF= 28000.611309398086
+CANCELED
+!!!!
+
+NUM_SER 124 
+CURRENT_MAX_LEN 9 
+boundary_points_number= 40
+bpn^-0.5 = 0.15811388300841897
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.510529645780181
+farthest_term **-1.0 = 0.12541237931496765
+self.tf = 28000.611309398086
+__
+SIMPLE
+point to trans id 107  
+new clust num: 0 
+is_new? False 
+trans_points_nums: [143, 107, 150, 198, 311, 329, 288, 60, 111]
+real ser. length: 9
+clust_trans: 0
+boundary_points_number= 51
+bpn^-0.5 = 0.14002800840280097
+mult.term **0.0 = 1.0
+mean_near **1.0 = 13.475138355033572
+farthest_term **-1.0 = 0.12587791654568373
+self.tf = 22936.317133453103
+__
+New_TF= 22936.317133453103 
+Old_TF= 28000.611309398086
+CANCELED
+!!!!
+
+NUM_SER 125 
+CURRENT_MAX_LEN 2 
+boundary_points_number= 40
+bpn^-0.5 = 0.15811388300841897
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.510529645780181
+farthest_term **-1.0 = 0.12541237931496765
+self.tf = 28000.611309398086
+__
+CORRECTING
+point to trans id 74 
+new clust num: 0
+is_new? False 
+trans_points_nums: [55]
+real ser. length: 2
+clust_trans: 0
+boundary_points_number= 41
+bpn^-0.5 = 0.15617376188860607
+mult.term **0.0 = 1.0
+mean_near **1.0 = 13.559589922205111
+farthest_term **-1.0 = 0.11409551612839709
+self.tf = 23328.75775671085
+__
+New_TF= 23328.75775671085 
+Old_TF= 28000.611309398086
+CANCELED
+!!!!
+
+NUM_SER 126 
+CURRENT_MAX_LEN 8 
+boundary_points_number= 40
+bpn^-0.5 = 0.15811388300841897
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.510529645780181
+farthest_term **-1.0 = 0.12541237931496765
+self.tf = 28000.611309398086
+__
+CORRECTING
+point to trans id 74 
+new clust num: 0
+is_new? False 
+trans_points_nums: [103, 217, 253, 53, 31, 55, 376]
+real ser. length: 8
+clust_trans: 0
+boundary_points_number= 50
+bpn^-0.5 = 0.1414213562373095
+mult.term **0.0 = 1.0
+mean_near **1.0 = 11.911318283542563
+farthest_term **-1.0 = 0.11397004627294426
+self.tf = 17967.781393131136
+__
+New_TF= 17967.781393131136 
+Old_TF= 28000.611309398086
+CANCELED
+!!!!
+
+NUM_SER 127 
+CURRENT_MAX_LEN 7 
+boundary_points_number= 40
+bpn^-0.5 = 0.15811388300841897
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.510529645780181
+farthest_term **-1.0 = 0.12541237931496765
+self.tf = 28000.611309398086
+__
+CORRECTING
+point to trans id 107 
+new clust num: 0
+is_new? False 
+trans_points_nums: [53, 107, 288, 328, 31, 219, 331]
+real ser. length: 7
+clust_trans: 0
+boundary_points_number= 48
+bpn^-0.5 = 0.14433756729740643
+mult.term **0.0 = 1.0
+mean_near **1.0 = 12.874355446536633
+farthest_term **-1.0 = 0.12521926588966967
+self.tf = 22290.164337757706
+__
+New_TF= 22290.164337757706 
+Old_TF= 28000.611309398086
+CANCELED
+!!!!
+
+NUM_SER 128 
+CURRENT_MAX_LEN 9 
+boundary_points_number= 40
+bpn^-0.5 = 0.15811388300841897
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.510529645780181
+farthest_term **-1.0 = 0.12541237931496765
+self.tf = 28000.611309398086
+__
+CORRECTING
+point to trans id 314 
+new clust num: 0
+is_new? False 
+trans_points_nums: [111, 156, 107, 383, 311, 219]
+real ser. length: 9
+clust_trans: 0
+boundary_points_number= 39
+bpn^-0.5 = 0.16012815380508713
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.928722805317626
+farthest_term **-1.0 = 0.12694143749280465
+self.tf = 32250.51234602394
+__
+New_TF= 32250.51234602394 
+Old_TF= 28000.611309398086
+ACCEPTED
+!!!!
+
+NUM_SER 129 
+CURRENT_MAX_LEN 7 
+boundary_points_number= 39
+bpn^-0.5 = 0.16012815380508713
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.928722805317626
+farthest_term **-1.0 = 0.12694143749280465
+self.tf = 32250.51234602394
+__
+CORRECTING
+point to trans id 116 
+new clust num: 2
+is_new? False 
+trans_points_nums: [248, 107, 137, 272, 359, 140]
+real ser. length: 7
+clust_trans: 2
+boundary_points_number= 54
+bpn^-0.5 = 0.13608276348795434
+mult.term **0.0 = 1.0
+mean_near **1.0 = 12.373837161046655
+farthest_term **-1.0 = 0.12211875024160869
+self.tf = 19405.269293861256
+__
+New_TF= 19405.269293861256 
+Old_TF= 32250.51234602394
+CANCELED
+!!!!
+
+NUM_SER 130 
+CURRENT_MAX_LEN 4 
+boundary_points_number= 39
+bpn^-0.5 = 0.16012815380508713
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.928722805317626
+farthest_term **-1.0 = 0.12694143749280465
+self.tf = 32250.51234602394
+__
+CORRECTING
+point to trans id 197 
+new clust num: 1
+is_new? False 
+trans_points_nums: [266, 245, 287, 197]
+real ser. length: 4
+clust_trans: 1
+boundary_points_number= 50
+bpn^-0.5 = 0.1414213562373095
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.076502852982864
+farthest_term **-1.0 = 0.1270594397424155
+self.tf = 24425.466495972385
+__
+New_TF= 24425.466495972385 
+Old_TF= 32250.51234602394
+CANCELED
+!!!!
+
+NUM_SER 131 
+CURRENT_MAX_LEN 9 
+boundary_points_number= 39
+bpn^-0.5 = 0.16012815380508713
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.928722805317626
+farthest_term **-1.0 = 0.12694143749280465
+self.tf = 32250.51234602394
+__
+CORRECTING
+point to trans id 269 
+new clust num: 0
+is_new? False 
+trans_points_nums: [51, 306, 126, 201, 210, 45, 54, 174]
+real ser. length: 9
+clust_trans: 0
+boundary_points_number= 51
+bpn^-0.5 = 0.14002800840280097
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.032283211520395
+farthest_term **-1.0 = 0.1266415180848763
+self.tf = 23501.662491235158
+__
+New_TF= 23501.662491235158 
+Old_TF= 32250.51234602394
+CANCELED
+!!!!
+
+NUM_SER 132 
+CURRENT_MAX_LEN 6 
+boundary_points_number= 39
+bpn^-0.5 = 0.16012815380508713
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.928722805317626
+farthest_term **-1.0 = 0.12694143749280465
+self.tf = 32250.51234602394
+__
+CORRECTING
+point to trans id 111 
+new clust num: 1
+is_new? False 
+trans_points_nums: [107, 356, 219, 311, 143]
+real ser. length: 6
+clust_trans: 1
+boundary_points_number= 42
+bpn^-0.5 = 0.1543033499620919
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.714643176135176
+farthest_term **-1.0 = 0.12586044099679383
+self.tf = 28028.121801393623
+__
+New_TF= 28028.121801393623 
+Old_TF= 32250.51234602394
+CANCELED
+!!!!
+
+NUM_SER 133 
+CURRENT_MAX_LEN 4 
+boundary_points_number= 39
+bpn^-0.5 = 0.16012815380508713
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.928722805317626
+farthest_term **-1.0 = 0.12694143749280465
+self.tf = 32250.51234602394
+__
+CORRECTING
+point to trans id 150 
+new clust num: 0
+is_new? False 
+trans_points_nums: [105, 87, 330, 150]
+real ser. length: 4
+clust_trans: 0
+boundary_points_number= 45
+bpn^-0.5 = 0.14907119849998599
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.509809737221792
+farthest_term **-1.0 = 0.12589927610021198
+self.tf = 26306.662915266705
+__
+New_TF= 26306.662915266705 
+Old_TF= 32250.51234602394
+CANCELED
+!!!!
+
+NUM_SER 134 
+CURRENT_MAX_LEN 10 
+boundary_points_number= 39
+bpn^-0.5 = 0.16012815380508713
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.928722805317626
+farthest_term **-1.0 = 0.12694143749280465
+self.tf = 32250.51234602394
+__
+CORRECTING
+point to trans id 111 
+new clust num: 1
+is_new? False 
+trans_points_nums: [328, 107, 311, 156, 29, 143, 314, 94]
+real ser. length: 10
+clust_trans: 1
+boundary_points_number= 45
+bpn^-0.5 = 0.14907119849998599
+mult.term **0.0 = 1.0
+mean_near **1.0 = 13.494207705804186
+farthest_term **-1.0 = 0.12304823189376289
+self.tf = 23893.456847238027
+__
+New_TF= 23893.456847238027 
+Old_TF= 32250.51234602394
+CANCELED
+!!!!
+
+NUM_SER 135 
+CURRENT_MAX_LEN 7 
+boundary_points_number= 39
+bpn^-0.5 = 0.16012815380508713
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.928722805317626
+farthest_term **-1.0 = 0.12694143749280465
+self.tf = 32250.51234602394
+__
+CORRECTING
+point to trans id 330 
+new clust num: 0
+is_new? False 
+trans_points_nums: [69, 150, 87, 159, 312]
+real ser. length: 7
+clust_trans: 0
+boundary_points_number= 46
+bpn^-0.5 = 0.14744195615489714
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.31538894219392
+farthest_term **-1.0 = 0.1258485691996542
+self.tf = 25078.584655747203
+__
+New_TF= 25078.584655747203 
+Old_TF= 32250.51234602394
+CANCELED
+!!!!
+
+NUM_SER 136 
+CURRENT_MAX_LEN 4 
+boundary_points_number= 39
+bpn^-0.5 = 0.16012815380508713
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.928722805317626
+farthest_term **-1.0 = 0.12694143749280465
+self.tf = 32250.51234602394
+__
+CORRECTING
+point to trans id 226 
+new clust num: 1
+is_new? False 
+trans_points_nums: [37, 142, 226, 340]
+real ser. length: 4
+clust_trans: 1
+boundary_points_number= 46
+bpn^-0.5 = 0.14744195615489714
+mult.term **0.0 = 1.0
+mean_near **1.0 = 11.357538989088182
+farthest_term **-1.0 = 0.11669215865786378
+self.tf = 18865.264169363894
+__
+New_TF= 18865.264169363894 
+Old_TF= 32250.51234602394
+CANCELED
+!!!!
+
+NUM_SER 137 
+CURRENT_MAX_LEN 6 
+boundary_points_number= 39
+bpn^-0.5 = 0.16012815380508713
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.928722805317626
+farthest_term **-1.0 = 0.12694143749280465
+self.tf = 32250.51234602394
+__
+CORRECTING
+point to trans id 156 
+new clust num: 1
+is_new? False 
+trans_points_nums: [311, 152, 383, 329, 356]
+real ser. length: 6
+clust_trans: 1
+boundary_points_number= 44
+bpn^-0.5 = 0.15075567228888181
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.57886203923848
+farthest_term **-1.0 = 0.12508459562236174
+self.tf = 26549.315571799227
+__
+New_TF= 26549.315571799227 
+Old_TF= 32250.51234602394
+CANCELED
+!!!!
+
+NUM_SER 138 
+CURRENT_MAX_LEN 8 
+boundary_points_number= 39
+bpn^-0.5 = 0.16012815380508713
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.928722805317626
+farthest_term **-1.0 = 0.12694143749280465
+self.tf = 32250.51234602394
+__
+CORRECTING
+point to trans id 74 
+new clust num: 0
+is_new? False 
+trans_points_nums: [259, 232, 109, 253, 55, 106, 217]
+real ser. length: 8
+clust_trans: 0
+boundary_points_number= 55
+bpn^-0.5 = 0.13483997249264842
+mult.term **0.0 = 1.0
+mean_near **1.0 = 12.774134995105907
+farthest_term **-1.0 = 0.11658573303444322
+self.tf = 18934.01715916936
+__
+New_TF= 18934.01715916936 
+Old_TF= 32250.51234602394
+CANCELED
+!!!!
+
+NUM_SER 139 
+CURRENT_MAX_LEN 7 
+boundary_points_number= 39
+bpn^-0.5 = 0.16012815380508713
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.928722805317626
+farthest_term **-1.0 = 0.12694143749280465
+self.tf = 32250.51234602394
+__
+CORRECTING
+point to trans id 74 
+new clust num: 0
+is_new? False 
+trans_points_nums: [109, 253, 220, 103, 55, 53]
+real ser. length: 7
+clust_trans: 0
+boundary_points_number= 48
+bpn^-0.5 = 0.14433756729740643
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.557615042565489
+farthest_term **-1.0 = 0.11824037244799852
+self.tf = 23983.352789226075
+__
+New_TF= 23983.352789226075 
+Old_TF= 32250.51234602394
+CANCELED
+!!!!
+
+NUM_SER 140 
+CURRENT_MAX_LEN 6 
+boundary_points_number= 39
+bpn^-0.5 = 0.16012815380508713
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.928722805317626
+farthest_term **-1.0 = 0.12694143749280465
+self.tf = 32250.51234602394
+__
+CORRECTING
+point to trans id 156 
+new clust num: 1
+is_new? False 
+trans_points_nums: [185, 143, 311, 356]
+real ser. length: 6
+clust_trans: 1
+boundary_points_number= 44
+bpn^-0.5 = 0.15075567228888181
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.095479781389004
+farthest_term **-1.0 = 0.12726145783019605
+self.tf = 26115.757751292433
+__
+New_TF= 26115.757751292433 
+Old_TF= 32250.51234602394
+CANCELED
+!!!!
+
+NUM_SER 141 
+CURRENT_MAX_LEN 4 
+boundary_points_number= 39
+bpn^-0.5 = 0.16012815380508713
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.928722805317626
+farthest_term **-1.0 = 0.12694143749280465
+self.tf = 32250.51234602394
+__
+CORRECTING
+point to trans id 197 
+new clust num: 1
+is_new? False 
+trans_points_nums: [197, 179, 365, 245]
+real ser. length: 4
+clust_trans: 1
+boundary_points_number= 49
+bpn^-0.5 = 0.14285714285714285
+mult.term **0.0 = 1.0
+mean_near **1.0 = 14.120819226967813
+farthest_term **-1.0 = 0.12704041516122938
+self.tf = 24747.419374167323
+__
+New_TF= 24747.419374167323 
+Old_TF= 32250.51234602394
+CANCELED
+!!!!
+
+NUM_SER 142 
+CURRENT_MAX_LEN 8 
+boundary_points_number= 39
+bpn^-0.5 = 0.16012815380508713
+mult.term **0.0 = 1.0
+mean_near **1.0 = 15.928722805317626
+farthest_term **-1.0 = 0.12694143749280465
+self.tf = 32250.51234602394
+__
+CORRECTING
+point to trans id 57 
+new clust num: 2
+is_new? False 
+trans_points_nums: [252, 213, 135, 345, 228, 189, 267, 57]
+real ser. length: 8
+clust_trans: 2
+boundary_points_number= 55
+bpn^-0.5 = 0.13483997249264842
+mult.term **0.0 = 1.0
+mean_near **1.0 = 11.257508741329794
+farthest_term **-1.0 = 0.11892105706247423
+self.tf = 16895.59433376465
+__
+New_TF= 16895.59433376465 
+Old_TF= 32250.51234602394
+CANCELED
+!!!!
