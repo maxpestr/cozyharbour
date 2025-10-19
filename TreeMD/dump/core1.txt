@@ -1,0 +1,158 @@
+#include <pybind11/pybind11.h>
+#include <pybind11/numpy.h>
+#include <vector>
+#include <cmath>
+#include <cstdlib>
+
+namespace py = pybind11;
+
+struct Particle {
+    double x, y;
+    double vx, vy;
+    double ax, ay;
+    double m;
+};
+
+class Simulation {
+public:
+    Simulation(size_t N, double box_size, double G_, double m_, double dt_, double u_)
+        : L(box_size), G(G_), m(m_), dt(dt_), u(u_)
+    {
+        particles.resize(N);
+        init_random();
+    }
+
+    void step() {
+        // --- 1. вычисляем ускорения ---
+        std::vector<std::pair<double,double>> acc(particles.size(), {0.0, 0.0});
+
+        for (size_t i = 0; i < particles.size(); ++i) {
+            for (size_t j = i + 1; j < particles.size(); ++j) {
+                double dx = particles[j].x - particles[i].x;
+                double dy = particles[j].y - particles[i].y;
+                double r2 = dx*dx + dy*dy + 1e-6;
+                double r = std::sqrt(r2);
+                double F = G * particles[i].m * particles[j].m / r2;
+
+                double ax = F * dx / (r * particles[i].m);
+                double ay = F * dy / (r * particles[i].m);
+                acc[i].first  += ax;
+                acc[i].second += ay;
+                acc[j].first  -= ax;
+                acc[j].second -= ay;
+            }
+        }
+
+        // --- 2. Velocity-Verlet: полшага скорости + шаг координаты ---
+        for (size_t i = 0; i < particles.size(); ++i) {
+            particles[i].vx += 0.5 * acc[i].first * dt;
+            particles[i].vy += 0.5 * acc[i].second * dt;
+
+            particles[i].x += particles[i].vx * dt;
+            particles[i].y += particles[i].vy * dt;
+        }
+
+        // --- 3. пересчёт ускорений ---
+        std::vector<std::pair<double,double>> acc_new(particles.size(), {0.0, 0.0});
+        for (size_t i = 0; i < particles.size(); ++i) {
+            for (size_t j = i + 1; j < particles.size(); ++j) {
+                double dx = particles[j].x - particles[i].x;
+                double dy = particles[j].y - particles[i].y;
+                double r2 = dx*dx + dy*dy + 1e-6;
+                double r = std::sqrt(r2);
+                double F = G * particles[i].m * particles[j].m / r2;
+
+                double ax = F * dx / (r * particles[i].m);
+                double ay = F * dy / (r * particles[i].m);
+                acc_new[i].first  += ax;
+                acc_new[i].second += ay;
+                acc_new[j].first  -= ax;
+                acc_new[j].second -= ay;
+            }
+        }
+
+        // --- 4. полшага скорости ---
+        for (size_t i = 0; i < particles.size(); ++i) {
+            particles[i].vx += 0.5 * acc_new[i].first * dt;
+            particles[i].vy += 0.5 * acc_new[i].second * dt;
+
+            // отражения от стенок
+            if (particles[i].x < -L) {
+                particles[i].x = -L;
+                particles[i].vx = -particles[i].vx;
+            } else if (particles[i].x > L) {
+                particles[i].x = L;
+                particles[i].vx = -particles[i].vx;
+            }
+            if (particles[i].y < -L) {
+                particles[i].y = -L;
+                particles[i].vy = -particles[i].vy;
+            } else if (particles[i].y > L) {
+                particles[i].y = L;
+                particles[i].vy = -particles[i].vy;
+            }
+        }
+    }
+
+    py::array_t<double> get_positions() const {
+        py::array_t<double> arr({ (py::ssize_t)particles.size(), (py::ssize_t)2 });
+        auto buf = arr.mutable_unchecked<2>();
+        for (size_t i = 0; i < particles.size(); ++i) {
+            buf(i,0) = particles[i].x;
+            buf(i,1) = particles[i].y;
+        }
+        return arr;
+    }
+
+    py::tuple get_energy() const {
+        double E_kin = 0.0;
+        double E_pot = 0.0;
+
+        // кинетическая
+        for (const auto &p : particles) {
+            E_kin += 0.5 * p.m * (p.vx*p.vx + p.vy*p.vy);
+        }
+
+        // потенциальная
+        for (size_t i = 0; i < particles.size(); ++i) {
+            for (size_t j = i + 1; j < particles.size(); ++j) {
+                double dx = particles[j].x - particles[i].x;
+                double dy = particles[j].y - particles[i].y;
+                double r = std::sqrt(dx*dx + dy*dy + 1e-6);
+                E_pot -= G * particles[i].m * particles[j].m / r;
+            }
+        }
+
+        double E_total = E_kin + E_pot;
+        return py::make_tuple(E_total, E_kin, E_pot);
+    }
+
+private:
+    void init_random() {
+        for (auto &p : particles) {
+            p.x = 2.0 * L * (rand() / double(RAND_MAX) - 0.5);
+            p.y = 2.0 * L * (rand() / double(RAND_MAX) - 0.5);
+            p.vx = u * (rand() / double(RAND_MAX) - 0.5);
+            p.vy = u * (rand() / double(RAND_MAX) - 0.5);
+            p.ax = p.ay = 0.0;
+            p.m = m;
+        }
+    }
+
+    std::vector<Particle> particles;
+    double L;
+    double G;
+    double m;
+    double dt;
+    double u;
+};
+
+PYBIND11_MODULE(core, m) {
+    py::class_<Simulation>(m, "Simulation")
+        .def(py::init<size_t, double, double, double, double, double>(),
+             py::arg("N"), py::arg("box_size"), py::arg("G"),
+             py::arg("m"), py::arg("dt"), py::arg("u"))
+        .def("step", &Simulation::step)
+        .def("get_positions", &Simulation::get_positions)
+        .def("get_energy", &Simulation::get_energy);
+}
