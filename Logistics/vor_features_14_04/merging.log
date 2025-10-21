@@ -1,8 +1,0 @@
-INFO:__main__:Started
-INFO:__main__:num_merges: 2, Total clusters: 4
-INFO:__main__:Initial tf: 6606.981996138935
-INFO:__main__:Input min_tf_drop -0.09999999999999998
-INFO:__main__:merging data
-INFO:__main__:Stage 0, tf=6606.981996138935, clusters 3 and 1 merged
-INFO:__main__:Stage 1, tf=7181.114430144528, clusters 2 and 3 merged
-INFO:__main__:tf after mergings: 7181.114430144528 ,Initial tf: 6606.981996138935, old/new value: 1.0868978354021719 , accepted
